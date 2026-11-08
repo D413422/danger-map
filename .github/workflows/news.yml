@@ -2,7 +2,7 @@ name: News
 
 on:
   schedule:
-    - cron: "20 4 * * *"
+    - cron: "20 */3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,14 +24,16 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Зібрати новини
-        run: node scripts/fetch-news.mjs
-      - name: Закомітити data/news.json
+      - name: Зібрати новини і соцсигнали
+        run: |
+          node scripts/fetch-news.mjs
+          node scripts/fetch-social.mjs
+      - name: Закомітити стрічки
         continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
+          git add data/news.json data/social.json data/x_signals.json
           if git diff --cached --quiet; then
             echo "news.json без змін"
             exit 0

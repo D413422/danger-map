@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-11-08T19:43:32.347Z",
+  "from": "2004-01-01",
+  "to": "2026-12-31",
+  "ged": {
+    "version": "26.1",
+    "url": "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+    "license": "CC BY 4.0",
+    "citation": "Davies, Shawn, Therése Pettersson & Magnus Öberg (2026) Organized violence 1989–2025, and violent political protests. Journal of Peace Research. Sundberg, Ralph & Erik Melander (2013) Introducing the UCDP Georeferenced Event Dataset. Journal of Peace Research 50(4)."
+  },
+  "candidate": {
+    "version": "26.0.9",
+    "coverage": "січень–вересень 2026",
+    "url": "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv"
+  },
+  "wikipedia": "https://en.wikipedia.org/wiki/List_of_terrorist_incidents_in_2004",
+  "gtd": "Global Terrorism Database не включено: ліцензія забороняє розповсюдження. Посилання: https://www.start.umd.edu/gtd/",
+  "counts": {
+    "ucdp": 343363,
+    "candidate": 16633,
+    "wikipedia": 673,
+    "wikiSkipped": 37
+  },
+  "unmappedCountries": [],
+  "heatBytes": 1214473,
+  "homicideBytes": 74358,
+  "years": [
+    {
+      "year": 2004,
+      "events": 7643,
+      "bytes": 2322523,
+      "sources": {
+        "UCDP GED 26.1": 7599,
+        "Wikipedia: List of terrorist incidents": 44
+      }
+    },
+    {
+      "year": 2005,
+      "events": 6233,
+      "bytes": 1882370,
+      "sources": {
+        "UCDP GED 26.1": 6206,
+        "Wikipedia: List of terrorist incidents": 27
+      }
+    },
+    {
+      "year": 2006,
+      "events": 5722,
+      "bytes": 1785308,
+      "sources": {
+        "UCDP GED 26.1": 5684,
+        "Wikipedia: List of terrorist incidents": 38
+      }
+    },
+    {
+      "year": 2007,
+      "events": 7103,
+      "bytes": 2155969,
+      "sources": {
+        "UCDP GED 26.1": 7081,
+        "Wikipedia: List of terrorist incidents": 22
+      }
+    },
+    {
+      "year": 2008,
+      "events": 6839,
+      "bytes": 2118280,
+      "sources": {
+        "UCDP GED 26.1": 6790,
+        "Wikipedia: List of terrorist incidents": 49
+      }
+    },
+    {
+      "year": 2009,
+      "events": 7478,
+      "bytes": 2364575,
+      "sources": {
+        "UCDP GED 26.1": 7438,
+        "Wikipedia: List of terrorist incidents": 40
+      }
+    },
+    {
+      "year": 2010,
+      "events": 9173,
+      "bytes": 2781052,
+      "sources": {
+        "UCDP GED 26.1": 9139,
+        "Wikipedia: List of terrorist incidents": 34
+      }
+    },
+    {
+      "year": 2011,
+      "events": 7936,
+      "bytes": 2479875,
+      "sources": {
+        "UCDP GED 26.1": 7900,
+        "Wikipedia: List of terrorist incidents": 36
+      }
+    },
+    {
+      "year": 2012,
+      "events": 18634,
+      "bytes": 5874895,
+      "sources": {
+        "UCDP GED 26.1": 18601,
+        "Wikipedia: List of terrorist incidents": 33
+      }
+    },
+    {
+      "year": 2013,
+      "events": 24583,
+      "bytes": 7554030,
+      "sources": {
+        "UCDP GED 26.1": 24580,
+        "Wikipedia: List of terrorist incidents": 3
+      }
+    },
+    {
+      "year": 2014,
+      "events": 25967,
+      "bytes": 8328423,
+      "sources": {
+        "UCDP GED 26.1": 25962,
+        "Wikipedia: List of terrorist incidents": 5
+      }
+    },
+    {
+      "year": 2015,
+      "events": 19933,
+      "bytes": 6558843,
+      "sources": {
+        "UCDP GED 26.1": 19927,
+        "Wikipedia: List of terrorist incidents": 6
+      }
+    },
+    {
+      "year": 2016,
+      "events": 17429,
+      "bytes": 5746238,
+      "sources": {
+        "UCDP GED 26.1": 17416,
+        "Wikipedia: List of terrorist incidents": 13
+      }
+    },
+    {
+      "year": 2017,
+      "events": 16421,
+      "bytes": 5595333,
+      "sources": {
+        "UCDP GED 26.1": 16412,
+        "Wikipedia: List of terrorist incidents": 9
+      }
+    },
+    {
+      "year": 2018,
+      "events": 13718,
+      "bytes": 4659013,
+      "sources": {
+        "UCDP GED 26.1": 13646,
+        "Wikipedia: List of terrorist incidents": 72
+      }
+    },
+    {
+      "year": 2019,
+      "events": 13972,
+      "bytes": 4744206,
+      "sources": {
+        "UCDP GED 26.1": 13911,
+        "Wikipedia: List of terrorist incidents": 61
+      }
+    },
+    {
+      "year": 2020,
+      "events": 13510,
+      "bytes": 4409067,
+      "sources": {
+        "UCDP GED 26.1": 13484,
+        "Wikipedia: List of terrorist incidents": 26
+      }
+    },
+    {
+      "year": 2021,
+      "events": 17319,
+      "bytes": 5781369,
+      "sources": {
+        "UCDP GED 26.1": 17316,
+        "Wikipedia: List of terrorist incidents": 3
+      }
+    },
+    {
+      "year": 2022,
+      "events": 21022,
+      "bytes": 7081540,
+      "sources": {
+        "UCDP GED 26.1": 21013,
+        "Wikipedia: List of terrorist incidents": 9
+      }
+    },
+    {
+      "year": 2023,
+      "events": 27473,
+      "bytes": 9188962,
+      "sources": {
+        "UCDP GED 26.1": 27422,
+        "Wikipedia: List of terrorist incidents": 51
+      }
+    },
+    {
+      "year": 2024,
+      "events": 30121,
+      "bytes": 9926288,
+      "sources": {
+        "UCDP GED 26.1": 30066,
+        "Wikipedia: List of terrorist incidents": 55
+      }
+    },
+    {
+      "year": 2025,
+      "events": 25774,
+      "bytes": 8780846,
+      "sources": {
+        "UCDP GED 26.1": 25770,
+        "Wikipedia: List of terrorist incidents": 4
+      }
+    },
+    {
+      "year": 2026,
+      "events": 16666,
+      "bytes": 6904555,
+      "sources": {
+        "UCDP Candidate 26.0.9 (січень–вересень 2026)": 16633,
+        "Wikipedia: List of terrorist incidents": 33
+      }
+    }
+  ]
+}

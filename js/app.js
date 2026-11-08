@@ -190,6 +190,10 @@ function paintMap() {
   map.getSource('arcs').setData(arcCollection(selected, records));
   const iso = selected?.country || '';
   map.setFilter('country-selected', ['==', ['get', 'iso_a2'], iso || '___']);
+  const signals = [...(data.socialItems || []), ...(data.xItems || [])]
+    .map(signalPoint)
+    .filter((item) => item && (state.unofficial || item.id === state.selectedId));
+  if (map.getSource('signals')) map.getSource('signals').setData(newsPoints(signals));
   const visibility = state.showCountries ? 'visible' : 'none';
   for (const id of ['countries-fill', 'countries-line', 'country-labels', 'country-selected']) {
     if (map.getLayer(id)) map.setLayoutProperty(id, 'visibility', visibility);
@@ -264,6 +268,9 @@ function addLayers(world) {
   map.addSource('news', { type: 'geojson', data: EMPTY, cluster: true, clusterRadius: 46, clusterMaxZoom: 10 });
   map.addSource('focus', { type: 'geojson', data: EMPTY });
   map.addSource('arcs', { type: 'geojson', data: EMPTY });
+  map.addSource('heat', { type: 'geojson', data: EMPTY });
+  map.addSource('history', { type: 'geojson', data: EMPTY });
+  map.addSource('signals', { type: 'geojson', data: EMPTY });
   map.addLayer({
     id: 'clusters',
     type: 'circle',
@@ -362,6 +369,48 @@ function addLayers(world) {
     paint: { 'text-color': '#f7f3ea', 'text-halo-color': '#101614', 'text-halo-width': 1.3 }
   });
   map.addLayer({
+    id: 'history-heat',
+    type: 'heatmap',
+    source: 'heat',
+    paint: {
+      'heatmap-weight': ['interpolate', ['linear'], ['get', 'w'], 0, 0, 40, 1],
+      'heatmap-intensity': ['interpolate', ['linear'], ['zoom'], 0, 0.6, 6, 1.4],
+      'heatmap-radius': ['interpolate', ['linear'], ['zoom'], 0, 6, 4, 16, 7, 28],
+      'heatmap-opacity': 0.72,
+      'heatmap-color': [
+        'interpolate', ['linear'], ['heatmap-density'],
+        0, 'rgba(0,0,0,0)',
+        0.2, '#e0b423',
+        0.5, '#e07a32',
+        0.8, '#d4534c',
+        1, '#7a1020'
+      ]
+    }
+  });
+  map.addLayer({
+    id: 'history-points',
+    type: 'circle',
+    source: 'history',
+    paint: {
+      'circle-radius': ['interpolate', ['linear'], ['get', 'deaths'], 0, 3, 20, 6, 100, 10],
+      'circle-color': ['match', ['get', 'type'], 'терор', '#d4534c', '#e0b423'],
+      'circle-opacity': 0.85,
+      'circle-stroke-width': 0.6,
+      'circle-stroke-color': '#101614'
+    }
+  });
+  map.addLayer({
+    id: 'signal-points',
+    type: 'circle',
+    source: 'signals',
+    paint: {
+      'circle-radius': 5,
+      'circle-color': '#e07a6a',
+      'circle-stroke-width': 1.5,
+      'circle-stroke-color': '#101614'
+    }
+  });
+  map.addLayer({
     id: 'focus',
     type: 'circle',
     source: 'focus',
@@ -452,7 +501,7 @@ function setupMap(world) {
   });
   map.on('click', (event) => {
     const hits = map.queryRenderedFeatures(event.point, {
-      layers: existingLayers(['rec-points', 'news-points', 'clusters', 'news-clusters', 'focus'])
+      layers: existingLayers(['history-points', 'signal-points', 'rec-points', 'news-points', 'clusters', 'news-clusters', 'focus'])
     });
     const cluster = hits.find(isCluster);
     if (cluster) { expandCluster(cluster); return; }
@@ -485,6 +534,7 @@ function setupMap(world) {
   });
   map.on('mouseleave', () => { els.hover.hidden = true; });
   map.on('move', updateMode);
+  map.on('zoomend', () => refreshHistory());
   const failTimer = setTimeout(() => {
     if (!mapReady) els.status.textContent = 'Підкладка карти не відповідає. Списки й досьє працюють без тайлів. Потрібна мережа до OpenFreeMap.';
   }, 12000);
@@ -558,6 +608,9 @@ function renderDetails() {
       state.unknown.name_en ? h('p', { class: 'note', text: state.unknown.name_en }) : h('span')
     ]);
   }
+  const picked = lookup(state.selectedId);
+  if (picked?.platform) return renderSignal(picked);
+  if (picked?.source && picked?.sourceUrl) return renderHistory(picked);
   const news = newsItems.find((item) => item.id === state.selectedId);
   if (news) return renderNews(news);
   const record = records.find((item) => item.id === state.selectedId) || records[0];
@@ -584,7 +637,8 @@ function renderDetails() {
   if (record.avoid) bits.push(h('p', { class: 'avoid', text: `Практично: ${record.avoid}` }));
   if (record.kind === 'країна') {
     const level = record.advisory == null ? 'немає даних' : `${record.advisory} · ${['', 'звичайна обережність', 'підвищена обережність', 'переглянути поїздку', 'не подорожувати'][record.advisory]}`;
-    bits.push(h('p', { class: 'note', text: `Рівень на мапі: ${level}.` }));
+    bits.push(h('p', { class: 'note', text: `Рівень на мапі: ${level}. Кольори країн — поточний знімок, не історичний рівень.` }));
+    bits.push(homicideChart(record.country));
   }
   bits.push(h('h3', { text: 'Джерела' }), linkList(record.sources || []));
   if (record.links?.length) {
@@ -633,6 +687,59 @@ function renderNews(item) {
   ]);
 }
 
+function homicideChart(code) {
+  const series = (data.homicide?.series?.[code] || []).filter((point) => point.year >= 2004);
+  if (!series.length) return h('p', { class: 'note', text: 'У ряді UNODC для цієї країни немає значень з 2004 року.' });
+  const width = 320;
+  const height = 110;
+  const min = Math.min(...series.map((point) => point.rate));
+  const max = Math.max(...series.map((point) => point.rate));
+  const span = max - min || 1;
+  const coords = series.map((point, index) => {
+    const x = 28 + (index / Math.max(series.length - 1, 1)) * (width - 36);
+    const y = 12 + (1 - (point.rate - min) / span) * (height - 28);
+    return `${x},${y}`;
+  });
+  const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('viewBox', `0 0 ${width} ${height}`);
+  svg.setAttribute('class', 'chart');
+  svg.innerHTML = `<polyline fill="none" stroke="#e0b423" stroke-width="2" points="${coords.join(' ')}" />
+    <text x="4" y="14">${max.toFixed(1)}</text><text x="4" y="${height - 8}">${min.toFixed(1)}</text>
+    <text x="28" y="${height - 2}">${series[0].year}</text><text x="${width - 36}" y="${height - 2}">${series[series.length - 1].year}</text>`;
+  const box = h('div', {}, [
+    h('h3', { text: 'Умисні вбивства на 100 тис., UNODC' }),
+    svg,
+    h('p', { class: 'note', text: 'Ряд UNODC у передруку Our World in Data. Це не прогноз і не воєнні втрати.' })
+  ]);
+  const link = safeHttpUrl(data.homicide?.sourceUrl);
+  if (link) box.append(h('a', { href: link, target: '_blank', rel: 'noreferrer noopener' }, ['Портал UNODC']));
+  return box;
+}
+
+function renderHistory(record) {
+  return h('div', {}, [
+    h('p', { class: 'kicker', text: `${record.type} · історичний шар` }),
+    h('h2', { text: record.title }),
+    h('p', { class: 'meta' }, [formatDate(record.date), h('br'), record.country || 'країну не зіставлено']),
+    h('div', { class: 'badge' }, [h('i', { style: 'background:#3ecf8e' }), record.confidence || 'підтверджено']),
+    record.deaths != null ? h('p', { class: 'prose', text: `Загиблі за джерелом: ${record.deaths}.` }) : h('p', { class: 'note', text: 'Джерело не подало кількість загиблих.' }),
+    h('p', { class: 'note', text: record.source }),
+    safeHttpUrl(record.sourceUrl) ? h('p', {}, [h('a', { href: record.sourceUrl, target: '_blank', rel: 'noreferrer noopener' }, ['Відкрити джерело'])]) : h('span')
+  ]);
+}
+
+function renderSignal(item) {
+  const geo = item.geocode;
+  return h('div', {}, [
+    h('p', { class: 'kicker', text: `${item.platform} · неофіційний сигнал` }),
+    h('h2', { text: item.text }),
+    h('p', { class: 'meta' }, [when(item.published), h('br'), item.author || '']),
+    h('div', { class: 'badge' }, [h('i', { style: 'background:#e07a6a' }), 'неперевірений сигнал']),
+    h('p', { class: 'prose', text: geo ? `Приблизна прив’язка: ${geo.place}. Це згадка в тексті, не координати події.` : 'У тексті немає міста чи країни з довідника.' }),
+    safeHttpUrl(item.url) ? h('p', {}, [h('a', { href: item.url, target: '_blank', rel: 'noreferrer noopener' }, ['Відкрити допис'])]) : h('span')
+  ]);
+}
+
 function renderToday() {
   const box = h('div', {}, [
     h('h2', { text: `Увага на ${formatDate(data.meta.asOf)}` }),
@@ -674,6 +781,15 @@ function renderNewsList() {
     box.append(recordButton(item, `${formatDate(item.date)} · ${item.source || originLabel(item.origin)}${where}`));
   }
   if (items.length > 80) box.append(h('p', { class: 'note', text: `Показано 80 із ${items.length}. Звузьте пошук або дати.` }));
+  const signals = [...(data.socialItems || []), ...(data.xItems || [])].filter((item) => {
+    if (state.q && !`${item.text} ${item.author || ''}`.toLocaleLowerCase('uk').includes(state.q.toLocaleLowerCase('uk'))) return false;
+    return !item.date || (item.date >= state.from && item.date <= state.to);
+  });
+  box.append(h('h3', { text: `Неофіційні сигнали · ${signals.length}` }));
+  if (!signals.length) box.append(h('p', { class: 'note', text: 'У цьому місяці відфільтрованих сигналів немає. X з’явиться, коли ви надішлете data/x_signals.json.' }));
+  for (const item of signals.slice(0, 40)) {
+    box.append(recordButton({ id: item.id, title: item.text }, `${item.platform} · ${item.author || ''} · ${formatDate(item.date)}`));
+  }
   return box;
 }
 
@@ -697,7 +813,8 @@ function renderHelp() {
     'Колір країни — туристичний рівень США від 1 до 4, якщо він є у файлі країн. Сірий колір і слова «немає даних» означають, що числового рівня в наборі немає. Це не оцінка «безпечно».',
     'Колір мітки події — це підтвердження: підтверджено, одне джерело або неперевірений сигнал.',
     'Шар «Неофіційні сигнали» зібраний для постів X, каналів Telegram і місцевих новин. На мапі вони завжди підписані як неперевірені.',
-    'Шар «Новини» наповнює щоденний скрипт із RSS Google News і GDELT. Заголовок не переписується. Точка з’являється лише тоді, коли в заголовку знайдено місто або країну з довідника.',
+    'Шар «Історія» — події UCDP GED і списки Вікіпедії з 2004 року. На віддаленні це щільність, наблизьте карту, щоб побачити точки місяця. Global Terrorism Database сюди не входить.',
+    'Шар «Новини» бере RSS Google News і GDELT кожні три години. «Неофіційні сигнали» — Telegram, Reddit, Mastodon і Bluesky, якщо джерело відповіло, плюс файл X, який ви надсилаєте окремо. Усі вони неперевірені.',
     'Дуга з’єднує пов’язані записи й має коротке пояснення, чому зв’язок проведено. Повний текст є в досьє. Фіолетовий пунктир — припущення. Географія не означає спільного виконавця.',
     'Ступені BRAVO і CHARLIE в Польщі — превентивний режим, не повідомлення про атаку в Кракові.',
     'Назви країн на глобусі українські. Підписи вулиць на великому масштабі бере OpenStreetMap місцевою мовою. Контури — узагальнення Natural Earth, не юридичний кордон.',
@@ -728,25 +845,36 @@ function renderPanel() {
   }
 }
 
+function lookup(id) {
+  return data.records.find((item) => item.id === id)
+    || data.newsItems.find((item) => item.id === id)
+    || (data.socialItems || []).find((item) => item.id === id)
+    || (data.xItems || []).find((item) => item.id === id)
+    || (data.monthEvents || []).find((item) => item.id === id)
+    || null;
+}
+
 function currentTitle() {
-  const { records, newsItems, state } = data;
+  const { state } = data;
   if (state.unknown) return state.unknown.name_uk || 'Немає даних';
-  return newsItems.find((item) => item.id === state.selectedId)?.title
-    || records.find((record) => record.id === state.selectedId)?.title
-    || 'Оберіть мітку';
+  const item = lookup(state.selectedId);
+  return item?.title || item?.text || 'Оберіть мітку';
 }
 
 function paintPeek() {
   const { records, newsItems, state } = data;
-  const record = records.find((item) => item.id === state.selectedId);
-  const news = newsItems.find((item) => item.id === state.selectedId);
+  const item = lookup(state.selectedId);
   const detail = state.unknown
     ? 'немає даних'
-    : news
-      ? 'новини · одне джерело'
-      : record
-        ? `${TYPE_LABEL[record.type] || record.type} · ${shownConfidence(record)}`
-        : '';
+    : item?.platform
+      ? `${item.platform} · неперевірений сигнал`
+      : item?.source
+        ? `${item.type || 'історія'} · підтверджено`
+        : item?.kind
+          ? `${TYPE_LABEL[item.type] || item.type} · ${shownConfidence(item)}`
+          : item
+            ? 'новини · одне джерело'
+            : '';
   els.peek.replaceChildren(h('strong', { text: currentTitle() }), h('span', { text: detail }));
 }
 
@@ -758,16 +886,111 @@ function paintControls() {
     button.classList.toggle('on', on);
     button.setAttribute('aria-pressed', String(on));
   }
-  for (const key of ['unofficial', 'news', 'showCountries', 'showCountryDots', 'persistent', 'futureDates', 'linksOnly']) {
+  for (const key of ['history', 'unofficial', 'news', 'showCountries', 'showCountryDots', 'persistent', 'futureDates', 'linksOnly']) {
     const button = data.chips[key];
     button.classList.toggle('on', state[key]);
     button.setAttribute('aria-pressed', String(state[key]));
   }
-  data.count.textContent = `У фільтрі: ${data.visibleCount || 0}`;
-  data.fromLabel.textContent = formatDate(state.from);
-  data.toLabel.textContent = formatDate(state.to);
-  if (document.activeElement !== data.fromInput) data.fromInput.value = String(dayNumber(state.from));
-  if (document.activeElement !== data.toInput) data.toInput.value = String(dayNumber(state.to));
+  data.count.textContent = `У фільтрі зараз: ${data.visibleCount || 0}`;
+  if (data.fromLabel) data.fromLabel.textContent = data.state.month;
+  const historyTotal = (data.historyIndex?.years || []).reduce((sum, year) => sum + year.events, 0);
+  const signalTotal = (data.socialItems || []).length + (data.xItems || []).length + data.records.filter(isUnofficial).length;
+  if (data.chips.history) data.chips.history.textContent = `Історія · ${historyTotal}`;
+  if (data.chips.unofficial) data.chips.unofficial.textContent = `Неофіційні сигнали · ${signalTotal}`;
+  if (data.chips.news) data.chips.news.textContent = `Новини · ${data.newsItems.length}`;
+  if (data.monthInput && document.activeElement !== data.monthInput) data.monthInput.value = String(monthIndex(data.state.month));
+  if (data.fresh) {
+    const bits = [
+      `Історія: ${data.historyIndex?.generatedAt ? when(data.historyIndex.generatedAt) : 'немає'}`,
+      `Новини: ${data.newsFile?.generatedAt ? when(data.newsFile.generatedAt) : 'немає'}`,
+      `Соцмережі: ${data.socialFile?.generatedAt ? when(data.socialFile.generatedAt) : 'немає'}`,
+      `X: ${data.xFile?.generatedAt ? when(data.xFile.generatedAt) : 'постів ще немає'}`
+    ];
+    data.fresh.textContent = bits.join(' · ');
+  }
+}
+
+function signalPoint(item) {
+  const geo = item?.geocode;
+  if (!geo || !Number.isFinite(geo.lat) || !Number.isFinite(geo.lon)) return null;
+  return { ...item, lat: geo.lat, lon: geo.lon, title: item.text || item.title || 'Сигнал', place: geo.place || '' };
+}
+
+function monthIndex(ym) {
+  const [year, month] = ym.split('-').map(Number);
+  return (year - 2004) * 12 + (month - 1);
+}
+
+function monthAt(index) {
+  const year = 2004 + Math.floor(index / 12);
+  const month = (index % 12) + 1;
+  return `${year}-${String(month).padStart(2, '0')}`;
+}
+
+function applyMonth(ym) {
+  const [year, month] = ym.split('-').map(Number);
+  const last = new Date(Date.UTC(year, month, 0)).getUTCDate();
+  data.state.month = ym;
+  data.state.from = `${ym}-01`;
+  data.state.to = `${ym}-${String(last).padStart(2, '0')}`;
+}
+
+let historyToken = 0;
+async function refreshHistory() {
+  if (!mapReady || !map.getSource('heat')) return;
+  const token = ++historyToken;
+  const on = data.state.history !== false;
+  if (map.getLayer('history-heat')) map.setLayoutProperty('history-heat', 'visibility', on ? 'visible' : 'none');
+  if (map.getLayer('history-points')) map.setLayoutProperty('history-points', 'visibility', on ? 'visible' : 'none');
+  if (!on) {
+    map.getSource('heat').setData(EMPTY);
+    map.getSource('history').setData(EMPTY);
+    return;
+  }
+  const cells = data.heat?.[data.state.month] || [];
+  map.getSource('heat').setData({
+    type: 'FeatureCollection',
+    features: cells.map(([lat, lon, count, deaths]) => ({
+      type: 'Feature',
+      geometry: { type: 'Point', coordinates: [lon, lat] },
+      properties: { w: count, deaths }
+    }))
+  });
+  if (map.getZoom() < 5.5) {
+    map.getSource('history').setData(EMPTY);
+    data.monthEvents = [];
+    data.monthTotal = cells.reduce((sum, cell) => sum + cell[2], 0);
+    if (data.capNote) data.capNote.textContent = `Щільність за ${data.state.month}: ${data.monthTotal}. Наблизьте карту, щоб побачити точки.`;
+    return;
+  }
+  const year = data.state.month.slice(0, 4);
+  try {
+    if (data.yearLoaded !== year) {
+      data.yearEvents = await loadJson(`data/history/${year}.json`);
+      data.yearLoaded = year;
+    }
+  } catch {
+    data.yearEvents = [];
+    data.yearLoaded = year;
+  }
+  if (token !== historyToken) return;
+  let rows = (data.yearEvents || []).filter((row) => row.date.startsWith(data.state.month));
+  data.monthTotal = rows.length;
+  if (rows.length > 2000) rows = [...rows].sort((a, b) => (b.deaths || 0) - (a.deaths || 0)).slice(0, 2000);
+  data.monthEvents = rows;
+  map.getSource('history').setData({
+    type: 'FeatureCollection',
+    features: rows.map((row) => ({
+      type: 'Feature',
+      geometry: { type: 'Point', coordinates: [row.lon, row.lat] },
+      properties: { id: row.id, title: row.title, type: row.type, deaths: row.deaths || 0 }
+    }))
+  });
+  if (data.capNote) {
+    data.capNote.textContent = data.monthTotal > 2000
+      ? `Точки ${data.state.month}: 2000 із ${data.monthTotal}, спершу з більшою кількістю загиблих. Щільність рахує всі.`
+      : `Подій ${data.state.month}: ${data.monthTotal}.`;
+  }
 }
 
 function countVisible() {
@@ -785,13 +1008,15 @@ function paint() {
   paintPeek();
   renderPanel();
   updateMode();
+  refreshHistory();
 }
 
 function select(id, { flyTo = true, hash = true } = {}) {
-  if (!data.records.some((record) => record.id === id) && !data.newsItems.some((item) => item.id === id)) return;
+  const item = lookup(id);
+  if (!item) return;
   data.state.selectedId = id;
   data.state.unknown = null;
-  data.state.panel = data.newsItems.some((item) => item.id === id) && data.state.panel === 'news' ? 'news' : 'details';
+  data.state.panel = (item.platform || item.origin) && data.state.panel === 'news' ? 'news' : 'details';
   if (hash) {
     const next = `#${encodeURIComponent(id)}`;
     if (location.hash !== next) history.replaceState(null, '', next);
@@ -800,10 +1025,9 @@ function select(id, { flyTo = true, hash = true } = {}) {
   if (mobileQuery.matches && els.sheet.dataset.snap === 'peek') setSnap('half');
   paint();
   if (!flyTo || !map) return;
-  const record = data.records.find((item) => item.id === id);
-  const news = data.newsItems.find((item) => item.id === id);
-  const lon = record?.lon ?? news?.lon;
-  const lat = record?.lat ?? news?.lat;
+  const geo = item.geocode;
+  const lon = item.lon ?? geo?.lon;
+  const lat = item.lat ?? geo?.lat;
   if (Number.isFinite(lon) && Number.isFinite(lat)) {
     const zoom = map.getZoom();
     fly([lon, lat], zoom < 2.4 ? 3.6 : zoom);
@@ -837,7 +1061,12 @@ function buildShell() {
       paint();
     }));
   }
-  const unofficialCount = records.filter(isUnofficial).length;
+  const historyTotal = (data.historyIndex?.years || []).reduce((sum, year) => sum + year.events, 0);
+  layers.append(chip('history', `Історія · ${historyTotal}`, state.history !== false, () => {
+    state.history = state.history === false;
+    paint();
+  }));
+  const unofficialCount = records.filter(isUnofficial).length + (data.socialItems || []).length + (data.xItems || []).length;
   layers.append(chip('unofficial', `Неофіційні сигнали · ${unofficialCount}`, state.unofficial, () => {
     state.unofficial = !state.unofficial;
     paint();
@@ -872,6 +1101,7 @@ function buildShell() {
   toggle('futureDates', 'Календар наперед', 'futureDates');
   toggle('linksOnly', 'Лише зв’язки', 'linksOnly');
   data.count = h('span', { class: 'note', text: '' });
+  data.fresh = h('p', { class: 'note', text: '' });
   els.filters.replaceChildren(
     layers,
     h('div', { class: 'row' }, [
@@ -879,7 +1109,8 @@ function buildShell() {
       h('label', { class: 'field' }, ['Підтвердження', confidence]),
       data.count
     ]),
-    toggles
+    toggles,
+    data.fresh
   );
   for (const [id, label] of TABS) {
     const button = h('button', { type: 'button', class: 'tab', role: 'tab', 'data-tab': id, text: label });
@@ -891,31 +1122,43 @@ function buildShell() {
     });
     els.tabs.append(button);
   }
-  const min = dayNumber(data.bounds.min);
-  const max = dayNumber(data.bounds.max);
-  const from = h('input', { type: 'range', min: String(min), max: String(max), value: String(dayNumber(state.from)), 'aria-label': 'Початок періоду' });
-  const to = h('input', { type: 'range', min: String(min), max: String(max), value: String(dayNumber(state.to)), 'aria-label': 'Кінець періоду' });
-  data.fromInput = from;
-  data.toInput = to;
-  data.fromLabel = h('span', { text: formatDate(state.from) });
-  data.toLabel = h('span', { text: formatDate(state.to) });
-  const clamp = () => {
-    state.from = dateAt(Number(from.value));
-    state.to = dateAt(Number(to.value));
-    if (state.from > state.to) {
-      if (document.activeElement === from) state.to = state.from;
-      else state.from = state.to;
+  const maxMonth = monthIndex((meta.asOf || '2026-11-08').slice(0, 7));
+  const month = h('input', { type: 'range', min: '0', max: String(maxMonth), value: String(monthIndex(state.month)), 'aria-label': 'Місяць історії' });
+  data.monthInput = month;
+  data.fromLabel = h('span', { text: state.month });
+  data.capNote = h('span', { text: '' });
+  const play = h('button', { type: 'button', class: 'tool', id: 'play', text: 'Грати' });
+  let playing = 0;
+  play.addEventListener('click', () => {
+    if (playing) {
+      clearInterval(playing);
+      playing = 0;
+      play.textContent = 'Грати';
+      return;
     }
+    play.textContent = 'Пауза';
+    playing = setInterval(() => {
+      const next = monthIndex(state.month) + 1;
+      month.value = String(next > maxMonth ? 0 : next);
+      month.dispatchEvent(new Event('input'));
+      if (Number(month.value) === maxMonth) {
+        clearInterval(playing);
+        playing = 0;
+        play.textContent = 'Грати';
+      }
+    }, reduceMotion ? 1200 : 700);
+  });
+  month.addEventListener('input', () => {
+    applyMonth(monthAt(Number(month.value)));
+    data.fromLabel.textContent = state.month;
     paint();
-  };
-  from.addEventListener('input', clamp);
-  to.addEventListener('input', clamp);
+  });
   data.mode = h('span', { text: 'Вигляд: Глобус' });
   els.timeline.replaceChildren(
-    h('p', {}, ['Період: ', data.fromLabel, ' — ', data.toLabel]),
-    from,
-    to,
-    h('div', { class: 'scale' }, [h('span', { text: formatDate(data.bounds.min) }), data.mode, h('span', { text: formatDate(data.bounds.max) })])
+    h('p', {}, ['Місяць: ', data.fromLabel, ' ', play]),
+    month,
+    h('div', { class: 'scale' }, [h('span', { text: 'січень 2004' }), data.mode, h('span', { text: meta.asOf.slice(0, 7) })]),
+    data.capNote
   );
   const tool = (label, action) => {
     const button = h('button', { type: 'button', class: 'tool', text: label });
@@ -962,17 +1205,25 @@ function readHash() {
 
 async function main() {
   try {
-    const [meta, countries, stored, editorial, world, centroids, newsFile] = await Promise.all([
+    const [meta, countries, stored, editorial, world, centroids, newsFile, historyIndex, heat, homicide, socialFile, xFile] = await Promise.all([
       loadJson('data/meta.json'),
       loadJson('data/countries.json'),
       loadJson('data/records.json'),
       loadJson('data/links.json'),
       loadJson('data/world.geojson'),
       loadJson('data/centroids.json'),
-      loadJson('data/news.json')
+      loadJson('data/news.json'),
+      loadJson('data/history/index.json'),
+      loadJson('data/history/heat.json'),
+      loadJson('data/homicide.json'),
+      loadJson('data/social.json').catch(() => ({ items: [], sources: [] })),
+      loadJson('data/x_signals.json').catch(() => ({ items: [] }))
     ]);
     const records = attachLinks(buildRecords(countries, stored, meta), editorial);
     const newsItems = Array.isArray(newsFile.items) ? newsFile.items : [];
+    const socialItems = Array.isArray(socialFile) ? socialFile : (socialFile.items || []);
+    const xItems = Array.isArray(xFile) ? xFile : (xFile.items || []);
+    const month = (meta.asOf || '2026-11-08').slice(0, 7);
     let min = meta.from;
     let max = meta.to;
     for (const item of newsItems) {
@@ -985,6 +1236,13 @@ async function main() {
       records,
       newsFile,
       newsItems,
+      socialFile,
+      socialItems,
+      xFile,
+      xItems,
+      historyIndex,
+      heat,
+      homicide,
       world,
       centroids,
       byCode: new Map(countries.map((row) => [row.code, row])),
@@ -996,8 +1254,10 @@ async function main() {
         news: true,
         confidence: 'Усі',
         q: '',
-        from: meta.from,
-        to: meta.to,
+        month,
+        history: true,
+        from: `${month}-01`,
+        to: meta.asOf,
         persistent: true,
         futureDates: true,
         showCountries: true,
@@ -1008,6 +1268,7 @@ async function main() {
         unknown: null
       }
     };
+    applyMonth(data.state.month);
     readHash();
     buildShell();
     paint();

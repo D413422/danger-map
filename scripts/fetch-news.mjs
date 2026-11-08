@@ -184,13 +184,15 @@ export function loadGazetteer(centroids, cities) {
 
 export function geocode(title, gazetteer) {
   if (!title || !gazetteer) return null;
-  for (const row of gazetteer.cityAliases) {
-    if (row.pattern.test(title)) return row;
-  }
-  for (const row of gazetteer.countryAliases) {
-    if (row.pattern.test(title)) return row;
-  }
-  return null;
+  const folded = title.toLocaleLowerCase('uk');
+  const hit = (rows) => {
+    for (const row of rows) {
+      if (!folded.includes(row.alias.toLocaleLowerCase('uk'))) continue;
+      if (row.pattern.test(title)) return row;
+    }
+    return null;
+  };
+  return hit(gazetteer.cityAliases) || hit(gazetteer.countryAliases);
 }
 
 function safeLink(value) {

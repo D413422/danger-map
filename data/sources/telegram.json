@@ -1,0 +1,22 @@
+[
+  {"username": "suspilnenews", "lang": "uk", "name": "СУСПІЛЬНЕ НОВИНИ"},
+  {"username": "hromadske", "lang": "uk", "name": "Hromadske"},
+  {"username": "espresotv", "lang": "uk", "name": "espreso.tv"},
+  {"username": "tsn_ua", "lang": "uk", "name": "TSN"},
+  {"username": "dw_ukraine", "lang": "uk", "name": "DW Україна"},
+  {"username": "kyivindependent", "lang": "en", "name": "The Kyiv Independent"},
+  {"username": "deepstate_ua", "lang": "uk", "name": "DeepStateUA"},
+  {"username": "generalstaffzsu", "lang": "uk", "name": "Генеральний штаб ЗСУ"},
+  {"username": "informnapalm", "lang": "uk", "name": "InformNapalm"},
+  {"username": "rmf24", "lang": "pl", "name": "RMF24"},
+  {"username": "notesfrompoland", "lang": "en", "name": "Notes from Poland"},
+  {"username": "bbcworld", "lang": "en", "name": "BBC News (World)"},
+  {"username": "france24english", "lang": "en", "name": "France 24 English"},
+  {"username": "aljazeera", "lang": "en", "name": "Al Jazeera"},
+  {"username": "bbcrussian", "lang": "ru", "name": "BBC News Russian"},
+  {"username": "currenttimetv", "lang": "ru", "name": "Настоящее Время"},
+  {"username": "meduzalive", "lang": "ru", "name": "Медуза — LIVE"},
+  {"username": "radiosvoboda", "lang": "ru", "name": "Radio Svoboda"},
+  {"username": "wartranslated", "lang": "en", "name": "WarTranslated"},
+  {"username": "rian_ru", "lang": "ru", "name": "РИА Новости"}
+]
