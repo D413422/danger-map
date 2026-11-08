@@ -9,7 +9,6 @@ permissions:
   contents: write
   pages: write
   id-token: write
-  administration: write
 
 concurrency:
   group: pages-news
