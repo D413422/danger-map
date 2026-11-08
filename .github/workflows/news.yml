@@ -4,12 +4,6 @@ on:
   schedule:
     - cron: "20 4 * * *"
   workflow_dispatch:
-  # One push of this file starts a fetch when workflow_dispatch is unavailable
-  # to the integration token. Removed again after that run is queued.
-  push:
-    branches: [main]
-    paths:
-      - .github/workflows/news.yml
 
 permissions:
   contents: write
