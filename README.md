@@ -170,12 +170,12 @@ node scripts/fetch-news.mjs
 
 Щоб коміт новин проходив, у репозиторії має бути дозволено запис для Actions: Settings → Actions → General → Workflow permissions → Read and write permissions.
 
-Щоб з’явилась адреса Pages, один раз увімкніть джерело GitHub Actions:
+Токен workflow не може сам створити сайт Pages: GitHub відповідає `403 Resource not accessible by integration`. Один раз увімкніть джерело вручну:
 
 1. Відкрийте репозиторій на GitHub.
 2. Settings → Pages.
 3. У блоці Build and deployment поле Source поставте **GitHub Actions** (не Deploy from a branch).
-4. Збережіть. Якщо workflow ще не зелений, відкрийте Actions, оберіть Pages і натисніть Run workflow.
+4. Збережіть. Відкрийте Actions → Pages, оберіть останній запуск і натисніть Re-run jobs. Поки джерело не GitHub Actions, крок Configure Pages падає і сайт не з’являється.
 
 Після успішного деплою сайт стоїть на <https://d413422.github.io/danger-map/>.
 
