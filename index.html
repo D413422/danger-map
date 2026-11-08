@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Мапа ризиків і сигналів для життя в Кракові. Показує рівні ризику та джерела, не передбачає конкретні атаки.">
+  <meta name="theme-color" content="#101614">
+  <title>Мапа ризиків</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,560;8..60,650&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="vendor/maplibre-gl.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div id="app">
+    <header id="top">
+      <div class="brand">
+        <p class="eyebrow">Краків · ситуаційна довідка</p>
+        <h1>Мапа ризиків</h1>
+        <p id="asof" class="asof"></p>
+      </div>
+      <p class="honesty">Мапа показує рівні ризику й сигнали з джерел. Вона не передбачає конкретних атак і не замінює повідомлення служб.</p>
+    </header>
+    <div id="filter-host"></div>
+    <div id="map-wrap">
+      <div id="map" role="application" aria-label="Глобус ризиків. Тягніть, щоб рухати, щипок або коліщатко змінюють масштаб. Усі мітки є також у списку."></div>
+      <div id="tools"></div>
+      <p id="map-status" role="status">Завантаження карти…</p>
+      <details id="legend">
+        <summary>Легенда</summary>
+        <p>Країна</p>
+        <ul>
+          <li><i class="swatch r1"></i>1 · звичайна обережність</li>
+          <li><i class="swatch r2"></i>2 · підвищена обережність</li>
+          <li><i class="swatch r3"></i>3 · переглянути поїздку</li>
+          <li><i class="swatch r4"></i>4 · не подорожувати</li>
+          <li><i class="swatch r0"></i>немає даних</li>
+        </ul>
+        <p>Мітка</p>
+        <ul>
+          <li><i class="dot ok"></i>підтверджено</li>
+          <li><i class="dot one"></i>одне джерело</li>
+          <li><i class="dot raw"></i>неперевірений сигнал</li>
+          <li><i class="dot news"></i>новини</li>
+          <li><i class="arc"></i>зв’язок · пунктир фіолетовий — припущення</li>
+        </ul>
+      </details>
+      <div id="hovercard" hidden></div>
+    </div>
+    <aside id="sheet" data-snap="peek" aria-label="Досьє">
+      <button id="handle" type="button" aria-label="Розгорнути або згорнути панель">
+        <span></span>
+      </button>
+      <div id="peek"></div>
+      <div id="timeline"></div>
+      <div id="sheet-scroll">
+        <div id="filters"></div>
+        <div id="tabs" role="tablist"></div>
+        <div id="panel"></div>
+      </div>
+    </aside>
+  </div>
+  <div id="live" class="sr" aria-live="polite"></div>
+  <script src="vendor/maplibre-gl.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

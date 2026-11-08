@@ -1,0 +1,15 @@
+{
+  "asOf": "2026-11-08",
+  "zone": "Europe/Warsaw",
+  "from": "2026-10-10",
+  "to": "2027-01-07",
+  "advisory": "https://travel.state.gov/en/international-travel/travel-advisories.html",
+  "homicide": "https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate",
+  "previousPage": "https://cursor.com/canvas/store-73a260d9-69e4-4aa0-8654-93a8de86f5f8/0a3571bd-c41a-418d-b186-c1445664cfb9",
+  "todayImportant": [
+    "t-poland",
+    "u-warsaw",
+    "l-krakow",
+    "i-arkea"
+  ]
+}

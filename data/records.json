@@ -1,0 +1,314 @@
+[
+  {
+    "id": "i-guatemala",
+    "title": "Збройний напад у Ріо-Ондо",
+    "date": "2026-11-06",
+    "dateKind": "дата події",
+    "place": "Ріо-Ондо, Гватемала",
+    "lat": 15.04,
+    "lon": -89.58,
+    "type": "кримінал",
+    "confidence": "підтверджено",
+    "description": "Загинули депутат і троє поліцейських. Reuters цитує президента та партію депутата. Мотив і виконавців не встановлено; не називаємо терактом.",
+    "sources": [
+      "https://www.investing.com/news/world-news/guatemalan-lawmaker-three-police-officers-killed-in-armed-attack-5009917"
+    ],
+    "kind": "подія",
+    "sourceKind": "медіа",
+    "links": []
+  },
+  {
+    "id": "i-tanker",
+    "title": "Вибух на танкері MT Velos Sapphire",
+    "date": "2026-11-05",
+    "dateKind": "дата події",
+    "place": "Перська затока; точка умовна, не координати удару",
+    "lat": 26.5,
+    "lon": 51.6,
+    "type": "війни",
+    "confidence": "одне джерело",
+    "description": "Один моряк загинув. За Reuters, менеджер судна припускає ракетний удар. Причина вибуху не підтверджена незалежно; судно доставили до Бахрейну.",
+    "sources": [
+      "https://www.reuters.com/5f374b32b07b/world/one-seafarer-killed-missile-attack-tanker-gulf-2026-11-06/"
+    ],
+    "country": "BH",
+    "kind": "подія",
+    "sourceKind": "медіа",
+    "links": []
+  },
+  {
+    "id": "i-arkea",
+    "title": "Кібератака на Crédit Mutuel Arkéa",
+    "date": "2026-11-04",
+    "dateKind": "дата оприлюднення; дата проникнення не встановлена",
+    "place": "Франція; Брест як опорна точка банку, не місце хакера",
+    "lat": 48.39,
+    "lon": -4.49,
+    "type": "кібер/банки",
+    "confidence": "підтверджено",
+    "description": "Банк заявив про втрату близько €100 млн зі свого рахунку. Тимчасово обмежували частину операцій; за заявою банку, активи клієнтів не постраждали. Reuters наводить підтвердження розслідування прокуратурою.",
+    "sources": [
+      "https://live.euronext.com/en/financial-news/french-bank-credit-mutuel-arkea-says-eu100-million-missing-after-cyberattack"
+    ],
+    "country": "FR",
+    "kind": "подія",
+    "sourceKind": "медіа",
+    "links": []
+  },
+  {
+    "id": "i-binance",
+    "title": "Після зламу Binance: перевірки банків США",
+    "date": "2026-11-05",
+    "dateKind": "дата публікації; сам злам — попереднього тижня",
+    "place": "США; Нью-Йорк як точка повідомлення, не місце атаки",
+    "lat": 40.71,
+    "lon": -74,
+    "type": "кібер/банки",
+    "confidence": "одне джерело",
+    "description": "Reuters із посиланням на анонімні джерела повідомляє про запити регуляторів до банків після зламу Binance; згадано $6,3 млрд. Fed та OCC не коментували. Це не доказ глобального вимкнення банків чи зв’язку з CBDC.",
+    "sources": [
+      "https://wtvbam.com/2026/11/05/binance-hack-prompted-us-regulators-to-check-in-on-bank-systems-sources-say/"
+    ],
+    "country": "US",
+    "kind": "подія",
+    "sourceKind": "медіа",
+    "links": []
+  },
+  {
+    "id": "i-jordan",
+    "title": "Напад на церкву в Хамуді",
+    "date": "2026-10-23",
+    "dateKind": "дата події",
+    "place": "Хамуд, Йорданія; приблизна точка регіону Карак",
+    "lat": 31.3,
+    "lon": 35.75,
+    "type": "терор",
+    "confidence": "підтверджено",
+    "description": "Повідомлено про 9 загиблих і 40 поранених. Влада назвала напад терористичним. Reuters використала свідчення, заяви влади й перевірене відео. Різні передруки Reuters не є незалежними джерелами.",
+    "sources": [
+      "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+      "https://www.investing.com/news/world-news/jordan-church-attack-survivor-says-her-cousin-died-before-her-eyes-4971096"
+    ],
+    "country": "JO",
+    "kind": "подія",
+    "sourceKind": "медіа",
+    "links": []
+  },
+  {
+    "id": "i-kyiv",
+    "title": "Удар дрона біля траси Київ—Одеса",
+    "date": "2026-10-20",
+    "dateKind": "дата події",
+    "place": "Київська область; точка умовна",
+    "lat": 50.1,
+    "lon": 30.3,
+    "type": "війни",
+    "confidence": "одне джерело",
+    "description": "За обласною прокуратурою, російський дрон убив трьох людей і поранив чотирьох. Reuters переказує офіційну заяву; окремої перевірки кількості жертв у добірці немає.",
+    "sources": [
+      "https://www.streetinsider.com/Reuters/Russian+drone+strike+kills+three+near+Kyiv%2C+Ukrainian+prosecutors+say/27205600.html"
+    ],
+    "country": "UA",
+    "kind": "подія",
+    "sourceKind": "медіа",
+    "links": []
+  },
+  {
+    "id": "i-abyei",
+    "title": "Удар по ринку в Аб’єй",
+    "date": "2026-10-19",
+    "dateKind": "дата події",
+    "place": "Аб’єй; спірний район Судану / Південного Судану",
+    "lat": 9.6,
+    "lon": 28.43,
+    "type": "війни",
+    "confidence": "підтверджено",
+    "description": "Місцевий посадовець повідомив про 153 загиблих; MSF лікувала понад 20 поранених. Факт події й наслідків підтримують кілька названих джерел у Reuters. Кількість загиблих — попередня оцінка; виконавця незалежно не встановлено.",
+    "sources": [
+      "https://www.nbcnews.com/world/africa/drone-attack-kills-150-people-south-sudan-market-official-says-rcna604600"
+    ],
+    "kind": "подія",
+    "sourceKind": "медіа",
+    "links": []
+  },
+  {
+    "id": "u-warsaw",
+    "title": "11 листопада: Марш Незалежності",
+    "date": "2026-11-11",
+    "endDate": "2026-11-11",
+    "dateKind": "запланована подія",
+    "place": "Варшава",
+    "lat": 52.23,
+    "lon": 21.01,
+    "type": "політика",
+    "confidence": "підтверджено",
+    "description": "За RDC, старт заплановано на 14:30 Europe/Warsaw із ronda Dmowskiego. Масовий захід означає можливі транспортні обмеження та щільний натовп, а не підтверджену підготовку атаки.",
+    "sources": [
+      "https://rdc.pl/aktualnosci/warszawa/marsz-niepodleglosci-w-warszawie-trasa-i-harmonogram-przemarszu-na-11-listopada_onRGPDWpLkhkRpfasIoe"
+    ],
+    "country": "PL",
+    "kind": "календар",
+    "sourceKind": "медіа",
+    "links": [],
+    "avoid": "Якщо не береш участі, не плануй транзит через місце проходження маршу; звір WTP і поліцію в день поїздки."
+  },
+  {
+    "id": "u-krakow",
+    "title": "Різдвяний ярмарок у Кракові",
+    "date": "2026-11-27",
+    "endDate": "2027-01-06",
+    "dateKind": "офіційні дати проведення",
+    "place": "Краків, Rynek Główny",
+    "lat": 50.0617,
+    "lon": 19.937,
+    "type": "кримінал",
+    "confidence": "підтверджено",
+    "description": "Міський календар підтверджує дати ярмарку. Скупчення людей — привід берегти речі й заздалегідь знати вихід. Це не повідомлення про конкретну загрозу ярмарку.",
+    "sources": [
+      "https://turystykakrakow.pl/kalendarium/276421,object,0,40033,2026-11-08,jarmark-bozonarodzeniowy---christmas-market.html"
+    ],
+    "country": "PL",
+    "kind": "календар",
+    "sourceKind": "офіційне",
+    "links": [],
+    "avoid": "Не заходь у надто щільний натовп; бережи телефон і документи. Підстав уникати всього центру міста в джерелі немає."
+  },
+  {
+    "id": "u-europe",
+    "title": "Сезон ярмарків: перевіряти місцеві повідомлення",
+    "date": "2026-11-20",
+    "endDate": "2027-01-07",
+    "dateKind": "редакційне вікно спостереження, не дата всіх ярмарків",
+    "place": "Європа; Берлін лише опорна точка",
+    "lat": 52.52,
+    "lon": 13.4,
+    "type": "терор",
+    "confidence": "підтверджено",
+    "description": "FCDO радить пильність у багатолюдних місцях Німеччини. Конкретні дати й обмеження залежать від міста; неминучого нападу це не означає.",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/germany/safety-and-security"
+    ],
+    "country": "DE",
+    "kind": "календар",
+    "sourceKind": "офіційне",
+    "links": []
+  },
+  {
+    "id": "u-christmas",
+    "title": "Польща: різдвяні вихідні",
+    "date": "2026-12-24",
+    "endDate": "2026-12-26",
+    "dateKind": "календар вихідних",
+    "place": "Польща; опорна точка — Варшава",
+    "lat": 52.25,
+    "lon": 21.04,
+    "type": "політика",
+    "confidence": "підтверджено",
+    "description": "Святкові поїздки та зміни графіків установ. Це транспортно-побутовий привід планувати, а не окремий терористичний прогноз.",
+    "sources": [
+      "https://zielonalinia.gov.pl/swieta-wolne-od-pracy-w-2026-roku/"
+    ],
+    "country": "PL",
+    "kind": "календар",
+    "sourceKind": "офіційне",
+    "links": []
+  },
+  {
+    "id": "t-poland",
+    "title": "Польща: BRAVO / CRP; CHARLIE на визначеній залізниці",
+    "date": "2026-08-26",
+    "endDate": "2026-11-30",
+    "dateKind": "оприлюднення та строк дії",
+    "place": "Польща; не координати конкретної загрози",
+    "lat": 52.7,
+    "lon": 19.7,
+    "type": "терор",
+    "confidence": "підтверджено",
+    "description": "MSWiA: BRAVO на решті території; BRAVO-CRP у Польщі; CHARLIE на лініях PKP PLK і PKP LHS. Чинні до 30.11.2026, 23:59 Europe/Warsaw. Це превентивні режими, не повідомлення про атаку в Кракові.",
+    "sources": [
+      "https://www.gov.pl/web/mswia/stopnie-alarmowe-bravo-i-bravo-crp-obowiazuja-do-30-listopada-2026-r"
+    ],
+    "country": "PL",
+    "kind": "режим",
+    "sourceKind": "офіційне",
+    "links": [],
+    "avoid": "Дотримуйся огороджень і вказівок служб; не роби висновку, що користуватися поїздами заборонено."
+  },
+  {
+    "id": "t-uk",
+    "title": "UK: національний рівень SEVERE",
+    "date": "2026-04-30",
+    "dateKind": "дата зміни; перевірка 08.11.2026",
+    "place": "Велика Британія",
+    "lat": 52.8,
+    "lon": -1.7,
+    "type": "терор",
+    "confidence": "підтверджено",
+    "description": "MI5: загальнонаціональний SEVERE; окремо Northern Ireland-related у Північній Ірландії — SUBSTANTIAL. Не тотожний туристичному рейтингу 2.",
+    "sources": [
+      "https://www.mi5.gov.uk/threats-and-advice/threat-levels"
+    ],
+    "country": "GB",
+    "kind": "режим",
+    "sourceKind": "офіційне",
+    "links": []
+  },
+  {
+    "id": "t-fr",
+    "title": "Франція: шкала Vigipirate",
+    "date": "2026-06-23",
+    "dateKind": "оновлення загальної сторінки",
+    "place": "Франція",
+    "lat": 48.85,
+    "lon": 2.35,
+    "type": "терор",
+    "confidence": "одне джерело",
+    "description": "Офіційна сторінка описує vigilance / vigilance renforcée / alerte attentat. Поточна територіальна posture тут не встановлена повністю; індекс офіційних повідомлень згадував vigilance renforcée. Перед поїздкою перевірити префектуру.",
+    "sources": [
+      "https://www.info.gouv.fr/risques/le-plan-vigipirate"
+    ],
+    "country": "FR",
+    "kind": "режим",
+    "sourceKind": "офіційне",
+    "links": []
+  },
+  {
+    "id": "l-plcrime",
+    "title": "Польща: кримінальна статистика за 2025",
+    "date": "2026-01-16",
+    "dateKind": "дата звіту; дані за 2025 рік",
+    "place": "Польща",
+    "lat": 51.1,
+    "lon": 19.1,
+    "type": "кримінал",
+    "confidence": "підтверджено",
+    "description": "Поліція: 439 287 встановлених кримінальних правопорушень; розкриття 66,2%. За ст. 148 КК — 505 діянь проти 503 у 2024. Національні діяння не тотожні кількості жертв UNODC.",
+    "sources": [
+      "https://policja.pl/pol/aktualnosci/271951%2CZwalczanie-przestepczosci-kryminalnej.html"
+    ],
+    "country": "PL",
+    "kind": "локально",
+    "sourceKind": "офіційне",
+    "links": []
+  },
+  {
+    "id": "l-krakow",
+    "title": "Краків: міський звіт за 2025",
+    "date": "2026-06-25",
+    "dateKind": "дата звіту; дані за 2025 рік",
+    "place": "Краків",
+    "lat": 50.0647,
+    "lon": 19.945,
+    "type": "кримінал",
+    "confidence": "підтверджено",
+    "description": "Міський звіт: 18 603 встановлені правопорушення проти 19 575 у 2024; розкриття 60,8%. Це не поточний реєстр небезпечних вулиць. Перевіреного міського коефіцієнта вбивств не внесено.",
+    "sources": [
+      "https://krakow.pl/aktualnosci/323241,29,komunikat,raport_o_stanie_gminy_2025__krakow_miastem_atrakcyjnym_i_gotowym_na_wyzwania_przyszlosci_.html"
+    ],
+    "country": "PL",
+    "kind": "локально",
+    "sourceKind": "офіційне",
+    "links": [],
+    "avoid": "Цей річний звіт не дає підстав назвати конкретну вулицю небезпечною зараз."
+  }
+]

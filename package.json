@@ -1,0 +1,14 @@
+{
+  "name": "danger-map",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test scripts/*.test.mjs",
+    "news": "node scripts/fetch-news.mjs",
+    "extract": "node scripts/extract-data.mjs",
+    "world": "node scripts/build-world.mjs"
+  },
+  "devDependencies": {
+    "topojson-client": "^3.1.0"
+  }
+}

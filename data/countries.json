@@ -1,0 +1,802 @@
+[
+  {
+    "code": "AL",
+    "name": "Албанія",
+    "lat": 41,
+    "lon": 20,
+    "advisory": 2,
+    "notes": "Злочинність",
+    "homicidePer100k": 1.755,
+    "homicideYear": 2024
+  },
+  {
+    "code": "AD",
+    "name": "Андорра",
+    "lat": 42.55,
+    "lon": 1.6,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 2.585,
+    "homicideYear": 2020
+  },
+  {
+    "code": "AT",
+    "name": "Австрія",
+    "lat": 47.5,
+    "lon": 14.5,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.987,
+    "homicideYear": 2024
+  },
+  {
+    "code": "BY",
+    "name": "Білорусь",
+    "lat": 53.7,
+    "lon": 28,
+    "advisory": 4,
+    "notes": "Заворушення; обмежена допомога; інші ризики",
+    "homicidePer100k": 1.535,
+    "homicideYear": 2024
+  },
+  {
+    "code": "BE",
+    "name": "Бельгія",
+    "lat": 50.8,
+    "lon": 4.5,
+    "advisory": 2,
+    "notes": "Тероризм",
+    "homicidePer100k": 1.08,
+    "homicideYear": 2021
+  },
+  {
+    "code": "BA",
+    "name": "Боснія і Герцеговина",
+    "lat": 44,
+    "lon": 18,
+    "advisory": 2,
+    "notes": "Злочинність; тероризм",
+    "homicidePer100k": 0.98,
+    "homicideYear": 2024
+  },
+  {
+    "code": "BG",
+    "name": "Болгарія",
+    "lat": 42.7,
+    "lon": 25.5,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 1.169,
+    "homicideYear": 2024
+  },
+  {
+    "code": "HR",
+    "name": "Хорватія",
+    "lat": 45.2,
+    "lon": 16,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 1.006,
+    "homicideYear": 2024
+  },
+  {
+    "code": "CY",
+    "name": "Кіпр",
+    "lat": 35.1,
+    "lon": 33.3,
+    "advisory": 3,
+    "notes": "Інші регіональні ризики; новий перелік 3, старі індекси можуть містити 1",
+    "homicidePer100k": 0.957,
+    "homicideYear": 2024
+  },
+  {
+    "code": "CZ",
+    "name": "Чехія",
+    "lat": 49.8,
+    "lon": 15.5,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.615,
+    "homicideYear": 2024
+  },
+  {
+    "code": "DK",
+    "name": "Данія",
+    "lat": 56,
+    "lon": 10,
+    "advisory": 2,
+    "notes": "Тероризм",
+    "homicidePer100k": 0.836,
+    "homicideYear": 2024
+  },
+  {
+    "code": "EE",
+    "name": "Естонія",
+    "lat": 58.8,
+    "lon": 25.5,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 1.764,
+    "homicideYear": 2024
+  },
+  {
+    "code": "FI",
+    "name": "Фінляндія",
+    "lat": 64,
+    "lon": 26,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.928,
+    "homicideYear": 2023
+  },
+  {
+    "code": "FR",
+    "name": "Франція",
+    "lat": 46.6,
+    "lon": 2.5,
+    "advisory": 2,
+    "notes": "Тероризм; заворушення",
+    "homicidePer100k": 1.325,
+    "homicideYear": 2024
+  },
+  {
+    "code": "DE",
+    "name": "Німеччина",
+    "lat": 51,
+    "lon": 10,
+    "advisory": 2,
+    "notes": "Тероризм",
+    "homicidePer100k": 0.921,
+    "homicideYear": 2024
+  },
+  {
+    "code": "GR",
+    "name": "Греція",
+    "lat": 39,
+    "lon": 22,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.846,
+    "homicideYear": 2024
+  },
+  {
+    "code": "HU",
+    "name": "Угорщина",
+    "lat": 47.2,
+    "lon": 19.5,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.703,
+    "homicideYear": 2024
+  },
+  {
+    "code": "IS",
+    "name": "Ісландія",
+    "lat": 65,
+    "lon": -19,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 2.034,
+    "homicideYear": 2024
+  },
+  {
+    "code": "IE",
+    "name": "Ірландія",
+    "lat": 53.4,
+    "lon": -8,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.704,
+    "homicideYear": 2024
+  },
+  {
+    "code": "IT",
+    "name": "Італія",
+    "lat": 42.8,
+    "lon": 12.5,
+    "advisory": 2,
+    "notes": "Тероризм",
+    "homicidePer100k": 0.566,
+    "homicideYear": 2024
+  },
+  {
+    "code": "XK",
+    "name": "Косово",
+    "lat": 42.6,
+    "lon": 20.9,
+    "advisory": 2,
+    "notes": "Заворушення; тероризм; регіональні винятки",
+    "homicidePer100k": 1.895,
+    "homicideYear": 2021
+  },
+  {
+    "code": "LV",
+    "name": "Латвія",
+    "lat": 57,
+    "lon": 24.8,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 2.778,
+    "homicideYear": 2024
+  },
+  {
+    "code": "LI",
+    "name": "Ліхтенштейн",
+    "lat": 47.17,
+    "lon": 9.55,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 2.508,
+    "homicideYear": 2024
+  },
+  {
+    "code": "LT",
+    "name": "Литва",
+    "lat": 55.2,
+    "lon": 23.8,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 2.658,
+    "homicideYear": 2024
+  },
+  {
+    "code": "LU",
+    "name": "Люксембург",
+    "lat": 49.8,
+    "lon": 6.1,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 1.531,
+    "homicideYear": 2022
+  },
+  {
+    "code": "MT",
+    "name": "Мальта",
+    "lat": 35.9,
+    "lon": 14.4,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.927,
+    "homicideYear": 2024
+  },
+  {
+    "code": "MD",
+    "name": "Молдова",
+    "lat": 47.3,
+    "lon": 28.5,
+    "advisory": 2,
+    "notes": "Заворушення; регіональні ризики",
+    "homicidePer100k": 2.01,
+    "homicideYear": 2024
+  },
+  {
+    "code": "MC",
+    "name": "Монако",
+    "lat": 43.73,
+    "lon": 7.42,
+    "advisory": 2,
+    "notes": "Тероризм; заворушення",
+    "homicidePer100k": 0,
+    "homicideYear": 2008
+  },
+  {
+    "code": "ME",
+    "name": "Чорногорія",
+    "lat": 42.8,
+    "lon": 19.2,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 2.506,
+    "homicideYear": 2024
+  },
+  {
+    "code": "NL",
+    "name": "Нідерланди",
+    "lat": 52.3,
+    "lon": 5.5,
+    "advisory": 2,
+    "notes": "Тероризм",
+    "homicidePer100k": 0.658,
+    "homicideYear": 2024
+  },
+  {
+    "code": "MK",
+    "name": "Північна Македонія",
+    "lat": 41.6,
+    "lon": 21.7,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 1.262,
+    "homicideYear": 2024
+  },
+  {
+    "code": "NO",
+    "name": "Норвегія",
+    "lat": 64,
+    "lon": 11,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.699,
+    "homicideYear": 2024
+  },
+  {
+    "code": "PL",
+    "name": "Польща",
+    "lat": 52,
+    "lon": 19,
+    "advisory": 1,
+    "notes": "Туристичний 1; окремо BRAVO / BRAVO-CRP і CHARLIE на визначеній залізниці",
+    "homicidePer100k": 0.677,
+    "homicideYear": 2024
+  },
+  {
+    "code": "PT",
+    "name": "Португалія",
+    "lat": 39.5,
+    "lon": -8,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.709,
+    "homicideYear": 2023
+  },
+  {
+    "code": "RO",
+    "name": "Румунія",
+    "lat": 46,
+    "lon": 25,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 1.12,
+    "homicideYear": 2024
+  },
+  {
+    "code": "RU",
+    "name": "Росія",
+    "lat": 60,
+    "lon": 95,
+    "advisory": 4,
+    "notes": "Війна; тероризм; неправомірні затримання",
+    "homicidePer100k": 7.821,
+    "homicideYear": 2024
+  },
+  {
+    "code": "SM",
+    "name": "Сан-Марино",
+    "lat": 43.94,
+    "lon": 12.46,
+    "advisory": 2,
+    "notes": "Тероризм; новий перелік 10.09.2026, старі індекси можуть містити 1",
+    "homicidePer100k": 0,
+    "homicideYear": 2011
+  },
+  {
+    "code": "RS",
+    "name": "Сербія",
+    "lat": 44,
+    "lon": 20.8,
+    "advisory": 2,
+    "notes": "Злочинність",
+    "homicidePer100k": 0.891,
+    "homicideYear": 2024
+  },
+  {
+    "code": "SK",
+    "name": "Словаччина",
+    "lat": 48.7,
+    "lon": 19.7,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 1.071,
+    "homicideYear": 2024
+  },
+  {
+    "code": "SI",
+    "name": "Словенія",
+    "lat": 46.1,
+    "lon": 14.8,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.708,
+    "homicideYear": 2024
+  },
+  {
+    "code": "ES",
+    "name": "Іспанія",
+    "lat": 40,
+    "lon": -3.5,
+    "advisory": 2,
+    "notes": "Тероризм; заворушення; Сеута 3",
+    "homicidePer100k": 0.728,
+    "homicideYear": 2024
+  },
+  {
+    "code": "SE",
+    "name": "Швеція",
+    "lat": 62,
+    "lon": 15,
+    "advisory": 2,
+    "notes": "Тероризм",
+    "homicidePer100k": 0.867,
+    "homicideYear": 2024
+  },
+  {
+    "code": "CH",
+    "name": "Швейцарія",
+    "lat": 46.8,
+    "lon": 8.2,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.504,
+    "homicideYear": 2024
+  },
+  {
+    "code": "TR",
+    "name": "Туреччина",
+    "lat": 39,
+    "lon": 35,
+    "advisory": 2,
+    "notes": "Тероризм; прикордонні винятки",
+    "homicidePer100k": 2.412,
+    "homicideYear": 2024
+  },
+  {
+    "code": "UA",
+    "name": "Україна",
+    "lat": 49,
+    "lon": 32,
+    "advisory": 4,
+    "notes": "Російська агресія; повітряні удари; збройний конфлікт",
+    "homicidePer100k": 3.777,
+    "homicideYear": 2021
+  },
+  {
+    "code": "GB",
+    "name": "Велика Британія",
+    "lat": 54,
+    "lon": -2,
+    "advisory": 2,
+    "notes": "Тероризм; заворушення; злочинність",
+    "homicidePer100k": null,
+    "homicideYear": null
+  },
+  {
+    "code": "VA",
+    "name": "Ватикан",
+    "lat": 41.9,
+    "lon": 12.45,
+    "advisory": 2,
+    "notes": "Тероризм",
+    "homicidePer100k": 0,
+    "homicideYear": 2024
+  },
+  {
+    "code": "AM",
+    "name": "Вірменія",
+    "lat": 40.3,
+    "lon": 45,
+    "advisory": 2,
+    "notes": "Прикордонні й інші ризики",
+    "homicidePer100k": 2.186,
+    "homicideYear": 2024
+  },
+  {
+    "code": "AZ",
+    "name": "Азербайджан",
+    "lat": 40.4,
+    "lon": 47.7,
+    "advisory": 3,
+    "notes": "Тероризм; інші ризики",
+    "homicidePer100k": 1.993,
+    "homicideYear": 2024
+  },
+  {
+    "code": "GE",
+    "name": "Грузія",
+    "lat": 42.1,
+    "lon": 43.5,
+    "advisory": 1,
+    "notes": "Заворушення; злочинність; окуповані регіони окремо",
+    "homicidePer100k": 2.028,
+    "homicideYear": 2019
+  },
+  {
+    "code": "BH",
+    "name": "Бахрейн",
+    "lat": 26,
+    "lon": 50.55,
+    "advisory": 3,
+    "notes": "Тероризм; регіональні ризики",
+    "homicidePer100k": 0.196,
+    "homicideYear": 2022
+  },
+  {
+    "code": "IR",
+    "name": "Іран",
+    "lat": 32,
+    "lon": 54,
+    "advisory": 4,
+    "notes": "Тероризм; викрадення; затримання; заворушення",
+    "homicidePer100k": 2.375,
+    "homicideYear": 2014
+  },
+  {
+    "code": "IQ",
+    "name": "Ірак",
+    "lat": 33,
+    "lon": 44,
+    "advisory": 4,
+    "notes": "Тероризм; збройне насильство; викрадення",
+    "homicidePer100k": 9.464,
+    "homicideYear": 2013
+  },
+  {
+    "code": "IL",
+    "name": "Ізраїль",
+    "lat": 31.4,
+    "lon": 35,
+    "advisory": 3,
+    "notes": "Бойові дії; тероризм; повітряні удари",
+    "homicidePer100k": 3.718,
+    "homicideYear": 2024
+  },
+  {
+    "code": "JO",
+    "name": "Йорданія",
+    "lat": 31,
+    "lon": 36.5,
+    "advisory": 3,
+    "notes": "Тероризм; регіональні ризики",
+    "homicidePer100k": 0.84,
+    "homicideYear": 2024
+  },
+  {
+    "code": "KW",
+    "name": "Кувейт",
+    "lat": 29.4,
+    "lon": 47.5,
+    "advisory": 3,
+    "notes": "Злочинність; регіональні ризики",
+    "homicidePer100k": 0.784,
+    "homicideYear": 2022
+  },
+  {
+    "code": "LB",
+    "name": "Ліван",
+    "lat": 33.9,
+    "lon": 35.8,
+    "advisory": 4,
+    "notes": "Бойові дії; тероризм; викрадення",
+    "homicidePer100k": 2.635,
+    "homicideYear": 2024
+  },
+  {
+    "code": "OM",
+    "name": "Оман",
+    "lat": 21,
+    "lon": 57,
+    "advisory": 3,
+    "notes": "Тероризм; регіональні ризики",
+    "homicidePer100k": 0.139,
+    "homicideYear": 2023
+  },
+  {
+    "code": "QA",
+    "name": "Катар",
+    "lat": 25.3,
+    "lon": 51.2,
+    "advisory": 3,
+    "notes": "Інші регіональні ризики",
+    "homicidePer100k": 0.069,
+    "homicideYear": 2022
+  },
+  {
+    "code": "SA",
+    "name": "Саудівська Аравія",
+    "lat": 24,
+    "lon": 45,
+    "advisory": 3,
+    "notes": "Тероризм; регіональні ризики",
+    "homicidePer100k": 0.801,
+    "homicideYear": 2024
+  },
+  {
+    "code": "SY",
+    "name": "Сирія",
+    "lat": 35,
+    "lon": 38,
+    "advisory": 4,
+    "notes": "Збройний конфлікт; тероризм; викрадення",
+    "homicidePer100k": 2.059,
+    "homicideYear": 2010
+  },
+  {
+    "code": "AE",
+    "name": "ОАЕ",
+    "lat": 24,
+    "lon": 54,
+    "advisory": 3,
+    "notes": "Регіональні ризики; перевіряти маршрути",
+    "homicidePer100k": 0.517,
+    "homicideYear": 2023
+  },
+  {
+    "code": "YE",
+    "name": "Ємен",
+    "lat": 15.5,
+    "lon": 47.5,
+    "advisory": 4,
+    "notes": "Збройний конфлікт; викрадення; тероризм",
+    "homicidePer100k": 5.81,
+    "homicideYear": 2013
+  },
+  {
+    "code": "PS",
+    "name": "Палестинські території",
+    "lat": 31.5,
+    "lon": 34.5,
+    "advisory": 4,
+    "notes": "4 — для Гази; не є єдиним рівнем усіх територій",
+    "homicidePer100k": 0.273,
+    "homicideYear": 2024
+  },
+  {
+    "code": "US",
+    "name": "США",
+    "lat": 39,
+    "lon": -98,
+    "advisory": null,
+    "notes": "FCDO: тероризм; вогнепальне насильство; протести. Власного рейтингу США немає",
+    "homicidePer100k": 5.763,
+    "homicideYear": 2023
+  },
+  {
+    "code": "CA",
+    "name": "Канада",
+    "lat": 58,
+    "lon": -106,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 1.983,
+    "homicideYear": 2024
+  },
+  {
+    "code": "MX",
+    "name": "Мексика",
+    "lat": 23,
+    "lon": -102,
+    "advisory": 2,
+    "notes": "Злочинність; викрадення; тероризм; різні рівні штатів",
+    "homicidePer100k": 25.638,
+    "homicideYear": 2024
+  },
+  {
+    "code": "BR",
+    "name": "Бразилія",
+    "lat": -10,
+    "lon": -52,
+    "advisory": 2,
+    "notes": "Злочинність; викрадення",
+    "homicidePer100k": 18.691,
+    "homicideYear": 2024
+  },
+  {
+    "code": "AU",
+    "name": "Австралія",
+    "lat": -25,
+    "lon": 134,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.943,
+    "homicideYear": 2024
+  },
+  {
+    "code": "NZ",
+    "name": "Нова Зеландія",
+    "lat": -41,
+    "lon": 174,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 1.461,
+    "homicideYear": 2022
+  },
+  {
+    "code": "CN",
+    "name": "Китай",
+    "lat": 35,
+    "lon": 105,
+    "advisory": 2,
+    "notes": "Неправомірні затримання; інші правові ризики",
+    "homicidePer100k": 0.502,
+    "homicideYear": 2020
+  },
+  {
+    "code": "JP",
+    "name": "Японія",
+    "lat": 37,
+    "lon": 138,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.229,
+    "homicideYear": 2024
+  },
+  {
+    "code": "KR",
+    "name": "Південна Корея",
+    "lat": 36.3,
+    "lon": 127.8,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.489,
+    "homicideYear": 2024
+  },
+  {
+    "code": "IN",
+    "name": "Індія",
+    "lat": 22,
+    "lon": 79,
+    "advisory": 2,
+    "notes": "Тероризм; злочинність; заворушення",
+    "homicidePer100k": 2.716,
+    "homicideYear": 2023
+  },
+  {
+    "code": "SG",
+    "name": "Сінгапур",
+    "lat": 1.35,
+    "lon": 103.8,
+    "advisory": 1,
+    "notes": "Звичайні запобіжні заходи",
+    "homicidePer100k": 0.171,
+    "homicideYear": 2024
+  },
+  {
+    "code": "TH",
+    "name": "Таїланд",
+    "lat": 15,
+    "lon": 101,
+    "advisory": 1,
+    "notes": "Загальний 1; окремі південні й прикордонні райони ризикованіші",
+    "homicidePer100k": 4.792,
+    "homicideYear": 2011
+  },
+  {
+    "code": "ZA",
+    "name": "ПАР",
+    "lat": -29,
+    "lon": 25,
+    "advisory": 2,
+    "notes": "Злочинність; насильство; заворушення",
+    "homicidePer100k": 39.719,
+    "homicideYear": 2024
+  },
+  {
+    "code": "EG",
+    "name": "Єгипет",
+    "lat": 27,
+    "lon": 30,
+    "advisory": 2,
+    "notes": "Тероризм; злочинність; здоров’я; регіональні обмеження",
+    "homicidePer100k": 1.312,
+    "homicideYear": 2017
+  },
+  {
+    "code": "AF",
+    "name": "Афганістан",
+    "lat": 33,
+    "lon": 65,
+    "advisory": 4,
+    "notes": "Тероризм; викрадення; затримання; заворушення",
+    "homicidePer100k": 4.224,
+    "homicideYear": 2023
+  },
+  {
+    "code": "PK",
+    "name": "Пакистан",
+    "lat": 30,
+    "lon": 69,
+    "advisory": 3,
+    "notes": "Тероризм; викрадення; злочинність",
+    "homicidePer100k": 4.329,
+    "homicideYear": 2024
+  }
+]

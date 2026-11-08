@@ -1,0 +1,2824 @@
+[
+  {
+    "code": "ZW",
+    "name_uk": "Зімбабве",
+    "name_en": "Zimbabwe",
+    "lat": -19.004,
+    "lon": 29.851,
+    "aliases": [
+      "Зімбабве",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "code": "ZM",
+    "name_uk": "Замбія",
+    "name_en": "Zambia",
+    "lat": -13.458,
+    "lon": 27.775,
+    "aliases": [
+      "Замбія",
+      "Zambia"
+    ]
+  },
+  {
+    "code": "YE",
+    "name_uk": "Ємен",
+    "name_en": "Yemen",
+    "lat": 15.936,
+    "lon": 47.541,
+    "aliases": [
+      "Ємен",
+      "Yemen",
+      "Jemen",
+      "Ємену",
+      "Ємені"
+    ]
+  },
+  {
+    "code": "VN",
+    "name_uk": "В'єтнам",
+    "name_en": "Vietnam",
+    "lat": 16.651,
+    "lon": 106.301,
+    "aliases": [
+      "В'єтнам",
+      "Vietnam"
+    ]
+  },
+  {
+    "code": "VE",
+    "name_uk": "Венесуела",
+    "name_en": "Venezuela",
+    "lat": 7.119,
+    "lon": -66.187,
+    "aliases": [
+      "Венесуела",
+      "Venezuela"
+    ]
+  },
+  {
+    "code": "VA",
+    "name_uk": "Ватикан",
+    "name_en": "Vatican",
+    "lat": 41.902,
+    "lon": 12.434,
+    "aliases": [
+      "Ватикан",
+      "Vatican"
+    ]
+  },
+  {
+    "code": "VU",
+    "name_uk": "Вануату",
+    "name_en": "Vanuatu",
+    "lat": -15.226,
+    "lon": 166.849,
+    "aliases": [
+      "Вануату",
+      "Vanuatu"
+    ]
+  },
+  {
+    "code": "UZ",
+    "name_uk": "Узбекистан",
+    "name_en": "Uzbekistan",
+    "lat": 41.757,
+    "lon": 63.133,
+    "aliases": [
+      "Узбекистан",
+      "Uzbekistan"
+    ]
+  },
+  {
+    "code": "UY",
+    "name_uk": "Уругвай",
+    "name_en": "Uruguay",
+    "lat": -32.8,
+    "lon": -56.018,
+    "aliases": [
+      "Уругвай",
+      "Uruguay"
+    ]
+  },
+  {
+    "code": "FM",
+    "name_uk": "Мікронезія",
+    "name_en": "Micronesia",
+    "lat": 6.887,
+    "lon": 158.232,
+    "aliases": [
+      "Мікронезія",
+      "Micronesia"
+    ]
+  },
+  {
+    "code": "MH",
+    "name_uk": "Маршаллові Острови",
+    "name_en": "Marshall Is.",
+    "lat": 7.106,
+    "lon": 171.187,
+    "aliases": [
+      "Маршаллові Острови",
+      "Marshall Is."
+    ]
+  },
+  {
+    "code": "MP",
+    "name_uk": "Північні Маріанські Острови",
+    "name_en": "N. Mariana Is.",
+    "lat": 15.181,
+    "lon": 145.744,
+    "aliases": [
+      "Північні Маріанські Острови",
+      "N. Mariana Is."
+    ]
+  },
+  {
+    "code": "VI",
+    "name_uk": "Американські Віргінські Острови",
+    "name_en": "U.S. Virgin Is.",
+    "lat": 17.741,
+    "lon": -64.772,
+    "aliases": [
+      "Американські Віргінські Острови",
+      "U.S. Virgin Is."
+    ]
+  },
+  {
+    "code": "GU",
+    "name_uk": "Гуам",
+    "name_en": "Guam",
+    "lat": 13.441,
+    "lon": 144.767,
+    "aliases": [
+      "Гуам",
+      "Guam"
+    ]
+  },
+  {
+    "code": "AS",
+    "name_uk": "Американське Самоа",
+    "name_en": "American Samoa",
+    "lat": -14.305,
+    "lon": -170.718,
+    "aliases": [
+      "Американське Самоа",
+      "American Samoa"
+    ]
+  },
+  {
+    "code": "PR",
+    "name_uk": "Пуерто-Рико",
+    "name_en": "Puerto Rico",
+    "lat": 18.23,
+    "lon": -66.482,
+    "aliases": [
+      "Пуерто-Рико",
+      "Puerto Rico"
+    ]
+  },
+  {
+    "code": "US",
+    "name_uk": "США",
+    "name_en": "United States of America",
+    "lat": 39.526,
+    "lon": -99.143,
+    "aliases": [
+      "США",
+      "United States of America",
+      "United States",
+      "USA",
+      "U.S.",
+      "Stany Zjednoczone"
+    ]
+  },
+  {
+    "code": "GS",
+    "name_uk": "Південна Джорджія і Південні Сандвічеві Острови",
+    "name_en": "S. Geo. and the Is.",
+    "lat": -54.365,
+    "lon": -36.688,
+    "aliases": [
+      "Південна Джорджія і Південні Сандвічеві Острови",
+      "S. Geo. and the Is."
+    ]
+  },
+  {
+    "code": "IO",
+    "name_uk": "Британська територія в Індійському океані",
+    "name_en": "Br. Indian Ocean Ter.",
+    "lat": -7.332,
+    "lon": 72.445,
+    "aliases": [
+      "Британська територія в Індійському океані",
+      "Br. Indian Ocean Ter."
+    ]
+  },
+  {
+    "code": "SH",
+    "name_uk": "Острів Святої Єлени",
+    "name_en": "Saint Helena",
+    "lat": -15.959,
+    "lon": -5.717,
+    "aliases": [
+      "Острів Святої Єлени",
+      "Saint Helena"
+    ]
+  },
+  {
+    "code": "PN",
+    "name_uk": "Острови Піткерн",
+    "name_en": "Pitcairn Is.",
+    "lat": -24.365,
+    "lon": -128.316,
+    "aliases": [
+      "Острови Піткерн",
+      "Pitcairn Is."
+    ]
+  },
+  {
+    "code": "AI",
+    "name_uk": "Ангілья",
+    "name_en": "Anguilla",
+    "lat": 18.224,
+    "lon": -63.066,
+    "aliases": [
+      "Ангілья",
+      "Anguilla"
+    ]
+  },
+  {
+    "code": "FK",
+    "name_uk": "Фолклендські Острови",
+    "name_en": "Falkland Is.",
+    "lat": -51.745,
+    "lon": -58.761,
+    "aliases": [
+      "Фолклендські Острови",
+      "Falkland Is."
+    ]
+  },
+  {
+    "code": "KY",
+    "name_uk": "Кайманові Острови",
+    "name_en": "Cayman Is.",
+    "lat": 19.321,
+    "lon": -81.285,
+    "aliases": [
+      "Кайманові Острови",
+      "Cayman Is."
+    ]
+  },
+  {
+    "code": "BM",
+    "name_uk": "Бермудські Острови",
+    "name_en": "Bermuda",
+    "lat": 32.313,
+    "lon": -64.756,
+    "aliases": [
+      "Бермудські Острови",
+      "Bermuda"
+    ]
+  },
+  {
+    "code": "VG",
+    "name_uk": "Британські Віргінські Острови",
+    "name_en": "British Virgin Is.",
+    "lat": 18.423,
+    "lon": -64.622,
+    "aliases": [
+      "Британські Віргінські Острови",
+      "British Virgin Is."
+    ]
+  },
+  {
+    "code": "TC",
+    "name_uk": "Теркс і Кайкос",
+    "name_en": "Turks and Caicos Is.",
+    "lat": 21.812,
+    "lon": -71.741,
+    "aliases": [
+      "Теркс і Кайкос",
+      "Turks and Caicos Is."
+    ]
+  },
+  {
+    "code": "MS",
+    "name_uk": "Монтсеррат",
+    "name_en": "Montserrat",
+    "lat": 16.74,
+    "lon": -62.185,
+    "aliases": [
+      "Монтсеррат",
+      "Montserrat"
+    ]
+  },
+  {
+    "code": "JE",
+    "name_uk": "Джерсі",
+    "name_en": "Jersey",
+    "lat": 49.218,
+    "lon": -2.127,
+    "aliases": [
+      "Джерсі",
+      "Jersey"
+    ]
+  },
+  {
+    "code": "GG",
+    "name_uk": "Гернсі",
+    "name_en": "Guernsey",
+    "lat": 49.468,
+    "lon": -2.573,
+    "aliases": [
+      "Гернсі",
+      "Guernsey"
+    ]
+  },
+  {
+    "code": "IM",
+    "name_uk": "Острів Мен",
+    "name_en": "Isle of Man",
+    "lat": 54.224,
+    "lon": -4.539,
+    "aliases": [
+      "Острів Мен",
+      "Isle of Man"
+    ]
+  },
+  {
+    "code": "GB",
+    "name_uk": "Велика Британія",
+    "name_en": "United Kingdom",
+    "lat": 53.938,
+    "lon": -2.507,
+    "aliases": [
+      "Велика Британія",
+      "United Kingdom",
+      "Britain",
+      "UK",
+      "Wielka Brytania",
+      "Британія",
+      "Британії"
+    ]
+  },
+  {
+    "code": "AE",
+    "name_uk": "ОАЕ",
+    "name_en": "United Arab Emirates",
+    "lat": 23.903,
+    "lon": 54.307,
+    "aliases": [
+      "ОАЕ",
+      "United Arab Emirates",
+      "UAE"
+    ]
+  },
+  {
+    "code": "UA",
+    "name_uk": "Україна",
+    "name_en": "Ukraine",
+    "lat": 49.16,
+    "lon": 31.253,
+    "aliases": [
+      "Україна",
+      "Ukraine",
+      "України",
+      "Україні",
+      "Україну"
+    ]
+  },
+  {
+    "code": "UG",
+    "name_uk": "Уганда",
+    "name_en": "Uganda",
+    "lat": 1.274,
+    "lon": 32.37,
+    "aliases": [
+      "Уганда",
+      "Uganda"
+    ]
+  },
+  {
+    "code": "TM",
+    "name_uk": "Туркменістан",
+    "name_en": "Turkmenistan",
+    "lat": 39.116,
+    "lon": 59.373,
+    "aliases": [
+      "Туркменістан",
+      "Turkmenistan"
+    ]
+  },
+  {
+    "code": "TR",
+    "name_uk": "Туреччина",
+    "name_en": "Turkey",
+    "lat": 38.991,
+    "lon": 35.422,
+    "aliases": [
+      "Туреччина",
+      "Turkey",
+      "Türkiye",
+      "Turcja",
+      "Туреччини",
+      "Туреччині"
+    ]
+  },
+  {
+    "code": "TN",
+    "name_uk": "Туніс",
+    "name_en": "Tunisia",
+    "lat": 34.12,
+    "lon": 9.548,
+    "aliases": [
+      "Туніс",
+      "Tunisia"
+    ]
+  },
+  {
+    "code": "TT",
+    "name_uk": "Тринідад і Тобаго",
+    "name_en": "Trinidad and Tobago",
+    "lat": 10.421,
+    "lon": -61.293,
+    "aliases": [
+      "Тринідад і Тобаго",
+      "Trinidad and Tobago"
+    ]
+  },
+  {
+    "code": "TO",
+    "name_uk": "Тонга",
+    "name_en": "Tonga",
+    "lat": -21.167,
+    "lon": -175.216,
+    "aliases": [
+      "Тонга",
+      "Tonga"
+    ]
+  },
+  {
+    "code": "TG",
+    "name_uk": "Того",
+    "name_en": "Togo",
+    "lat": 8.525,
+    "lon": 0.963,
+    "aliases": [
+      "Того",
+      "Togo"
+    ]
+  },
+  {
+    "code": "TL",
+    "name_uk": "Тимор-Лешті",
+    "name_en": "Timor-Leste",
+    "lat": -8.81,
+    "lon": 125.923,
+    "aliases": [
+      "Тимор-Лешті",
+      "Timor-Leste"
+    ]
+  },
+  {
+    "code": "TH",
+    "name_uk": "Таїланд",
+    "name_en": "Thailand",
+    "lat": 15.134,
+    "lon": 101.007,
+    "aliases": [
+      "Таїланд",
+      "Thailand"
+    ]
+  },
+  {
+    "code": "TZ",
+    "name_uk": "Танзанія",
+    "name_en": "Tanzania",
+    "lat": -6.277,
+    "lon": 34.798,
+    "aliases": [
+      "Танзанія",
+      "Tanzania"
+    ]
+  },
+  {
+    "code": "TJ",
+    "name_uk": "Таджикистан",
+    "name_en": "Tajikistan",
+    "lat": 38.529,
+    "lon": 71.014,
+    "aliases": [
+      "Таджикистан",
+      "Tajikistan"
+    ]
+  },
+  {
+    "code": "TW",
+    "name_uk": "Тайвань",
+    "name_en": "Taiwan",
+    "lat": 23.751,
+    "lon": 120.962,
+    "aliases": [
+      "Тайвань",
+      "Taiwan"
+    ]
+  },
+  {
+    "code": "SY",
+    "name_uk": "Сирія",
+    "name_en": "Syria",
+    "lat": 35.025,
+    "lon": 38.508,
+    "aliases": [
+      "Сирія",
+      "Syria",
+      "Сирії",
+      "Сирію"
+    ]
+  },
+  {
+    "code": "CH",
+    "name_uk": "Швейцарія",
+    "name_en": "Switzerland",
+    "lat": 46.798,
+    "lon": 8.208,
+    "aliases": [
+      "Швейцарія",
+      "Switzerland",
+      "Szwajcaria",
+      "Швейцарії",
+      "Швейцарію"
+    ]
+  },
+  {
+    "code": "SE",
+    "name_uk": "Швеція",
+    "name_en": "Sweden",
+    "lat": 62.825,
+    "lon": 16.735,
+    "aliases": [
+      "Швеція",
+      "Sweden",
+      "Szwecja",
+      "Швеції",
+      "Швецію"
+    ]
+  },
+  {
+    "code": "SZ",
+    "name_uk": "Есватіні",
+    "name_en": "eSwatini",
+    "lat": -26.559,
+    "lon": 31.482,
+    "aliases": [
+      "Есватіні",
+      "eSwatini"
+    ]
+  },
+  {
+    "code": "SR",
+    "name_uk": "Суринам",
+    "name_en": "Suriname",
+    "lat": 4.131,
+    "lon": -55.913,
+    "aliases": [
+      "Суринам",
+      "Suriname"
+    ]
+  },
+  {
+    "code": "SS",
+    "name_uk": "Південний Судан",
+    "name_en": "S. Sudan",
+    "lat": 7.309,
+    "lon": 30.248,
+    "aliases": [
+      "Південний Судан",
+      "S. Sudan"
+    ]
+  },
+  {
+    "code": "SD",
+    "name_uk": "Судан",
+    "name_en": "Sudan",
+    "lat": 15.991,
+    "lon": 29.94,
+    "aliases": [
+      "Судан",
+      "Sudan"
+    ]
+  },
+  {
+    "code": "LK",
+    "name_uk": "Шрі-Ланка",
+    "name_en": "Sri Lanka",
+    "lat": 7.609,
+    "lon": 80.703,
+    "aliases": [
+      "Шрі-Ланка",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "code": "ES",
+    "name_uk": "Іспанія",
+    "name_en": "Spain",
+    "lat": 40.4,
+    "lon": -3.563,
+    "aliases": [
+      "Іспанія",
+      "Spain",
+      "Hiszpania",
+      "Іспанії",
+      "Іспанію"
+    ]
+  },
+  {
+    "code": "KR",
+    "name_uk": "Південна Корея",
+    "name_en": "South Korea",
+    "lat": 36.461,
+    "lon": 127.871,
+    "aliases": [
+      "Південна Корея",
+      "South Korea",
+      "Korea Południowa"
+    ]
+  },
+  {
+    "code": "ZA",
+    "name_uk": "ПАР",
+    "name_en": "South Africa",
+    "lat": -29.01,
+    "lon": 25.157,
+    "aliases": [
+      "ПАР",
+      "South Africa",
+      "RPA"
+    ]
+  },
+  {
+    "code": "SO",
+    "name_uk": "Сомалі",
+    "name_en": "Somalia",
+    "lat": 4.751,
+    "lon": 45.707,
+    "aliases": [
+      "Сомалі",
+      "Somalia"
+    ]
+  },
+  {
+    "code": null,
+    "name_uk": "Сомаліленд",
+    "name_en": "Somaliland",
+    "lat": 9.733,
+    "lon": 46.251,
+    "aliases": [
+      "Сомаліленд",
+      "Somaliland"
+    ]
+  },
+  {
+    "code": "SB",
+    "name_uk": "Соломонові Острови",
+    "name_en": "Solomon Is.",
+    "lat": -9.625,
+    "lon": 160.169,
+    "aliases": [
+      "Соломонові Острови",
+      "Solomon Is."
+    ]
+  },
+  {
+    "code": "SK",
+    "name_uk": "Словаччина",
+    "name_en": "Slovakia",
+    "lat": 48.705,
+    "lon": 19.479,
+    "aliases": [
+      "Словаччина",
+      "Slovakia",
+      "Słowacja",
+      "Словаччини",
+      "Словаччині"
+    ]
+  },
+  {
+    "code": "SI",
+    "name_uk": "Словенія",
+    "name_en": "Slovenia",
+    "lat": 46.116,
+    "lon": 14.805,
+    "aliases": [
+      "Словенія",
+      "Slovenia"
+    ]
+  },
+  {
+    "code": "SG",
+    "name_uk": "Сінгапур",
+    "name_en": "Singapore",
+    "lat": 1.359,
+    "lon": 103.817,
+    "aliases": [
+      "Сінгапур",
+      "Singapore"
+    ]
+  },
+  {
+    "code": "SL",
+    "name_uk": "Сьєрра-Леоне",
+    "name_en": "Sierra Leone",
+    "lat": 8.572,
+    "lon": -11.785,
+    "aliases": [
+      "Сьєрра-Леоне",
+      "Sierra Leone"
+    ]
+  },
+  {
+    "code": "SC",
+    "name_uk": "Сейшельські Острови",
+    "name_en": "Seychelles",
+    "lat": -4.66,
+    "lon": 55.476,
+    "aliases": [
+      "Сейшельські Острови",
+      "Seychelles"
+    ]
+  },
+  {
+    "code": "RS",
+    "name_uk": "Сербія",
+    "name_en": "Serbia",
+    "lat": 44.222,
+    "lon": 20.789,
+    "aliases": [
+      "Сербія",
+      "Serbia",
+      "Сербії",
+      "Сербію"
+    ]
+  },
+  {
+    "code": "SN",
+    "name_uk": "Сенегал",
+    "name_en": "Senegal",
+    "lat": 14.366,
+    "lon": -14.473,
+    "aliases": [
+      "Сенегал",
+      "Senegal"
+    ]
+  },
+  {
+    "code": "SA",
+    "name_uk": "Саудівська Аравія",
+    "name_en": "Saudi Arabia",
+    "lat": 24.125,
+    "lon": 44.539,
+    "aliases": [
+      "Саудівська Аравія",
+      "Saudi Arabia",
+      "Arabia Saudyjska"
+    ]
+  },
+  {
+    "code": "ST",
+    "name_uk": "Сан-Томе і Принсіпі",
+    "name_en": "São Tomé and Principe",
+    "lat": 0.238,
+    "lon": 6.606,
+    "aliases": [
+      "Сан-Томе і Принсіпі",
+      "São Tomé and Principe"
+    ]
+  },
+  {
+    "code": "SM",
+    "name_uk": "Сан-Марино",
+    "name_en": "San Marino",
+    "lat": 43.942,
+    "lon": 12.46,
+    "aliases": [
+      "Сан-Марино",
+      "San Marino"
+    ]
+  },
+  {
+    "code": "WS",
+    "name_uk": "Самоа",
+    "name_en": "Samoa",
+    "lat": -13.631,
+    "lon": -172.437,
+    "aliases": [
+      "Самоа",
+      "Samoa"
+    ]
+  },
+  {
+    "code": "VC",
+    "name_uk": "Сент-Вінсент і Гренадини",
+    "name_en": "St. Vin. and Gren.",
+    "lat": 13.254,
+    "lon": -61.195,
+    "aliases": [
+      "Сент-Вінсент і Гренадини",
+      "St. Vin. and Gren."
+    ]
+  },
+  {
+    "code": "LC",
+    "name_uk": "Сент-Люсія",
+    "name_en": "Saint Lucia",
+    "lat": 13.895,
+    "lon": -60.97,
+    "aliases": [
+      "Сент-Люсія",
+      "Saint Lucia"
+    ]
+  },
+  {
+    "code": "KN",
+    "name_uk": "Сент-Кіттс і Невіс",
+    "name_en": "St. Kitts and Nevis",
+    "lat": 17.326,
+    "lon": -62.747,
+    "aliases": [
+      "Сент-Кіттс і Невіс",
+      "St. Kitts and Nevis"
+    ]
+  },
+  {
+    "code": "RW",
+    "name_uk": "Руанда",
+    "name_en": "Rwanda",
+    "lat": -1.99,
+    "lon": 29.92,
+    "aliases": [
+      "Руанда",
+      "Rwanda"
+    ]
+  },
+  {
+    "code": "RU",
+    "name_uk": "Росія",
+    "name_en": "Russia",
+    "lat": 61.699,
+    "lon": 99.728,
+    "aliases": [
+      "Росія",
+      "Russia",
+      "Rosja",
+      "Росії",
+      "Росію"
+    ]
+  },
+  {
+    "code": "RO",
+    "name_uk": "Румунія",
+    "name_en": "Romania",
+    "lat": 45.853,
+    "lon": 24.973,
+    "aliases": [
+      "Румунія",
+      "Romania",
+      "Rumunia",
+      "Румунії",
+      "Румунію"
+    ]
+  },
+  {
+    "code": "QA",
+    "name_uk": "Катар",
+    "name_en": "Qatar",
+    "lat": 25.306,
+    "lon": 51.185,
+    "aliases": [
+      "Катар",
+      "Qatar"
+    ]
+  },
+  {
+    "code": "PT",
+    "name_uk": "Португалія",
+    "name_en": "Portugal",
+    "lat": 39.677,
+    "lon": -7.977,
+    "aliases": [
+      "Португалія",
+      "Portugal",
+      "Portugalia",
+      "Португалії",
+      "Португалію"
+    ]
+  },
+  {
+    "code": "PL",
+    "name_uk": "Польща",
+    "name_en": "Poland",
+    "lat": 52.128,
+    "lon": 19.39,
+    "aliases": [
+      "Польща",
+      "Poland",
+      "Polska",
+      "Польщі",
+      "Польщу",
+      "Польщею",
+      "в Польщі"
+    ]
+  },
+  {
+    "code": "PH",
+    "name_uk": "Філіппіни",
+    "name_en": "Philippines",
+    "lat": 15.957,
+    "lon": 121.416,
+    "aliases": [
+      "Філіппіни",
+      "Philippines"
+    ]
+  },
+  {
+    "code": "PE",
+    "name_uk": "Перу",
+    "name_en": "Peru",
+    "lat": -9.153,
+    "lon": -74.382,
+    "aliases": [
+      "Перу",
+      "Peru"
+    ]
+  },
+  {
+    "code": "PY",
+    "name_uk": "Парагвай",
+    "name_en": "Paraguay",
+    "lat": -23.228,
+    "lon": -58.4,
+    "aliases": [
+      "Парагвай",
+      "Paraguay"
+    ]
+  },
+  {
+    "code": "PG",
+    "name_uk": "Папуа Нова Гвінея",
+    "name_en": "Papua New Guinea",
+    "lat": -6.606,
+    "lon": 144.245,
+    "aliases": [
+      "Папуа Нова Гвінея",
+      "Papua New Guinea"
+    ]
+  },
+  {
+    "code": "PA",
+    "name_uk": "Панама",
+    "name_en": "Panama",
+    "lat": 8.524,
+    "lon": -80.112,
+    "aliases": [
+      "Панама",
+      "Panama"
+    ]
+  },
+  {
+    "code": "PW",
+    "name_uk": "Палау",
+    "name_en": "Palau",
+    "lat": 7.514,
+    "lon": 134.581,
+    "aliases": [
+      "Палау",
+      "Palau"
+    ]
+  },
+  {
+    "code": "PK",
+    "name_uk": "Пакистан",
+    "name_en": "Pakistan",
+    "lat": 29.95,
+    "lon": 69.34,
+    "aliases": [
+      "Пакистан",
+      "Pakistan",
+      "Пакистану",
+      "Пакистані"
+    ]
+  },
+  {
+    "code": "OM",
+    "name_uk": "Оман",
+    "name_en": "Oman",
+    "lat": 20.576,
+    "lon": 56.086,
+    "aliases": [
+      "Оман",
+      "Oman"
+    ]
+  },
+  {
+    "code": "NO",
+    "name_uk": "Норвегія",
+    "name_en": "Norway",
+    "lat": 64.238,
+    "lon": 13.909,
+    "aliases": [
+      "Норвегія",
+      "Norway",
+      "Norwegia",
+      "Норвегії",
+      "Норвегію"
+    ]
+  },
+  {
+    "code": "KP",
+    "name_uk": "КНДР",
+    "name_en": "North Korea",
+    "lat": 40.154,
+    "lon": 127.193,
+    "aliases": [
+      "КНДР",
+      "North Korea",
+      "Korea Północna"
+    ]
+  },
+  {
+    "code": "NG",
+    "name_uk": "Нігерія",
+    "name_en": "Nigeria",
+    "lat": 9.595,
+    "lon": 8.09,
+    "aliases": [
+      "Нігерія",
+      "Nigeria"
+    ]
+  },
+  {
+    "code": "NE",
+    "name_uk": "Нігер",
+    "name_en": "Niger",
+    "lat": 17.419,
+    "lon": 9.386,
+    "aliases": [
+      "Нігер",
+      "Niger"
+    ]
+  },
+  {
+    "code": "NI",
+    "name_uk": "Нікарагуа",
+    "name_en": "Nicaragua",
+    "lat": 12.847,
+    "lon": -85.03,
+    "aliases": [
+      "Нікарагуа",
+      "Nicaragua"
+    ]
+  },
+  {
+    "code": "NZ",
+    "name_uk": "Нова Зеландія",
+    "name_en": "New Zealand",
+    "lat": -43.974,
+    "lon": 170.528,
+    "aliases": [
+      "Нова Зеландія",
+      "New Zealand"
+    ]
+  },
+  {
+    "code": "NU",
+    "name_uk": "Ніуе",
+    "name_en": "Niue",
+    "lat": -19.049,
+    "lon": -169.87,
+    "aliases": [
+      "Ніуе",
+      "Niue"
+    ]
+  },
+  {
+    "code": "CK",
+    "name_uk": "Острови Кука",
+    "name_en": "Cook Is.",
+    "lat": -21.22,
+    "lon": -159.787,
+    "aliases": [
+      "Острови Кука",
+      "Cook Is."
+    ]
+  },
+  {
+    "code": "NL",
+    "name_uk": "Нідерланди",
+    "name_en": "Netherlands",
+    "lat": 52.282,
+    "lon": 5.642,
+    "aliases": [
+      "Нідерланди",
+      "Netherlands",
+      "Holland",
+      "Holandia",
+      "Нідерландів",
+      "Нідерландах"
+    ]
+  },
+  {
+    "code": "AW",
+    "name_uk": "Аруба",
+    "name_en": "Aruba",
+    "lat": 12.521,
+    "lon": -69.983,
+    "aliases": [
+      "Аруба",
+      "Aruba"
+    ]
+  },
+  {
+    "code": "CW",
+    "name_uk": "Кюрасао",
+    "name_en": "Curaçao",
+    "lat": 12.196,
+    "lon": -68.972,
+    "aliases": [
+      "Кюрасао",
+      "Curaçao"
+    ]
+  },
+  {
+    "code": "NP",
+    "name_uk": "Непал",
+    "name_en": "Nepal",
+    "lat": 28.249,
+    "lon": 83.916,
+    "aliases": [
+      "Непал",
+      "Nepal"
+    ]
+  },
+  {
+    "code": "NR",
+    "name_uk": "Науру",
+    "name_en": "Nauru",
+    "lat": -0.519,
+    "lon": 166.933,
+    "aliases": [
+      "Науру",
+      "Nauru"
+    ]
+  },
+  {
+    "code": "NA",
+    "name_uk": "Намібія",
+    "name_en": "Namibia",
+    "lat": -22.13,
+    "lon": 17.21,
+    "aliases": [
+      "Намібія",
+      "Namibia"
+    ]
+  },
+  {
+    "code": "MZ",
+    "name_uk": "Мозамбік",
+    "name_en": "Mozambique",
+    "lat": -17.272,
+    "lon": 35.534,
+    "aliases": [
+      "Мозамбік",
+      "Mozambique"
+    ]
+  },
+  {
+    "code": "MA",
+    "name_uk": "Марокко",
+    "name_en": "Morocco",
+    "lat": 29.837,
+    "lon": -8.456,
+    "aliases": [
+      "Марокко",
+      "Morocco"
+    ]
+  },
+  {
+    "code": "EH",
+    "name_uk": "Західна Сахара",
+    "name_en": "W. Sahara",
+    "lat": 24.23,
+    "lon": -12.219,
+    "aliases": [
+      "Західна Сахара",
+      "W. Sahara"
+    ]
+  },
+  {
+    "code": "ME",
+    "name_uk": "Чорногорія",
+    "name_en": "Montenegro",
+    "lat": 42.789,
+    "lon": 19.239,
+    "aliases": [
+      "Чорногорія",
+      "Montenegro"
+    ]
+  },
+  {
+    "code": "MN",
+    "name_uk": "Монголія",
+    "name_en": "Mongolia",
+    "lat": 46.827,
+    "lon": 103.053,
+    "aliases": [
+      "Монголія",
+      "Mongolia"
+    ]
+  },
+  {
+    "code": "MD",
+    "name_uk": "Молдова",
+    "name_en": "Moldova",
+    "lat": 47.195,
+    "lon": 28.457,
+    "aliases": [
+      "Молдова",
+      "Moldova",
+      "Mołdawia",
+      "Молдови",
+      "Молдові"
+    ]
+  },
+  {
+    "code": "MC",
+    "name_uk": "Монако",
+    "name_en": "Monaco",
+    "lat": 43.752,
+    "lon": 7.407,
+    "aliases": [
+      "Монако",
+      "Monaco"
+    ]
+  },
+  {
+    "code": "MX",
+    "name_uk": "Мексика",
+    "name_en": "Mexico",
+    "lat": 23.941,
+    "lon": -102.505,
+    "aliases": [
+      "Мексика",
+      "Mexico",
+      "Meksyk",
+      "Мексики",
+      "Мексиці"
+    ]
+  },
+  {
+    "code": "MU",
+    "name_uk": "Маврикій",
+    "name_en": "Mauritius",
+    "lat": -20.278,
+    "lon": 57.571,
+    "aliases": [
+      "Маврикій",
+      "Mauritius"
+    ]
+  },
+  {
+    "code": "MR",
+    "name_uk": "Мавританія",
+    "name_en": "Mauritania",
+    "lat": 20.257,
+    "lon": -10.347,
+    "aliases": [
+      "Мавританія",
+      "Mauritania"
+    ]
+  },
+  {
+    "code": "MT",
+    "name_uk": "Мальта",
+    "name_en": "Malta",
+    "lat": 35.89,
+    "lon": 14.444,
+    "aliases": [
+      "Мальта",
+      "Malta"
+    ]
+  },
+  {
+    "code": "ML",
+    "name_uk": "Малі",
+    "name_en": "Mali",
+    "lat": 17.346,
+    "lon": -3.543,
+    "aliases": [
+      "Малі",
+      "Mali"
+    ]
+  },
+  {
+    "code": "MV",
+    "name_uk": "Мальдіви",
+    "name_en": "Maldives",
+    "lat": 4.197,
+    "lon": 73.503,
+    "aliases": [
+      "Мальдіви",
+      "Maldives"
+    ]
+  },
+  {
+    "code": "MY",
+    "name_uk": "Малайзія",
+    "name_en": "Malaysia",
+    "lat": 3.615,
+    "lon": 114.724,
+    "aliases": [
+      "Малайзія",
+      "Malaysia"
+    ]
+  },
+  {
+    "code": "MW",
+    "name_uk": "Малаві",
+    "name_en": "Malawi",
+    "lat": -13.22,
+    "lon": 34.289,
+    "aliases": [
+      "Малаві",
+      "Malawi"
+    ]
+  },
+  {
+    "code": "MG",
+    "name_uk": "Мадагаскар",
+    "name_en": "Madagascar",
+    "lat": -19.375,
+    "lon": 46.703,
+    "aliases": [
+      "Мадагаскар",
+      "Madagascar"
+    ]
+  },
+  {
+    "code": "MK",
+    "name_uk": "Північна Македонія",
+    "name_en": "Macedonia",
+    "lat": 41.595,
+    "lon": 21.682,
+    "aliases": [
+      "Північна Македонія",
+      "Macedonia",
+      "North Macedonia",
+      "Македонія",
+      "Македонії"
+    ]
+  },
+  {
+    "code": "LU",
+    "name_uk": "Люксембург",
+    "name_en": "Luxembourg",
+    "lat": 49.767,
+    "lon": 6.072,
+    "aliases": [
+      "Люксембург",
+      "Luxembourg"
+    ]
+  },
+  {
+    "code": "LT",
+    "name_uk": "Литва",
+    "name_en": "Lithuania",
+    "lat": 55.326,
+    "lon": 23.892,
+    "aliases": [
+      "Литва",
+      "Lithuania",
+      "Litwa",
+      "Литви",
+      "Литві"
+    ]
+  },
+  {
+    "code": "LI",
+    "name_uk": "Ліхтенштейн",
+    "name_en": "Liechtenstein",
+    "lat": 47.137,
+    "lon": 9.536,
+    "aliases": [
+      "Ліхтенштейн",
+      "Liechtenstein"
+    ]
+  },
+  {
+    "code": "LY",
+    "name_uk": "Лівія",
+    "name_en": "Libya",
+    "lat": 27.031,
+    "lon": 18.008,
+    "aliases": [
+      "Лівія",
+      "Libya"
+    ]
+  },
+  {
+    "code": "LR",
+    "name_uk": "Ліберія",
+    "name_en": "Liberia",
+    "lat": 6.453,
+    "lon": -9.322,
+    "aliases": [
+      "Ліберія",
+      "Liberia"
+    ]
+  },
+  {
+    "code": "LS",
+    "name_uk": "Лесото",
+    "name_en": "Lesotho",
+    "lat": -29.58,
+    "lon": 28.227,
+    "aliases": [
+      "Лесото",
+      "Lesotho"
+    ]
+  },
+  {
+    "code": "LB",
+    "name_uk": "Ліван",
+    "name_en": "Lebanon",
+    "lat": 33.923,
+    "lon": 35.88,
+    "aliases": [
+      "Ліван",
+      "Lebanon",
+      "Liban",
+      "Лівану",
+      "Лівані"
+    ]
+  },
+  {
+    "code": "LV",
+    "name_uk": "Латвія",
+    "name_en": "Latvia",
+    "lat": 56.851,
+    "lon": 24.912,
+    "aliases": [
+      "Латвія",
+      "Latvia",
+      "Łotwa",
+      "Латвії",
+      "Латвію"
+    ]
+  },
+  {
+    "code": "LA",
+    "name_uk": "Лаос",
+    "name_en": "Laos",
+    "lat": 18.502,
+    "lon": 103.738,
+    "aliases": [
+      "Лаос",
+      "Laos"
+    ]
+  },
+  {
+    "code": "KG",
+    "name_uk": "Киргизстан",
+    "name_en": "Kyrgyzstan",
+    "lat": 41.458,
+    "lon": 74.532,
+    "aliases": [
+      "Киргизстан",
+      "Kyrgyzstan"
+    ]
+  },
+  {
+    "code": "KW",
+    "name_uk": "Кувейт",
+    "name_en": "Kuwait",
+    "lat": 29.317,
+    "lon": 47.562,
+    "aliases": [
+      "Кувейт",
+      "Kuwait"
+    ]
+  },
+  {
+    "code": "XK",
+    "name_uk": "Косово",
+    "name_en": "Kosovo",
+    "lat": 42.571,
+    "lon": 20.873,
+    "aliases": [
+      "Косово",
+      "Kosovo",
+      "Kosowa",
+      "Косова"
+    ]
+  },
+  {
+    "code": "KI",
+    "name_uk": "Кірибаті",
+    "name_en": "Kiribati",
+    "lat": 1.854,
+    "lon": -157.374,
+    "aliases": [
+      "Кірибаті",
+      "Kiribati"
+    ]
+  },
+  {
+    "code": "KE",
+    "name_uk": "Кенія",
+    "name_en": "Kenya",
+    "lat": 0.601,
+    "lon": 37.795,
+    "aliases": [
+      "Кенія",
+      "Kenya"
+    ]
+  },
+  {
+    "code": "KZ",
+    "name_uk": "Казахстан",
+    "name_en": "Kazakhstan",
+    "lat": 48.157,
+    "lon": 67.293,
+    "aliases": [
+      "Казахстан",
+      "Kazakhstan"
+    ]
+  },
+  {
+    "code": "JO",
+    "name_uk": "Йорданія",
+    "name_en": "Jordan",
+    "lat": 31.246,
+    "lon": 36.771,
+    "aliases": [
+      "Йорданія",
+      "Jordan",
+      "Jordania",
+      "Йорданії",
+      "Йорданію"
+    ]
+  },
+  {
+    "code": "JP",
+    "name_uk": "Японія",
+    "name_en": "Japan",
+    "lat": 36.65,
+    "lon": 137.986,
+    "aliases": [
+      "Японія",
+      "Japan",
+      "Japonia",
+      "Японії",
+      "Японію"
+    ]
+  },
+  {
+    "code": "JM",
+    "name_uk": "Ямайка",
+    "name_en": "Jamaica",
+    "lat": 18.157,
+    "lon": -77.315,
+    "aliases": [
+      "Ямайка",
+      "Jamaica"
+    ]
+  },
+  {
+    "code": "IT",
+    "name_uk": "Італія",
+    "name_en": "Italy",
+    "lat": 43.53,
+    "lon": 12.148,
+    "aliases": [
+      "Італія",
+      "Italy",
+      "Włochy",
+      "Італії",
+      "Італію"
+    ]
+  },
+  {
+    "code": "IL",
+    "name_uk": "Ізраїль",
+    "name_en": "Israel",
+    "lat": 31.461,
+    "lon": 35.004,
+    "aliases": [
+      "Ізраїль",
+      "Israel",
+      "Izrael",
+      "Ізраїлю",
+      "Ізраїлі"
+    ]
+  },
+  {
+    "code": "PS",
+    "name_uk": "Палестина",
+    "name_en": "Palestine",
+    "lat": 31.948,
+    "lon": 35.248,
+    "aliases": [
+      "Палестина",
+      "Palestine",
+      "Gaza",
+      "Газа",
+      "Гази",
+      "Палестини"
+    ]
+  },
+  {
+    "code": "IE",
+    "name_uk": "Ірландія",
+    "name_en": "Ireland",
+    "lat": 53.174,
+    "lon": -8.135,
+    "aliases": [
+      "Ірландія",
+      "Ireland"
+    ]
+  },
+  {
+    "code": "IQ",
+    "name_uk": "Ірак",
+    "name_en": "Iraq",
+    "lat": 33.04,
+    "lon": 43.744,
+    "aliases": [
+      "Ірак",
+      "Iraq",
+      "Irak",
+      "Іраку",
+      "Іраці"
+    ]
+  },
+  {
+    "code": "IR",
+    "name_uk": "Іран",
+    "name_en": "Iran",
+    "lat": 32.58,
+    "lon": 54.273,
+    "aliases": [
+      "Іран",
+      "Iran",
+      "Ірану",
+      "Ірані"
+    ]
+  },
+  {
+    "code": "ID",
+    "name_uk": "Індонезія",
+    "name_en": "Indonesia",
+    "lat": -0.191,
+    "lon": 114.014,
+    "aliases": [
+      "Індонезія",
+      "Indonesia"
+    ]
+  },
+  {
+    "code": "IN",
+    "name_uk": "Індія",
+    "name_en": "India",
+    "lat": 22.909,
+    "lon": 79.585,
+    "aliases": [
+      "Індія",
+      "India",
+      "Indie",
+      "Індії",
+      "Індію"
+    ]
+  },
+  {
+    "code": "IS",
+    "name_uk": "Ісландія",
+    "name_en": "Iceland",
+    "lat": 64.996,
+    "lon": -18.574,
+    "aliases": [
+      "Ісландія",
+      "Iceland"
+    ]
+  },
+  {
+    "code": "HU",
+    "name_uk": "Угорщина",
+    "name_en": "Hungary",
+    "lat": 47.163,
+    "lon": 19.396,
+    "aliases": [
+      "Угорщина",
+      "Hungary",
+      "Węgry",
+      "Угорщини",
+      "Угорщині"
+    ]
+  },
+  {
+    "code": "HN",
+    "name_uk": "Гондурас",
+    "name_en": "Honduras",
+    "lat": 14.824,
+    "lon": -86.616,
+    "aliases": [
+      "Гондурас",
+      "Honduras"
+    ]
+  },
+  {
+    "code": "HT",
+    "name_uk": "Гаїті",
+    "name_en": "Haiti",
+    "lat": 18.928,
+    "lon": -72.676,
+    "aliases": [
+      "Гаїті",
+      "Haiti"
+    ]
+  },
+  {
+    "code": "GY",
+    "name_uk": "Гаяна",
+    "name_en": "Guyana",
+    "lat": 4.794,
+    "lon": -58.982,
+    "aliases": [
+      "Гаяна",
+      "Guyana"
+    ]
+  },
+  {
+    "code": "GW",
+    "name_uk": "Гвінея-Бісау",
+    "name_en": "Guinea-Bissau",
+    "lat": 12.064,
+    "lon": -14.924,
+    "aliases": [
+      "Гвінея-Бісау",
+      "Guinea-Bissau"
+    ]
+  },
+  {
+    "code": "GN",
+    "name_uk": "Гвінея",
+    "name_en": "Guinea",
+    "lat": 10.436,
+    "lon": -10.941,
+    "aliases": [
+      "Гвінея",
+      "Guinea"
+    ]
+  },
+  {
+    "code": "GT",
+    "name_uk": "Гватемала",
+    "name_en": "Guatemala",
+    "lat": 15.694,
+    "lon": -90.365,
+    "aliases": [
+      "Гватемала",
+      "Guatemala"
+    ]
+  },
+  {
+    "code": "GD",
+    "name_uk": "Гренада",
+    "name_en": "Grenada",
+    "lat": 12.118,
+    "lon": -61.682,
+    "aliases": [
+      "Гренада",
+      "Grenada"
+    ]
+  },
+  {
+    "code": "GR",
+    "name_uk": "Греція",
+    "name_en": "Greece",
+    "lat": 39.479,
+    "lon": 22.585,
+    "aliases": [
+      "Греція",
+      "Greece",
+      "Grecja",
+      "Греції",
+      "Грецію"
+    ]
+  },
+  {
+    "code": "GH",
+    "name_uk": "Гана",
+    "name_en": "Ghana",
+    "lat": 7.953,
+    "lon": -1.217,
+    "aliases": [
+      "Гана",
+      "Ghana"
+    ]
+  },
+  {
+    "code": "DE",
+    "name_uk": "Німеччина",
+    "name_en": "Germany",
+    "lat": 51.088,
+    "lon": 10.372,
+    "aliases": [
+      "Німеччина",
+      "Germany",
+      "Niemcy",
+      "Німеччини",
+      "Німеччині",
+      "Німеччину"
+    ]
+  },
+  {
+    "code": "GE",
+    "name_uk": "Грузія",
+    "name_en": "Georgia",
+    "lat": 42.169,
+    "lon": 43.508,
+    "aliases": [
+      "Грузія",
+      "Georgia",
+      "Gruzja",
+      "Грузії",
+      "Грузію",
+      "Tbilisi"
+    ]
+  },
+  {
+    "code": "GM",
+    "name_uk": "Гамбія",
+    "name_en": "Gambia",
+    "lat": 13.45,
+    "lon": -15.396,
+    "aliases": [
+      "Гамбія",
+      "Gambia"
+    ]
+  },
+  {
+    "code": "GA",
+    "name_uk": "Габон",
+    "name_en": "Gabon",
+    "lat": -0.587,
+    "lon": 11.788,
+    "aliases": [
+      "Габон",
+      "Gabon"
+    ]
+  },
+  {
+    "code": "FR",
+    "name_uk": "Франція",
+    "name_en": "France",
+    "lat": 46.62,
+    "lon": 2.453,
+    "aliases": [
+      "Франція",
+      "France",
+      "Francja",
+      "Франції",
+      "Францію"
+    ]
+  },
+  {
+    "code": "PM",
+    "name_uk": "Сен-П'єр і Мікелон",
+    "name_en": "St. Pierre and Miquelon",
+    "lat": 46.945,
+    "lon": -56.327,
+    "aliases": [
+      "Сен-П'єр і Мікелон",
+      "St. Pierre and Miquelon"
+    ]
+  },
+  {
+    "code": "WF",
+    "name_uk": "Волліс і Футуна",
+    "name_en": "Wallis and Futuna Is.",
+    "lat": -14.286,
+    "lon": -178.13,
+    "aliases": [
+      "Волліс і Футуна",
+      "Wallis and Futuna Is."
+    ]
+  },
+  {
+    "code": "MF",
+    "name_uk": "Сен-Мартен",
+    "name_en": "St-Martin",
+    "lat": 18.089,
+    "lon": -63.06,
+    "aliases": [
+      "Сен-Мартен",
+      "St-Martin"
+    ]
+  },
+  {
+    "code": "BL",
+    "name_uk": "Сен-Бартелемі",
+    "name_en": "St-Barthélemy",
+    "lat": 17.899,
+    "lon": -62.841,
+    "aliases": [
+      "Сен-Бартелемі",
+      "St-Barthélemy"
+    ]
+  },
+  {
+    "code": "PF",
+    "name_uk": "Французька Полінезія",
+    "name_en": "Fr. Polynesia",
+    "lat": -17.664,
+    "lon": -149.419,
+    "aliases": [
+      "Французька Полінезія",
+      "Fr. Polynesia"
+    ]
+  },
+  {
+    "code": "NC",
+    "name_uk": "Нова Каледонія",
+    "name_en": "New Caledonia",
+    "lat": -21.325,
+    "lon": 165.487,
+    "aliases": [
+      "Нова Каледонія",
+      "New Caledonia"
+    ]
+  },
+  {
+    "code": "TF",
+    "name_uk": "Французькі Південні і Антарктичні території",
+    "name_en": "Fr. S. Antarctic Lands",
+    "lat": -49.304,
+    "lon": 69.496,
+    "aliases": [
+      "Французькі Південні і Антарктичні території",
+      "Fr. S. Antarctic Lands"
+    ]
+  },
+  {
+    "code": "AX",
+    "name_uk": "Аландські острови",
+    "name_en": "Åland",
+    "lat": 60.232,
+    "lon": 19.944,
+    "aliases": [
+      "Аландські острови",
+      "Åland"
+    ]
+  },
+  {
+    "code": "FI",
+    "name_uk": "Фінляндія",
+    "name_en": "Finland",
+    "lat": 64.505,
+    "lon": 26.283,
+    "aliases": [
+      "Фінляндія",
+      "Finland",
+      "Finlandia",
+      "Фінляндії",
+      "Фінляндію"
+    ]
+  },
+  {
+    "code": "FJ",
+    "name_uk": "Фіджі",
+    "name_en": "Fiji",
+    "lat": -17.823,
+    "lon": 177.973,
+    "aliases": [
+      "Фіджі",
+      "Fiji"
+    ]
+  },
+  {
+    "code": "ET",
+    "name_uk": "Ефіопія",
+    "name_en": "Ethiopia",
+    "lat": 8.623,
+    "lon": 39.601,
+    "aliases": [
+      "Ефіопія",
+      "Ethiopia"
+    ]
+  },
+  {
+    "code": "EE",
+    "name_uk": "Естонія",
+    "name_en": "Estonia",
+    "lat": 58.686,
+    "lon": 25.832,
+    "aliases": [
+      "Естонія",
+      "Estonia",
+      "Естонії",
+      "Естонію"
+    ]
+  },
+  {
+    "code": "ER",
+    "name_uk": "Еритрея",
+    "name_en": "Eritrea",
+    "lat": 15.36,
+    "lon": 38.838,
+    "aliases": [
+      "Еритрея",
+      "Eritrea"
+    ]
+  },
+  {
+    "code": "GQ",
+    "name_uk": "Екваторіальна Гвінея",
+    "name_en": "Eq. Guinea",
+    "lat": 1.565,
+    "lon": 10.47,
+    "aliases": [
+      "Екваторіальна Гвінея",
+      "Eq. Guinea"
+    ]
+  },
+  {
+    "code": "SV",
+    "name_uk": "Сальвадор",
+    "name_en": "El Salvador",
+    "lat": 13.739,
+    "lon": -88.872,
+    "aliases": [
+      "Сальвадор",
+      "El Salvador"
+    ]
+  },
+  {
+    "code": "EG",
+    "name_uk": "Єгипет",
+    "name_en": "Egypt",
+    "lat": 26.496,
+    "lon": 29.862,
+    "aliases": [
+      "Єгипет",
+      "Egypt",
+      "Egipt",
+      "Єгипту",
+      "Єгипті"
+    ]
+  },
+  {
+    "code": "EC",
+    "name_uk": "Еквадор",
+    "name_en": "Ecuador",
+    "lat": -1.446,
+    "lon": -78.39,
+    "aliases": [
+      "Еквадор",
+      "Ecuador"
+    ]
+  },
+  {
+    "code": "DO",
+    "name_uk": "Домініканська Республіка",
+    "name_en": "Dominican Rep.",
+    "lat": 18.894,
+    "lon": -70.506,
+    "aliases": [
+      "Домініканська Республіка",
+      "Dominican Rep."
+    ]
+  },
+  {
+    "code": "DM",
+    "name_uk": "Домініка",
+    "name_en": "Dominica",
+    "lat": 15.44,
+    "lon": -61.358,
+    "aliases": [
+      "Домініка",
+      "Dominica"
+    ]
+  },
+  {
+    "code": "DJ",
+    "name_uk": "Джибуті",
+    "name_en": "Djibouti",
+    "lat": 11.749,
+    "lon": 42.56,
+    "aliases": [
+      "Джибуті",
+      "Djibouti"
+    ]
+  },
+  {
+    "code": "GL",
+    "name_uk": "Гренландія",
+    "name_en": "Greenland",
+    "lat": 74.718,
+    "lon": -41.356,
+    "aliases": [
+      "Гренландія",
+      "Greenland"
+    ]
+  },
+  {
+    "code": "FO",
+    "name_uk": "Фарерські острови",
+    "name_en": "Faeroe Is.",
+    "lat": 62.171,
+    "lon": -6.885,
+    "aliases": [
+      "Фарерські острови",
+      "Faeroe Is."
+    ]
+  },
+  {
+    "code": "DK",
+    "name_uk": "Данія",
+    "name_en": "Denmark",
+    "lat": 56.241,
+    "lon": 9.356,
+    "aliases": [
+      "Данія",
+      "Denmark",
+      "Dania",
+      "Данії",
+      "Данію"
+    ]
+  },
+  {
+    "code": "CZ",
+    "name_uk": "Чехія",
+    "name_en": "Czechia",
+    "lat": 49.733,
+    "lon": 15.312,
+    "aliases": [
+      "Чехія",
+      "Czechia",
+      "Czech Republic",
+      "Czechy",
+      "Чехії",
+      "Чехію"
+    ]
+  },
+  {
+    "code": null,
+    "name_uk": "Північний Кіпр",
+    "name_en": "N. Cyprus",
+    "lat": 35.263,
+    "lon": 33.569,
+    "aliases": [
+      "Північний Кіпр",
+      "N. Cyprus"
+    ]
+  },
+  {
+    "code": "CY",
+    "name_uk": "Кіпр",
+    "name_en": "Cyprus",
+    "lat": 34.917,
+    "lon": 33.006,
+    "aliases": [
+      "Кіпр",
+      "Cyprus"
+    ]
+  },
+  {
+    "code": "CU",
+    "name_uk": "Куба",
+    "name_en": "Cuba",
+    "lat": 21.614,
+    "lon": -78.943,
+    "aliases": [
+      "Куба",
+      "Cuba"
+    ]
+  },
+  {
+    "code": "HR",
+    "name_uk": "Хорватія",
+    "name_en": "Croatia",
+    "lat": 45.16,
+    "lon": 16.424,
+    "aliases": [
+      "Хорватія",
+      "Croatia"
+    ]
+  },
+  {
+    "code": "CI",
+    "name_uk": "Кот-д'Івуар",
+    "name_en": "Côte d'Ivoire",
+    "lat": 7.629,
+    "lon": -5.57,
+    "aliases": [
+      "Кот-д'Івуар",
+      "Côte d'Ivoire"
+    ]
+  },
+  {
+    "code": "CR",
+    "name_uk": "Коста-Рика",
+    "name_en": "Costa Rica",
+    "lat": 9.977,
+    "lon": -84.192,
+    "aliases": [
+      "Коста-Рика",
+      "Costa Rica"
+    ]
+  },
+  {
+    "code": "CD",
+    "name_uk": "ДР Конго",
+    "name_en": "Dem. Rep. Congo",
+    "lat": -2.877,
+    "lon": 23.644,
+    "aliases": [
+      "ДР Конго",
+      "Dem. Rep. Congo"
+    ]
+  },
+  {
+    "code": "CG",
+    "name_uk": "Республіка Конго",
+    "name_en": "Congo",
+    "lat": -0.838,
+    "lon": 15.22,
+    "aliases": [
+      "Республіка Конго",
+      "Congo"
+    ]
+  },
+  {
+    "code": "KM",
+    "name_uk": "Коморські Острови",
+    "name_en": "Comoros",
+    "lat": -11.654,
+    "lon": 43.339,
+    "aliases": [
+      "Коморські Острови",
+      "Comoros"
+    ]
+  },
+  {
+    "code": "CO",
+    "name_uk": "Колумбія",
+    "name_en": "Colombia",
+    "lat": 3.914,
+    "lon": -73.081,
+    "aliases": [
+      "Колумбія",
+      "Colombia"
+    ]
+  },
+  {
+    "code": "CN",
+    "name_uk": "Китай",
+    "name_en": "China",
+    "lat": 36.617,
+    "lon": 103.797,
+    "aliases": [
+      "Китай",
+      "China",
+      "Chiny",
+      "Китаю",
+      "Китаї"
+    ]
+  },
+  {
+    "code": "MO",
+    "name_uk": "Макао",
+    "name_en": "Macao",
+    "lat": 22.223,
+    "lon": 113.509,
+    "aliases": [
+      "Макао",
+      "Macao"
+    ]
+  },
+  {
+    "code": "HK",
+    "name_uk": "Гонконг",
+    "name_en": "Hong Kong",
+    "lat": 22.439,
+    "lon": 114.14,
+    "aliases": [
+      "Гонконг",
+      "Hong Kong"
+    ]
+  },
+  {
+    "code": "CL",
+    "name_uk": "Чилі",
+    "name_en": "Chile",
+    "lat": -35.746,
+    "lon": -71.311,
+    "aliases": [
+      "Чилі",
+      "Chile"
+    ]
+  },
+  {
+    "code": "TD",
+    "name_uk": "Чад",
+    "name_en": "Chad",
+    "lat": 15.333,
+    "lon": 18.645,
+    "aliases": [
+      "Чад",
+      "Chad"
+    ]
+  },
+  {
+    "code": "CF",
+    "name_uk": "Центральноафриканська Республіка",
+    "name_en": "Central African Rep.",
+    "lat": 6.568,
+    "lon": 20.468,
+    "aliases": [
+      "Центральноафриканська Республіка",
+      "Central African Rep."
+    ]
+  },
+  {
+    "code": "CV",
+    "name_uk": "Кабо-Верде",
+    "name_en": "Cabo Verde",
+    "lat": 15.083,
+    "lon": -23.637,
+    "aliases": [
+      "Кабо-Верде",
+      "Cabo Verde"
+    ]
+  },
+  {
+    "code": "CA",
+    "name_uk": "Канада",
+    "name_en": "Canada",
+    "lat": 57.934,
+    "lon": -102.365,
+    "aliases": [
+      "Канада",
+      "Canada",
+      "Kanada",
+      "Канади",
+      "Канаді"
+    ]
+  },
+  {
+    "code": "CM",
+    "name_uk": "Камерун",
+    "name_en": "Cameroon",
+    "lat": 5.691,
+    "lon": 12.739,
+    "aliases": [
+      "Камерун",
+      "Cameroon"
+    ]
+  },
+  {
+    "code": "KH",
+    "name_uk": "Камбоджа",
+    "name_en": "Cambodia",
+    "lat": 12.721,
+    "lon": 104.908,
+    "aliases": [
+      "Камбоджа",
+      "Cambodia"
+    ]
+  },
+  {
+    "code": "MM",
+    "name_uk": "М'янма",
+    "name_en": "Myanmar",
+    "lat": 21.221,
+    "lon": 96.489,
+    "aliases": [
+      "М'янма",
+      "Myanmar"
+    ]
+  },
+  {
+    "code": "BI",
+    "name_uk": "Бурунді",
+    "name_en": "Burundi",
+    "lat": -3.36,
+    "lon": 29.875,
+    "aliases": [
+      "Бурунді",
+      "Burundi"
+    ]
+  },
+  {
+    "code": "BF",
+    "name_uk": "Буркіна-Фасо",
+    "name_en": "Burkina Faso",
+    "lat": 12.27,
+    "lon": -1.754,
+    "aliases": [
+      "Буркіна-Фасо",
+      "Burkina Faso"
+    ]
+  },
+  {
+    "code": "BG",
+    "name_uk": "Болгарія",
+    "name_en": "Bulgaria",
+    "lat": 42.769,
+    "lon": 25.215,
+    "aliases": [
+      "Болгарія",
+      "Bulgaria"
+    ]
+  },
+  {
+    "code": "BN",
+    "name_uk": "Бруней",
+    "name_en": "Brunei",
+    "lat": 4.491,
+    "lon": 114.592,
+    "aliases": [
+      "Бруней",
+      "Brunei"
+    ]
+  },
+  {
+    "code": "BR",
+    "name_uk": "Бразилія",
+    "name_en": "Brazil",
+    "lat": -10.84,
+    "lon": -53.117,
+    "aliases": [
+      "Бразилія",
+      "Brazil",
+      "Brazylia",
+      "Бразилії",
+      "Бразилію"
+    ]
+  },
+  {
+    "code": "BW",
+    "name_uk": "Ботсвана",
+    "name_en": "Botswana",
+    "lat": -22.184,
+    "lon": 23.798,
+    "aliases": [
+      "Ботсвана",
+      "Botswana"
+    ]
+  },
+  {
+    "code": "BA",
+    "name_uk": "Боснія і Герцеговина",
+    "name_en": "Bosnia and Herz.",
+    "lat": 44.174,
+    "lon": 17.769,
+    "aliases": [
+      "Боснія і Герцеговина",
+      "Bosnia and Herz.",
+      "Bosnia",
+      "Bośnia",
+      "Боснії"
+    ]
+  },
+  {
+    "code": "BO",
+    "name_uk": "Болівія",
+    "name_en": "Bolivia",
+    "lat": -16.708,
+    "lon": -64.685,
+    "aliases": [
+      "Болівія",
+      "Bolivia"
+    ]
+  },
+  {
+    "code": "BT",
+    "name_uk": "Бутан",
+    "name_en": "Bhutan",
+    "lat": 27.411,
+    "lon": 90.402,
+    "aliases": [
+      "Бутан",
+      "Bhutan"
+    ]
+  },
+  {
+    "code": "BJ",
+    "name_uk": "Бенін",
+    "name_en": "Benin",
+    "lat": 9.642,
+    "lon": 2.328,
+    "aliases": [
+      "Бенін",
+      "Benin"
+    ]
+  },
+  {
+    "code": "BZ",
+    "name_uk": "Беліз",
+    "name_en": "Belize",
+    "lat": 17.195,
+    "lon": -88.718,
+    "aliases": [
+      "Беліз",
+      "Belize"
+    ]
+  },
+  {
+    "code": "BE",
+    "name_uk": "Бельгія",
+    "name_en": "Belgium",
+    "lat": 50.639,
+    "lon": 4.639,
+    "aliases": [
+      "Бельгія",
+      "Belgium",
+      "Belgia",
+      "Бельгії",
+      "Бельгію"
+    ]
+  },
+  {
+    "code": "BY",
+    "name_uk": "Білорусь",
+    "name_en": "Belarus",
+    "lat": 53.531,
+    "lon": 28.033,
+    "aliases": [
+      "Білорусь",
+      "Belarus",
+      "Białoruś",
+      "Білорусі"
+    ]
+  },
+  {
+    "code": "BB",
+    "name_uk": "Барбадос",
+    "name_en": "Barbados",
+    "lat": 13.181,
+    "lon": -59.56,
+    "aliases": [
+      "Барбадос",
+      "Barbados"
+    ]
+  },
+  {
+    "code": "BD",
+    "name_uk": "Бангладеш",
+    "name_en": "Bangladesh",
+    "lat": 23.898,
+    "lon": 90.224,
+    "aliases": [
+      "Бангладеш",
+      "Bangladesh"
+    ]
+  },
+  {
+    "code": "BH",
+    "name_uk": "Бахрейн",
+    "name_en": "Bahrain",
+    "lat": 26.041,
+    "lon": 50.543,
+    "aliases": [
+      "Бахрейн",
+      "Bahrain"
+    ]
+  },
+  {
+    "code": "BS",
+    "name_uk": "Багамські Острови",
+    "name_en": "Bahamas",
+    "lat": 24.701,
+    "lon": -78.038,
+    "aliases": [
+      "Багамські Острови",
+      "Bahamas"
+    ]
+  },
+  {
+    "code": "AZ",
+    "name_uk": "Азербайджан",
+    "name_en": "Azerbaijan",
+    "lat": 40.344,
+    "lon": 47.664,
+    "aliases": [
+      "Азербайджан",
+      "Azerbaijan",
+      "Azerbejdżan",
+      "Азербайджану",
+      "Азербайджані"
+    ]
+  },
+  {
+    "code": "AT",
+    "name_uk": "Австрія",
+    "name_en": "Austria",
+    "lat": 47.586,
+    "lon": 14.126,
+    "aliases": [
+      "Австрія",
+      "Austria",
+      "Австрії",
+      "Австрію"
+    ]
+  },
+  {
+    "code": "AU",
+    "name_uk": "Австралія",
+    "name_en": "Australia",
+    "lat": -25.573,
+    "lon": 134.355,
+    "aliases": [
+      "Австралія",
+      "Australia",
+      "Австралії",
+      "Австралію"
+    ]
+  },
+  {
+    "code": null,
+    "name_uk": "Територія в Індійському океані",
+    "name_en": "Indian Ocean Ter.",
+    "lat": -10.493,
+    "lon": 105.662,
+    "aliases": [
+      "Територія в Індійському океані",
+      "Indian Ocean Ter."
+    ]
+  },
+  {
+    "code": "HM",
+    "name_uk": "Острів Херд і острови Макдональд",
+    "name_en": "Heard I. and McDonald Is.",
+    "lat": -53.087,
+    "lon": 73.521,
+    "aliases": [
+      "Острів Херд і острови Макдональд",
+      "Heard I. and McDonald Is."
+    ]
+  },
+  {
+    "code": "NF",
+    "name_uk": "Острів Норфолк",
+    "name_en": "Norfolk Island",
+    "lat": -29.052,
+    "lon": 167.949,
+    "aliases": [
+      "Острів Норфолк",
+      "Norfolk Island"
+    ]
+  },
+  {
+    "code": "AU",
+    "name_uk": "Острови Ашмор і Картьє",
+    "name_en": "Ashmore and Cartier Is.",
+    "lat": -12.43,
+    "lon": 123.584,
+    "aliases": [
+      "Острови Ашмор і Картьє",
+      "Ashmore and Cartier Is.",
+      "Australia",
+      "Австралії",
+      "Австралію"
+    ]
+  },
+  {
+    "code": "AM",
+    "name_uk": "Вірменія",
+    "name_en": "Armenia",
+    "lat": 40.29,
+    "lon": 44.929,
+    "aliases": [
+      "Вірменія",
+      "Armenia",
+      "Вірменії",
+      "Вірменію"
+    ]
+  },
+  {
+    "code": "AR",
+    "name_uk": "Аргентина",
+    "name_en": "Argentina",
+    "lat": -35.18,
+    "lon": -65.156,
+    "aliases": [
+      "Аргентина",
+      "Argentina"
+    ]
+  },
+  {
+    "code": "AG",
+    "name_uk": "Антигуа і Барбуда",
+    "name_en": "Antigua and Barb.",
+    "lat": 17.078,
+    "lon": -61.79,
+    "aliases": [
+      "Антигуа і Барбуда",
+      "Antigua and Barb."
+    ]
+  },
+  {
+    "code": "AO",
+    "name_uk": "Ангола",
+    "name_en": "Angola",
+    "lat": -12.332,
+    "lon": 17.565,
+    "aliases": [
+      "Ангола",
+      "Angola"
+    ]
+  },
+  {
+    "code": "AD",
+    "name_uk": "Андорра",
+    "name_en": "Andorra",
+    "lat": 42.542,
+    "lon": 1.561,
+    "aliases": [
+      "Андорра",
+      "Andorra"
+    ]
+  },
+  {
+    "code": "DZ",
+    "name_uk": "Алжир",
+    "name_en": "Algeria",
+    "lat": 28.159,
+    "lon": 2.617,
+    "aliases": [
+      "Алжир",
+      "Algeria"
+    ]
+  },
+  {
+    "code": "AL",
+    "name_uk": "Албанія",
+    "name_en": "Albania",
+    "lat": 41.142,
+    "lon": 20.05,
+    "aliases": [
+      "Албанія",
+      "Albania"
+    ]
+  },
+  {
+    "code": "AF",
+    "name_uk": "Афганістан",
+    "name_en": "Afghanistan",
+    "lat": 33.835,
+    "lon": 66.005,
+    "aliases": [
+      "Афганістан",
+      "Afghanistan",
+      "Afganistan",
+      "Афганістану",
+      "Афганістані"
+    ]
+  },
+  {
+    "code": null,
+    "name_uk": "Льодовик Сіачен",
+    "name_en": "Siachen Glacier",
+    "lat": 35.393,
+    "lon": 77.18,
+    "aliases": [
+      "Льодовик Сіачен",
+      "Siachen Glacier"
+    ]
+  },
+  {
+    "code": "AQ",
+    "name_uk": "Антарктида",
+    "name_en": "Antarctica",
+    "lat": -79.442,
+    "lon": -47.8,
+    "aliases": [
+      "Антарктида",
+      "Antarctica"
+    ]
+  },
+  {
+    "code": "SX",
+    "name_uk": "Сінт-Мартен",
+    "name_en": "Sint Maarten",
+    "lat": 18.051,
+    "lon": -63.057,
+    "aliases": [
+      "Сінт-Мартен",
+      "Sint Maarten"
+    ]
+  }
+]

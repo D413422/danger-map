@@ -1,0 +1,26 @@
+[
+  {
+    "from": "i-arkea",
+    "to": "i-binance",
+    "reason": "Стаття Reuters про Arkéa прямо порівнює дві фінансові кібератаки. Це контекст, НЕ доказ одного виконавця, кампанії чи причинного зв’язку.",
+    "relation": "контекст",
+    "source": "https://live.euronext.com/en/financial-news/french-bank-credit-mutuel-arkea-says-eu100-million-missing-after-cyberattack",
+    "speculative": false
+  },
+  {
+    "from": "u-warsaw",
+    "to": "t-poland",
+    "reason": "RDC у повідомленні про марш прямо згадує чинні BRAVO / BRAVO-CRP і CHARLIE на визначеній залізниці. Це режим безпеки, не доказ змови чи планованої атаки.",
+    "relation": "офіційний режим",
+    "source": "https://rdc.pl/aktualnosci/warszawa/marsz-niepodleglosci-w-warszawie-trasa-i-harmonogram-przemarszu-na-11-listopada_onRGPDWpLkhkRpfasIoe",
+    "speculative": false
+  },
+  {
+    "from": "u-krakow",
+    "to": "l-krakow",
+    "reason": "Обидва офіційні записи стосуються Кракова. Лише географічний контекст; річна статистика не прогнозує злочин на ярмарку.",
+    "relation": "географія",
+    "source": "https://turystykakrakow.pl/kalendarium/276421,object,0,40033,2026-11-08,jarmark-bozonarodzeniowy---christmas-market.html",
+    "speculative": false
+  }
+]
