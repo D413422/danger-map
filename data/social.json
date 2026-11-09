@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T19:42:25.001Z",
+  "generatedAt": "2026-11-09T00:59:28.326Z",
   "windowDays": 7,
   "note": "Неофіційні сигнали з публічних сторінок. Кожен запис має мітку «неперевірений сигнал». Текст — уривок джерела, не переказ.",
   "sources": [
@@ -7,7 +7,7 @@
       "name": "Telegram @suspilnenews",
       "platform": "telegram",
       "ok": true,
-      "received": 1,
+      "received": 2,
       "error": null
     },
     {
@@ -105,7 +105,7 @@
       "name": "Telegram @bbcrussian",
       "platform": "telegram",
       "ok": true,
-      "received": 4,
+      "received": 2,
       "error": null
     },
     {
@@ -126,7 +126,7 @@
       "name": "Telegram @radiosvoboda",
       "platform": "telegram",
       "ok": true,
-      "received": 2,
+      "received": 3,
       "error": null
     },
     {
@@ -140,7 +140,7 @@
       "name": "Telegram @rian_ru",
       "platform": "telegram",
       "ok": true,
-      "received": 1,
+      "received": 0,
       "error": null
     },
     {
@@ -153,9 +153,9 @@
     {
       "name": "Reddit r/europe",
       "platform": "reddit",
-      "ok": true,
-      "received": 12,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 429"
     },
     {
       "name": "Reddit r/poland",
@@ -196,14 +196,14 @@
       "name": "Mastodon #ukraine",
       "platform": "mastodon",
       "ok": true,
-      "received": 7,
+      "received": 3,
       "error": null
     },
     {
       "name": "Mastodon #krakow",
       "platform": "mastodon",
       "ok": true,
-      "received": 21,
+      "received": 20,
       "error": null
     },
     {
@@ -236,6 +236,406 @@
     }
   ],
   "items": [
+    {
+      "id": "s-c1929ffe7cad",
+      "text": "https:// youtu.be/OIweiQANPmo ⛔️🇺🇸NVIDA and Trump Admin in ‘scramble defense mode’ to downplay and whitewash the seriousness of Spying probe (FRANCE 24 English Media VIDEO) # Ukraine # Press # Kyiv # Odesa # Lviv # NVIDA # UnitedStates # Pentagon # USA # Republicans # Trump # Maga # Kharkiv # Kherson # Berlin # Brussels # France # Germany # UK # US # PACE # CoE # Paris # London # Media # News # ",
+      "url": "https://mastodon.online/@SocraticEthics/117583717443534352",
+      "platform": "mastodon",
+      "author": "SocraticEthics@mastodon.online",
+      "published": "2026-11-09T00:45:41.000Z",
+      "date": "2026-11-09",
+      "geocode": {
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "place": "Брюссель",
+        "country": "BE",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-ec81158e827e",
+      "text": "У Хмельницькому - пожежі у приватних будинках через атаку безпілотника Через атаку російського безпілотника у Хмельницькому пошкоджена житлова забудова, виникла пожежа у приватних будинках. ukrinform.ua/rubric-regions/4182760-u-hmelnickomu-pozezi-u-privatnih-budinkah-cerez-ataku-bezpilotnika.html #Ukraine #Україна #News #Новини",
+      "url": "https://www.ukrinform.ua/rubric-regions/4182760-u-hmelnickomu-pozezi-u-privatnih-budinkah-cerez-ataku-bezpilotnika.html",
+      "platform": "mastodon",
+      "author": "ukrinform_ua@rss.anyfeed.cc",
+      "published": "2026-11-08T23:36:57.000Z",
+      "date": "2026-11-09",
+      "geocode": {
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-0fe49ba6de54",
+      "text": "Russians strike emergency workers at attack site in Komyshuvakha, Zelenskyy responds",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xrcg28/russians_strike_emergency_workers_at_attack_site/",
+      "platform": "reddit",
+      "author": "/u/EnoughPrimary6700",
+      "published": "2026-11-08T23:33:47.000Z",
+      "date": "2026-11-09",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-6e94f4ff6ac3",
+      "text": "La Stampa - News, inchieste e approfondimenti La Stampa: Berlino: “Non possiamo più fornire Patriot all'Ucraina”. Blackout a Kiev dopo gli attacchi russi La Germania per ora annuncia di fermare gli aiuti militari all’Ucraina: non fornirà più i Patriot, perché deve pensare a preservare le proprie scorte, per la difesa. Mentre gli attacchi ... Berlin: \"We can no longer supply Patriots to Ukraine.” B",
+      "url": "https://mastodon.ozioso.online/@ItalianNews/117583420529864259",
+      "platform": "mastodon",
+      "author": "ItalianNews@mastodon.ozioso.online",
+      "published": "2026-11-08T23:30:11.000Z",
+      "date": "2026-11-09",
+      "geocode": {
+        "lat": 52.52,
+        "lon": 13.405,
+        "place": "Берлін",
+        "country": "DE",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-421e246a02ac",
+      "text": "There are 730 days until the next theoretical Presidential Election and 804 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 47% Until Next Inauguration : ████▒▒▒▒▒▒ 45% #protest IMPEACH TRUMP. AGAIN.",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3mztjghp34z2c",
+      "platform": "mastodon",
+      "author": "uspol.skyfleet.blue@bsky.brid.gy",
+      "published": "2026-11-08T23:03:01.411Z",
+      "date": "2026-11-09",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-acdb9b4dc4a2",
+      "text": "13.11.2026 / # Kraków Protest w obronie krakowskiej przyrody https:// wydarzenia.phub.pl/events/2313 c5a5-d6a5-4ed9-9f0f-3b30b1502b09 # protest # klimatUJ",
+      "url": "https://mastodon.com.pl/@wimiezwierzat/117583265483209893",
+      "platform": "mastodon",
+      "author": "wimiezwierzat@mastodon.com.pl",
+      "published": "2026-11-08T22:50:45.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 50.0617,
+        "lon": 19.9373,
+        "place": "Краків",
+        "country": "PL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-a9bdac047f98",
+      "text": "У Хмельницькому було чутно звуки вибухів, повідомили кореспонденти Суспільного.",
+      "url": "https://t.me/suspilnenews/79031",
+      "platform": "telegram",
+      "author": "СУСПІЛЬНЕ НОВИНИ",
+      "published": "2026-11-08T22:44:38.000Z",
+      "date": "2026-11-08",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-337a01271a4d",
+      "text": "‘End the Genocide’: 200,000 March for Gaza in Amsterdam. - The red line - “What is happening there is inhumane” # Gaza # Protest https://www. commondreams.org/news/200000-t housand-amsterdam-gaza-march",
+      "url": "https://mastodon.world/@paulschoe/117583237765629503",
+      "platform": "mastodon",
+      "author": "paulschoe@mastodon.world",
+      "published": "2026-11-08T22:43:42.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 52.3676,
+        "lon": 4.9041,
+        "place": "Амстердам",
+        "country": "NL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-e9223333a943",
+      "text": "Human red line in The Netherlands. It's likely today's immense protest will not be reported by Western corporate media. Over 200,000 people gathered at Museumplein, the largest public square in Amsterdam, many of them dressed in red to symbolize the drawing of a red line for justice and press freedom, demanding an end to funding genocide and the targeting of journalists and civilians in Palestine.",
+      "url": "https://mstdn.ca/@dbattistella/117583217329404405",
+      "platform": "mastodon",
+      "author": "dbattistella@mstdn.ca",
+      "published": "2026-11-08T22:38:30.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 52.3676,
+        "lon": 4.9041,
+        "place": "Амстердам",
+        "country": "NL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-82672de96f03",
+      "text": "Poland: Kraków mourns six victims as shooting site reopens http://www. africanews.com/2026/11/08/pola nd-krakow-mourns-six-victims-as-shooting-site-reopens/?utm_source=dlvr.it&utm_medium=mastodon # Krakow # Poland # GunViolence # PrayForVictims # CandlesInMemory",
+      "url": "https://journa.host/@africa/117583167970878493",
+      "platform": "mastodon",
+      "author": "africa@journa.host",
+      "published": "2026-11-08T22:25:57.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 50.0617,
+        "lon": 19.9373,
+        "place": "Краків",
+        "country": "PL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-7e14d7766be5",
+      "text": "Bosetti Latenight Gericht ⚖️ & ungenießbare ZDF BRUTZEL-CLAN Nachspeise 🇺🇦Präsident vs. Bremer Stadtmusikanten powered by Obdachlosen Stoizismus # krimi # alternative # opfer # mindset # psychologie # pov # 3sat # apple # tv # protest # demo # zdf # show # kulturzeit # deutschland # podcast # antifa # noafd # cdu # dielinke # spd # zdf # gesellschaft # ukraine # journalismus # berlin # koln",
+      "url": "https://wehavecookies.social/@dyskalkulie/117583106981993137",
+      "platform": "mastodon",
+      "author": "dyskalkulie@wehavecookies.social",
+      "published": "2026-11-08T22:10:26.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 52.52,
+        "lon": 13.405,
+        "place": "Берлін",
+        "country": "DE",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-2626295b0a1b",
+      "text": "# RodeLijn # Palestine # Gaza # HumanRights # Protest # israel",
+      "url": "https://mastodon.online/@sjar/117582988780035702",
+      "platform": "mastodon",
+      "author": "sjar@mastodon.online",
+      "published": "2026-11-08T21:40:23.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 31.5017,
+        "lon": 34.4668,
+        "place": "Газа",
+        "country": "PS",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-5919faa18129",
+      "text": "🇺🇦 Главное за выходные: 🔸 Днем 7 ноября мужчина выехал на Главную рыночную площадь Кракова и открыл стрельбу из автоматического оружия. Под обстрел попали прохожие, а также трамвай и магазин. В ходе перестрелки с полицией нападавший был ранен и задержан. Погибли шесть и были ранены 16 человек – среди них пять иностранцев. Премьер-министр Польши Дональд Туск сообщил, что в доме, где жил стрелок,",
+      "url": "https://t.me/radiosvoboda/106610",
+      "platform": "telegram",
+      "author": "Radio Svoboda",
+      "published": "2026-11-08T21:14:02.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 50.0617,
+        "lon": 19.9373,
+        "place": "Краків",
+        "country": "PL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-ef150a0fe429",
+      "text": "This is what replaced Farmer Wants A Wife on TVP1 with #NationalMourning in place... Based on a novel by M.L. Stedman. www.imdb.com/title/tt2547... Do TV stations in your country switch to such melancholic movies like this? #Poland #Kraków #KrakówMassacre #KrakówShooting #TerroristAttack",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:gzdjt2bb6zkdknijroh6tm6i/post/3mztcv7k7ms2f",
+      "platform": "mastodon",
+      "author": "arniedxer.bsky.social@bsky.brid.gy",
+      "published": "2026-11-08T21:06:00.027Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 50.0617,
+        "lon": 19.9373,
+        "place": "Краків",
+        "country": "PL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-3c0961b6a4f2",
+      "text": "200,000 people marched through the streets of Amsterdam today to protest against the Israeli government and the lack of action taken by the Dutch government against Israel's atrocities. It's unbelievable that this is still needed, but it was good to see so many people there✊🇵🇸 #RodeLijn #RodeLijnVoorbij #Amsterdam #Protest #Demonstratie #StopDeGenocide #NooitMeerIsNu #FreePalestine",
+      "url": "https://pixelfed.social/p/decibelsummer/1025150993691499329",
+      "platform": "mastodon",
+      "author": "decibelsummer@pixelfed.social",
+      "published": "2026-11-08T21:04:03.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 52.3676,
+        "lon": 4.9041,
+        "place": "Амстердам",
+        "country": "NL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-03890ca0c5f5",
+      "text": "Heppenheim (ots) - Vom 01.11.2026 bis 08.11.2026 wurde ein, in der Frankfurter Straße in Heppenheim, geparkter blauer Kia ProCeed an der Kunststoffverkleidung der Frontstoßstange sowie am Kennzeichen beschädigt. Das Fahrzeug war zur Tatzeit ... https://www. presseportal.de/blaulicht/pm/4 969/6386321 # Explosion # Fahrzeug # Heppenheim # Invalidität # Transport # Unfall # Verkehrsunglück",
+      "url": "https://freie-re.de/@blaulicht/117582721398840193",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-08T20:32:23.000Z",
+      "date": "2026-11-08",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-fcf5d33ad860",
+      "text": "Сім'ю вбив, поки вони спали, цікавився «гітлерівцями та арійською расою». Що ще відомо про справу 24-річного стрільця у Кракові З квартири нападника конфіскували електронні носії та записи, знайдені у приміщенні. «У гімназії він тримався осторонь. Він мав специфічні інтереси. Його цікавила історія, гітлерівці та арійська раса. Син розповідав мені, що він поводився не дуже по-товариському, через що",
+      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68732",
+      "platform": "mastodon",
+      "author": "worldprotest@uk.tg.anyfeed.cc",
+      "published": "2026-11-08T20:15:32.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 50.0617,
+        "lon": 19.9373,
+        "place": "Краків",
+        "country": "PL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-bd6913fd2baf",
+      "text": "Семью убил, пока они спали, интересовался «гитлеровцами и арийской расой». Что еще известно о деле 24‑летнего стрелка в Кракове Из квартиры нападавшего конфисковали электронные носители и записи, найденные в помещении. «В гимназии он держался в стороне. У него были специфические интересы. Его интересовала история, гитлеровцы и арийская раса. Сын рассказывал мне, что он вел себя не очень по-товарищ",
+      "url": "https://tg.anyfeed.cc/post/worldprotest-68732",
+      "platform": "mastodon",
+      "author": "worldprotest@tg.anyfeed.cc",
+      "published": "2026-11-08T20:15:32.000Z",
+      "date": "2026-11-08",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-6d55df46c9b5",
+      "text": "März 2026: Sondervermögen kommt in Schulen noch nicht an https:// correctiv.org/aktuelles/bildun g/2026/03/04/sondervermoegen-kommt-in-schulen-noch-nicht-an/ November 2026: Sondervermögen - Milliarden für Bildung – doch das Geld kommt noch nicht an https:// rp-online.de/politik/deutschla nd/sondervermoegen-geld-fuer-bildung-kommt-noch-kaum-an_aid-158004897 Aber hey, alles migrantische und linksext",
+      "url": "https://mstdn.social/@dadamsda/117582652804572699",
+      "platform": "mastodon",
+      "author": "dadamsda@mstdn.social",
+      "published": "2026-11-08T20:14:56.000Z",
+      "date": "2026-11-08",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-ad30dadc29c0",
+      "text": "ICE Presence at Boyle Heights Hospital Sparks Community Protest Over Ambulance Access 📰 Original title: Protest erupts at Boyle Heights hospital after ICE transports patient, blocks ambulance entrance 🤖 IA: It's not clickbait ✅ 👥 Users: It's not clickbait ✅ 👇👇👇 https:// en.killbait.com/ice-presence-a t-boyle-heights-hospital-sparks-community-protest-over-ambulance-access.html?utm_source=mast",
+      "url": "https://mastodon.social/@killbait/117582648116657751",
+      "platform": "mastodon",
+      "author": "killbait",
+      "published": "2026-11-08T20:13:45.024Z",
+      "date": "2026-11-08",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-7afd036105fe",
+      "text": "France, autumn 2026: from the school gates to a general strike · Not a French story · The anatomy of protest · Why the fringe turns physical · Looting as ... As the French government begins offering concessions and dialogue, the riots remind us how social change tends to arrive, and of a pattern governments keep refusing to read until it is written in fire. # austerity # Chenoweth # France # Frenc",
+      "url": "https://libranet.de/display/0b6b25a8-e5caddd6-e22d4fcec62f4712",
+      "platform": "mastodon",
+      "author": "strike@libranet.de",
+      "published": "2026-11-08T20:06:24.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 46.62,
+        "lon": 2.453,
+        "place": "Франція",
+        "country": "FR",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-62294c9f9118",
+      "text": "# Krakow # shooting : # Witness describes chaos as people fled # gunfire https://www. youtube.com/shorts/kTyzRpO-N5I ?utm_source=dlvr.it&utm_medium=mastodon",
+      "url": "https://mas.corq.co/@rogue_corq/117582601089565416",
+      "platform": "mastodon",
+      "author": "rogue_corq@mas.corq.co",
+      "published": "2026-11-08T20:01:47.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 50.0617,
+        "lon": 19.9373,
+        "place": "Краків",
+        "country": "PL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-dcf6d84a5981",
+      "text": "@ avandeursen Yes!!! Go Amsterdam!! # Protest # gaza",
+      "url": "https://mastodon.social/@RiaResists/117582588696828553",
+      "platform": "mastodon",
+      "author": "RiaResists",
+      "published": "2026-11-08T19:58:38.359Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 52.3676,
+        "lon": 4.9041,
+        "place": "Амстердам",
+        "country": "NL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-65f09f0efb0a",
+      "text": "Marched with 200,000 in Amsterdam, to protest genocide and to support Palestine. 🍉🇵🇸🟥 🟥 All children are innocent. # CatsAgainstGenocide # CatsOfMastodon # rodelijn # amsterdam # rijksmuseum # museumplein # protest",
+      "url": "https://mastodon.acm.org/@avandeursen/117582581871374847",
+      "platform": "mastodon",
+      "author": "avandeursen@mastodon.acm.org",
+      "published": "2026-11-08T19:56:54.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 52.3676,
+        "lon": 4.9041,
+        "place": "Амстердам",
+        "country": "NL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-d4ac07af4b72",
+      "text": "https:// youtu.be/ngiDo0id0po ⛔️🇵🇱Polish Culture of Hate or Russian “throw-away” agent? What was the Motive of the Krakow Terrorist (DW - German Media VIDEO) # Ukraine # Poland # Warsaw # Krakow # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # France # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # USAIsAStateSponsorofTerror # 12yrInvas",
+      "url": "https://mastodon.online/@SocraticEthics/117582573929355301",
+      "platform": "mastodon",
+      "author": "SocraticEthics@mastodon.online",
+      "published": "2026-11-08T19:54:53.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "place": "Брюссель",
+        "country": "BE",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-48885d2f901f",
+      "text": "It's just three weeks ago I was in lovely # Krakow . Not the first time, but the first time with my daughter. We walked the square of the old city, visited the market, saw the horse carriages and had dinner at a restaurant near by. For dessert we had those lovely fruit and caramel filled sugar buns. And then tragedy strikes. My heart goes out to all affected by this horrible attack. However, the t",
+      "url": "https://mstdn.dk/@saustrup/117582566632471613",
+      "platform": "mastodon",
+      "author": "saustrup@mstdn.dk",
+      "published": "2026-11-08T19:53:01.000Z",
+      "date": "2026-11-08",
+      "geocode": {
+        "lat": 50.0617,
+        "lon": 19.9373,
+        "place": "Краків",
+        "country": "PL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
     {
       "id": "s-b913fadda97a",
       "text": "\"I'm proud of you,\" says the commanding deputy of the wounded # police officers in # Krakow # shooting https://www. youtube.com/shorts/bYhsCuhAWlc ?utm_source=dlvr.it&utm_medium=mastodon",
@@ -333,23 +733,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-eda615c47e31",
-      "text": "📰 People injured and houses damaged in Russian attack on Khmelnytskyi Oblast 🔗 https://www. pravda.com.ua/eng/news/2026/11 /08/8061817/ # News # RussianInvasion # RussianWar # Ukraine",
-      "url": "https://masto.ai/@ukraine/117582425952760366",
-      "platform": "mastodon",
-      "author": "ukraine@masto.ai",
-      "published": "2026-11-08T19:17:15.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 49.16,
-        "lon": 31.253,
-        "place": "Україна",
-        "country": "UA",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-4d23d1fe0382",
       "text": "“Nëna më ka vdekur”/U gjobit me 5 mln lekë,protestuesi:S’kam t’i paguajë. Jetojmë me kemp si familje Machine translated: “My mother has passed away” – Fined 5 million lek, protester says: “I can’t afford to pay it. As a family, we live on a disability pension.” PM Rama passed draconian measures to depress protest that he's been ignoring for months when it was entirely peaceful. The amount of the f",
       "url": "https://eldritch.cafe/@ml/117582410196197090",
@@ -378,40 +761,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-09867f7f5cca",
-      "text": "📰 Russian attack in Khmelnytskyi region leaves two injured 🔗 https://www. ukrinform.net/rubric-ato/41826 82-russian-attack-in-khmelnytskyi-region-leaves-two-injured.html # News # RussianInvasion # RussianWar # Ukraine",
-      "url": "https://masto.ai/@ukraine/117582396974119568",
-      "platform": "mastodon",
-      "author": "ukraine@masto.ai",
-      "published": "2026-11-08T19:09:52.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 49.16,
-        "lon": 31.253,
-        "place": "Україна",
-        "country": "UA",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-3bbb1bbec0b2",
-      "text": "Ворог масовано атакував енергетичну інфраструктуру Одещини Російська армія масовано атакувала енергетичну інфраструктуру Одещини, частина області без світла. ukrinform.ua/rubric-regions/4182736-vorog-masovano-atakuvav-energeticnu-infrastrukturu-odesini.html #Ukraine #Україна #News #Новини",
-      "url": "https://www.ukrinform.ua/rubric-regions/4182736-vorog-masovano-atakuvav-energeticnu-infrastrukturu-odesini.html",
-      "platform": "mastodon",
-      "author": "ukrinform_ua@rss.anyfeed.cc",
-      "published": "2026-11-08T19:08:00.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 49.16,
-        "lon": 31.253,
-        "place": "Україна",
-        "country": "UA",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-5e024c9fbab4",
       "text": "Good evening, San Diego! I'm Ron Burgundy, and this is your Sunday night wrap. 🇬🇧 UK • Kraków update: the gunman is reported to have been a military cadet; the sixth victim was Austrian. Six people died, including a British man. Prosecutors are treating it as terrorism. Our thoughts remain with the families. https://www. telegraph.co.uk/world-news/202 6/11/08/gunman-polish-mass-shooting-military",
       "url": "https://skyhaven.social/@ronburgundy/117582371202798857",
@@ -435,17 +784,6 @@
       "platform": "mastodon",
       "author": "uspol.skyfleet.blue@bsky.brid.gy",
       "published": "2026-11-08T19:03:01.177Z",
-      "date": "2026-11-08",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-67d52e1acd10",
-      "text": "Наркоторгівці зі злочинної організації, яку сьогодні викрили НАБУ та САП, планували облити журналіста Дениса Бігуса кислотою за публікацію матеріалу про мережу магазинів U420, які продавали наркотики під виглядом «сувенірів». Також погрожували «вʼ*бати» Лачена та ProKyiv . Окрім цього, вони збиралися «забити молотками» оборонця Маріуполя, який пройшов російський полон та організовував акції протес",
-      "url": "https://tg.anyfeed.cc/post/ukrbavovna-30980",
-      "platform": "mastodon",
-      "author": "ukrbavovna@tg.anyfeed.cc",
-      "published": "2026-11-08T19:01:51.000Z",
       "date": "2026-11-08",
       "geocode": null,
       "confidence": "неперевірений сигнал"
@@ -481,23 +819,6 @@
         "place": "Амстердам",
         "country": "NL",
         "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-50e305e128e8",
-      "text": "Two rescuers injured in Russian drone attack on Komyshuvakha Russian forces attacked State Emergency Service of Ukraine (SES) units three times with drones as they were working at the site of an airstrike in Komyshuvakha, Zaporizhzhia region. Two rescuers were injured. ukrinform.net/rubric-ato/4182730-two-rescuers-injured-in-russian-drone-attack-on-komyshuvakha.html #Ukraine #News #UkraineWar",
-      "url": "https://www.ukrinform.net/rubric-ato/4182730-two-rescuers-injured-in-russian-drone-attack-on-komyshuvakha.html",
-      "platform": "mastodon",
-      "author": "Ukrinform@rss.anyfeed.cc",
-      "published": "2026-11-08T18:55:00.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 49.16,
-        "lon": 31.253,
-        "place": "Україна",
-        "country": "UA",
-        "precision": "країна"
       },
       "confidence": "неперевірений сигнал"
     },
@@ -559,23 +880,6 @@
         "lon": 19.9373,
         "place": "Краків",
         "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-3729a39c95f5",
-      "text": "Two killed, seven injured in Russian attacks on Dnipropetrovsk region Two people were killed and seven others injured in Russian strikes across the Dnipropetrovsk region on November 8, with fatalities reported in the city of Dnipro and the Nikopol district. ukrinform.net/rubric-ato/4182728-two-killed-seven-injured-in-russian-attacks-on-dnipropetrovsk-region.html #Ukraine #News #UkraineWar",
-      "url": "https://www.ukrinform.net/rubric-ato/4182728-two-killed-seven-injured-in-russian-attacks-on-dnipropetrovsk-region.html",
-      "platform": "mastodon",
-      "author": "Ukrinform@rss.anyfeed.cc",
-      "published": "2026-11-08T18:33:00.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 48.4647,
-        "lon": 35.0462,
-        "place": "Дніпро",
-        "country": "UA",
         "precision": "місто"
       },
       "confidence": "неперевірений сигнал"
@@ -650,7 +954,7 @@
     },
     {
       "id": "s-754a9bb56229",
-      "text": "🔁 Forwarded from MIKOLA Телеграм наш! Підписуйся на найкращі білоруські інформаційні канали у Телеграмі РЕАЛЬНА БІЛОРУСЬ - Новини та події. Те, чого не скажуть по телебаченню МОЯ КРАЇНА БІЛОРУСЬ — Аналітика, розбір подій та трендів. Про складне - простими словами. МИКОЛА ДІДОК — про глобальні проблеми, інтернет-культуру, майбутнє Білорусі та про те, як створювати його вже сьогодні. АВТОРСЬКИЙ КАН",
+      "text": "Телеграм наш! Підписуйся на найкращі білоруські інформаційні канали у Телеграмі РЕАЛЬНА БІЛОРУСЬ - Новини та події. Те, чого не скажуть по телебаченню МОЯ КРАЇНА БІЛОРУСЬ — Аналітика, розбір подій та трендів. Про складне - простими словами. МИКОЛА ДІДОК — про глобальні проблеми, інтернет-культуру, майбутнє Білорусі та про те, як створювати його вже сьогодні. АВТОРСЬКИЙ КАНАЛ ІГОРЯ ЛОСИКА — інсайди",
       "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68730",
       "platform": "mastodon",
       "author": "worldprotest@uk.tg.anyfeed.cc",
@@ -667,7 +971,7 @@
     },
     {
       "id": "s-40547958911f",
-      "text": "🔁 Forwarded from MIKOLA Телеграм наш! Подписывайся на лучшие беларуские информационные каналы в Телеграме РЕАЛЬНАЯ БЕЛАРУСЬ — Новости и события. То, чего не скажут по телевидению МАЯ КРАІНА БЕЛАРУСЬ — Аналитика, разбор проишествий и трендов. О сложном - простыми словами. НИКОЛАЙ ДЕДОК — о глобальных проблемах, интернет-культуре, будущем Беларуси и о том, как создавать его уже сегодня. АВТОРСКИЙ К",
+      "text": "Телеграм наш! Подписывайся на лучшие беларуские информационные каналы в Телеграме РЕАЛЬНАЯ БЕЛАРУСЬ — Новости и события. То, чего не скажут по телевидению МАЯ КРАІНА БЕЛАРУСЬ — Аналитика, разбор проишествий и трендов. О сложном - простыми словами. НИКОЛАЙ ДЕДОК — о глобальных проблемах, интернет-культуре, будущем Беларуси и о том, как создавать его уже сегодня. АВТОРСКИЙ КАНАЛ ИГОРЯ ЛОСИКА — инсай",
       "url": "https://tg.anyfeed.cc/post/worldprotest-68730",
       "platform": "mastodon",
       "author": "worldprotest@tg.anyfeed.cc",
@@ -781,17 +1085,6 @@
         "country": "CN",
         "precision": "країна"
       },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-dfc609dc3638",
-      "text": "Human-Lobbyismus & moderne, irische Segensvariante für das Ende eines Festes oder Interesses .. Licht aus feat. SystemEffizienz # whatsapp # alternative # zukunft # opfer # mindset # psychologie # pov # 3sat # ki # apple # tv # protest # demo # zdf # film # kulturzeit # deutschland # podcast # zdf # gesellschaft",
-      "url": "https://wehavecookies.social/@dyskalkulie/117581998880681283",
-      "platform": "mastodon",
-      "author": "dyskalkulie@wehavecookies.social",
-      "published": "2026-11-08T17:28:38.000Z",
-      "date": "2026-11-08",
-      "geocode": null,
       "confidence": "неперевірений сигнал"
     },
     {
@@ -1014,23 +1307,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-861f47030b64",
-      "text": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers. https://www. bbc.com/news/articles/c5x2vw4e 1gx1o # TopNews # News # Krakow # Poland # Fakt",
-      "url": "https://mastodon.social/@top_news/117581428341104992",
-      "platform": "mastodon",
-      "author": "top_news",
-      "published": "2026-11-08T15:03:32.730Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-ad652b5932ef",
       "text": "There are 730 days until the next theoretical Presidential Election and 804 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 47% Until Next Inauguration : ████▒▒▒▒▒▒ 45% #protest IMPEACH TRUMP. AGAIN.",
       "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3mzsom5pzib2x",
@@ -1093,34 +1369,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-e169150b8113",
-      "text": "Протесты во Франции связаны с усталостью от помощи Украине, пишет Monde. Недовольство этой молодежи, ставшее символом поколения, пострадавшего от геополитических событий, является частью растущего европейского явления, описываемого как \"усталость от войны\", то есть усталости от войны на Украине. 🔹 Подписаться / Мы в \"Максе\"",
-      "url": "https://t.me/rian_ru/349405",
-      "platform": "telegram",
-      "author": "РИА Новости",
-      "published": "2026-11-08T14:26:07.000Z",
-      "date": "2026-11-08",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-cb802ba07014",
-      "text": "Caught on camera: suspected gunman down after shootout with Kraków police Security camera video captured the moment that police officers in Kraków exchanged gunfire with a suspected assailant during a mass shooting that killed at least six people. # News # Reuters # Newsfeed # world # Poland # Europe # shooting # Krakow Read the story here: 👉 Subscribe: Keep up with the latest news from around th",
-      "url": "https://mastodon.social/@fllics/117581264860879939",
-      "platform": "mastodon",
-      "author": "fllics",
-      "published": "2026-11-08T14:21:58.217Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-81cd05dc9f09",
       "text": "ICYMI: \">150 people💙labored >6 months to sew together 12,500 quilt🟦s -ea🟦representing a # Minnesota # immigrant taken by# ICE from the start of the 2nd Trump term to the end of Op Metro Surge.\" -FB News \"MN's neighbors made a quilt for those deported. # Quilts have a long history as a medium for American pol expression, social reform, & grassroots activism: ~ Underground Railroad ~ Suffrage & W",
       "url": "https://toad.social/@KimPerales/117581246060601211",
@@ -1132,130 +1380,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-251a20b5be12",
-      "text": "Today: Le armi, le idee di estrema destra e i disegni inquietanti: chi è Michal Oksinski, l'attentatore di Cracovia Ventiquattro anni, di professione tornitore. Le autorità polacche hanno confermato l'identità dell'autore della strage di Cracovia: si tratta di Michal Oksinski, ex studente di un istituto professionale, attualmente in ospedale ma controllato a vista dalla polizia. La procura locale ",
-      "url": "https://mastodon.ozioso.online/@ItalianNews/117581181770925246",
-      "platform": "mastodon",
-      "author": "ItalianNews@mastodon.ozioso.online",
-      "published": "2026-11-08T14:00:50.000Z",
-      "date": "2026-11-08",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-f53ee303ea42",
-      "text": "La Stampa - News, inchieste e approfondimenti La Stampa: Cracovia, il racconto dell’italiano a pochi metri dalla sparatoria: \"Ho pensato di morire\" Roberto Di Matteo, modenese, si trovava con alcuni amici in piazza del Mercato quando l’attentatore ha aperto il fuoco sulla folla, uccidendo sei persone e ferendone 16. \"Abbiamo sentito gli spari e visto la gente correre. Ci siamo rifugiati in un bar,",
-      "url": "https://mastodon.ozioso.online/@ItalianNews/117581142576900265",
-      "platform": "mastodon",
-      "author": "ItalianNews@mastodon.ozioso.online",
-      "published": "2026-11-08T13:50:52.000Z",
-      "date": "2026-11-08",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-69d59e4ef260",
-      "text": "Agenzia Nova: Polonia: quattro armi sequestrate sulla scena della sparatoria a Cracovia, sette nell'abitazione dell'attentatore 08 nov 14:38 - (Agenzia Nova) - Quattro armi da fuoco sono state sequestrate sulla scena della sparatoria avvenuta ieri a Cracovia, in Polonia,... (Vap) Poland: four weapons seized at the scene of the shooting in Krakow, seven in the attacker’s residence. Nov 8 14:38 – (A",
-      "url": "https://mastodon.ozioso.online/@ItalianNews/117581140172841428",
-      "platform": "mastodon",
-      "author": "ItalianNews@mastodon.ozioso.online",
-      "published": "2026-11-08T13:50:15.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-bd026d361e6b",
-      "text": "Polskie Radio shared today's recording of Mariacki Tower Hejnał in #Kraków . They air it every day, sometimes reportedly off tape, but today's broadcast was 100% live. And they say the mic installed on the tower is almost 100 years old! 😮 x.com/MaksMotyka/s... #NationalMourning #TerroristAttack",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:gzdjt2bb6zkdknijroh6tm6i/post/3mzsk3dsrqs24",
-      "platform": "mastodon",
-      "author": "arniedxer.bsky.social@bsky.brid.gy",
-      "published": "2026-11-08T13:42:02.295Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-587509ef71d6",
-      "text": "ICE fascists blocking the ambulance bay at Adventist Health White Memorial Medical Center in Boyle Heights, Los Angeles, CA, 11/07/2026 Video Source https:// reddit.com/comments/1xqmkah Article https://www. latimes.com/entertainment-arts /story/2026-11-07/two-detained-during-anti-ice-protest-at-boyle-heights-hospital # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarian",
-      "url": "https://social.linux.pizza/@CubitOom/117581101434064266",
-      "platform": "mastodon",
-      "author": "CubitOom@social.linux.pizza",
-      "published": "2026-11-08T13:40:24.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 39.526,
-        "lon": -99.143,
-        "place": "США",
-        "country": "US",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-3c2347fe8675",
-      "text": "# AWARENESS regarding Rogue Agent # Film GB/D/USA 2022 There is a Difference between PATHOLOGIC # PSYCHIATRIC and Blended Murderer like Anders Behring Breivik, Right Wing Radical # Terror # krimi # alternative # opfer # mindset # psychologie # pov # 3sat # apple # tv # protest # demo # zdf # film # kulturzeit # deutschland # podcast # antifa # noafd # cdu # dielinke # spd # norway # gesellschaft",
-      "url": "https://wehavecookies.social/@dyskalkulie/117581084904557359",
-      "platform": "mastodon",
-      "author": "dyskalkulie@wehavecookies.social",
-      "published": "2026-11-08T13:36:12.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 64.238,
-        "lon": 13.909,
-        "place": "Норвегія",
-        "country": "NO",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-0a4195d961fe",
-      "text": "On 30 October, millions across Italy took to the streets against the government, the cost of living and war, calling for public money for healthcare, jobs and schools rather than weapoms spending. I brought home a few frames from Padua, shot on my almost 20-year-old first camera with its kit 18-55mm lens, edited in LightCraft on Linux. # Padua # Italy # protest # photojournalism # documentaryphoto",
-      "url": "https://mastodon.social/@nickbearded/117581044624847162",
-      "platform": "mastodon",
-      "author": "nickbearded",
-      "published": "2026-11-08T13:25:57.683Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 43.53,
-        "lon": 12.148,
-        "place": "Італія",
-        "country": "IT",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-2e0f834b1060",
-      "text": "Someone has put together this interesting multiview of some Polish news channels + BBC News + some #Kraków webcams live on YouTube ➡️ www.youtube.com/watch?v=KCkP... #terroristattack #Poland #NationalMourning",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:gzdjt2bb6zkdknijroh6tm6i/post/3mzsiu7ueok24",
-      "platform": "mastodon",
-      "author": "arniedxer.bsky.social@bsky.brid.gy",
-      "published": "2026-11-08T13:20:09.530Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-c4ac9f96babc",
       "text": "Hinterweidenthal (ots) - Am Samstag, den 07.11.2026, ereignete sich um 10:20 Uhr auf der L486 eine Verkehrsunfallflucht. Der Fahrer eines weissen Transporter befuhr die Strecke von der B427 kommend in Richtung Salzwoog. In der Linkskurve ca. 500m ... https://www. presseportal.de/blaulicht/pm/1 78882/6386258 # Bahn # Bahnunglück # Explosion # Fahrer # Invalidität # Renault # Transport # Transporter",
       "url": "https://freie-re.de/@blaulicht/117581015774078963",
@@ -1264,23 +1388,6 @@
       "published": "2026-11-08T13:18:37.000Z",
       "date": "2026-11-08",
       "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-cdaaa4c7a1e3",
-      "text": "# RodeLijn # Amsterdam # Gaza # genocide # Palestine # protest # israel # humanrights",
-      "url": "https://mastodon.online/@sjar/117581013765234230",
-      "platform": "mastodon",
-      "author": "sjar@mastodon.online",
-      "published": "2026-11-08T13:18:06.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 52.3676,
-        "lon": 4.9041,
-        "place": "Амстердам",
-        "country": "NL",
-        "precision": "місто"
-      },
       "confidence": "неперевірений сигнал"
     },
     {
@@ -1301,57 +1408,12 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-0a57c0bd41b3",
-      "text": "Livestream: De Rode Lijn vanaf Museumplein in Amsterdam! 🚨LIVE🔴 Oxfam Novib Livestream vanaf Museumplein in # Amsterdam . Wij trekken opnieuw de Rode Lijn! Wij accepteren niet dat alle rode lijnen al zijn overschreden. Dat ze niet lijken te bestaan. We laten vanuit de hoofdstad heel Nederland én de rest van de wereld zien dat Nederlanders concrete actie eisen van de politiek voor de Palestijnen.",
-      "url": "https://mastodon.online/@sjar/117580919394640816",
-      "platform": "mastodon",
-      "author": "sjar@mastodon.online",
-      "published": "2026-11-08T12:54:06.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 52.3676,
-        "lon": 4.9041,
-        "place": "Амстердам",
-        "country": "NL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-a4e7d70a581e",
-      "text": "🗣 LIVE🔴 🚨 Rode Lijn-demonstratie tegen Israëlisch geweld in Palestijnse Gebieden De # Rode Lijn Voorbij, zo wordt de # demonstratie vandaag in # Amsterdam genoemd. De organisatie is in handen van 14 organisaties en actiegroepen. Ze willen dat het geweld tegen Palestijnen stopt. Het vorige # protest trok bijna 250.000 deelnemers. # Gaza # Palestine # israel https:// nos.nl/livestream/2638546-rod",
-      "url": "https://mastodon.online/@sjar/117580887250282957",
-      "platform": "mastodon",
-      "author": "sjar@mastodon.online",
-      "published": "2026-11-08T12:45:56.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 52.3676,
-        "lon": 4.9041,
-        "place": "Амстердам",
-        "country": "NL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-7e8a48fc010a",
       "text": "Protests across Nova Scotia oppose AI data centres",
       "url": "https://www.reddit.com/r/worldnews/comments/1xqxfug/protests_across_nova_scotia_oppose_ai_data_centres/",
       "platform": "reddit",
       "author": "/u/clamorous_owle",
       "published": "2026-11-08T12:35:44.000Z",
-      "date": "2026-11-08",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-05af32338dfd",
-      "text": "😜 Sich ehrlich machen, statt sich nützlich machen: Gib mir nen Beutel mit Dope & Lock me up! 🥦 # RL # Hessen Provinz /Padded Sleeper Cell ! # online # opfer # mindset # psychologie # solidarität # hanf # medizin # pov # 3sat # apple # tv # protest # gesundheit # demo # kulturzeit # cannabis # star # zdf # satire # deutschland # gesellschaft # zukunft",
-      "url": "https://wehavecookies.social/@dyskalkulie/117580821262706370",
-      "platform": "mastodon",
-      "author": "dyskalkulie@wehavecookies.social",
-      "published": "2026-11-08T12:29:09.000Z",
       "date": "2026-11-08",
       "geocode": null,
       "confidence": "неперевірений сигнал"
@@ -1374,40 +1436,12 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-d4b32595abee",
-      "text": "📰 Rode Lijn-demonstratie in Amsterdam van start, duizenden op Museumplein https:// nieuwsjunkies.nl/artikel/1WGu 🕜 13:19 | RTL Nieuws 🔸 # Racisme # Protest # Palestina # Museum # Demonstratie",
-      "url": "https://mastodon.social/@NieuwsJunkies/117580795239710332",
-      "platform": "mastodon",
-      "author": "NieuwsJunkies",
-      "published": "2026-11-08T12:22:32.378Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 52.3676,
-        "lon": 4.9041,
-        "place": "Амстердам",
-        "country": "NL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-f4ecc9538e00",
       "text": "Saudi capital's financial district targeted in attack, Aramco skyscraper damaged",
       "url": "https://www.reddit.com/r/worldnews/comments/1xqx6g9/saudi_capitals_financial_district_targeted_in/",
       "platform": "reddit",
       "author": "/u/RollSafer",
       "published": "2026-11-08T12:20:29.000Z",
-      "date": "2026-11-08",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-17ed2eb2c712",
-      "text": "Ed Sheeran # RL # BIO Grund&Bodenständigkeit .. NEVERLAND .. worauf's im # Kapitalismus ankommt feat. DAS SINGENDE BROT & Dekonstruktivismus # zdf # fan # psychologie # solidarität # hanf # medizin # pov # 3sat # apple # tv # protest # gesundheit # cannabis # stars # kulturzeit # podcast # antifa # lyrik # buch # lesen # bildung # deutschland # music # demo # film # gutenmorgen # kaffee # dielinke",
-      "url": "https://wehavecookies.social/@dyskalkulie/117580517515465238",
-      "platform": "mastodon",
-      "author": "dyskalkulie@wehavecookies.social",
-      "published": "2026-11-08T11:11:54.000Z",
       "date": "2026-11-08",
       "geocode": null,
       "confidence": "неперевірений сигнал"
@@ -1427,68 +1461,6 @@
         "country": "PL",
         "precision": "місто"
       },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-491f1b2ffba7",
-      "text": "🔁 Forwarded from Ігор Лосик На допомогу поліцейським Кракова, які знешкодили стрільця, за ніч зібрали два з половиною мільйони злотих: https://zrzutka.pl/bohaterowie #Protest #Belarus #News",
-      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68728",
-      "platform": "mastodon",
-      "author": "worldprotest@uk.tg.anyfeed.cc",
-      "published": "2026-11-08T09:50:24.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-d2b42321a606",
-      "text": "🔁 Forwarded from Игорь Лосик На помощь полицейским Кракова, обезвредившим стрелка, за ночь собрали два с половиной миллиона злотых: https://zrzutka.pl/bohaterowie #Protest #Belarus #News",
-      "url": "https://tg.anyfeed.cc/post/worldprotest-68728",
-      "platform": "mastodon",
-      "author": "worldprotest@tg.anyfeed.cc",
-      "published": "2026-11-08T09:50:24.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-3f4253f5d5dc",
-      "text": "Поранених у Кракові поліцейських врятували два відомі хірурги: вони обідали поруч і кинулися на допомогу Двом поліцейським, які зупинили стрільця у Кракові, допоміг щасливий збіг обставин, завдяки якому вони отримали найбільш кваліфіковану першу допомогу. У сусідньому ресторані в цей час якраз обідали два досвідчені хірурги. Один із них пізніше оперував пораненого. Наразі поляків закликають здават",
-      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68727",
-      "platform": "mastodon",
-      "author": "worldprotest@uk.tg.anyfeed.cc",
-      "published": "2026-11-08T09:24:38.000Z",
-      "date": "2026-11-08",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-3a263587b7f2",
-      "text": "Раненых в Кракове полицейских спасли два известных хирурга: они обедали рядом и бросились на помощь Двум полицейским, которые остановили стрелка в Кракове, помогло счастливое стечение обстоятельств, благодаря которому они получили наиболее квалифицированную первую помощь. В соседнем ресторане в это время как раз обедали&nbsp;два опытных хирурга. Один из них позже оперировал раненого. Теперь поляко",
-      "url": "https://tg.anyfeed.cc/post/worldprotest-68727",
-      "platform": "mastodon",
-      "author": "worldprotest@tg.anyfeed.cc",
-      "published": "2026-11-08T09:24:38.000Z",
-      "date": "2026-11-08",
-      "geocode": null,
       "confidence": "неперевірений сигнал"
     },
     {
@@ -1610,46 +1582,12 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-321cdd539e74",
-      "text": "Число погибших в результате стрельбы в Кракове увеличилось до шести Ранее польская полиция сообщала, что в результате стрельбы на центральной площади Кракова Главный Рынок погибли пять человек. Затем региональные власти написали в своем аккаунте в сети Х , что число убитых достигло шести, а раненых — 15-ти. 🔗 Мы продолжаем следить за последними новостями, о всех подробностях можно прочитать в это",
-      "url": "https://t.me/bbcrussian/101190",
-      "platform": "telegram",
-      "author": "BBC News Russian",
-      "published": "2026-11-07T17:25:39.000Z",
-      "date": "2026-11-07",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-779ce9ba3965",
       "text": "Five dead and many injured amid shooting in Poland's Krakow",
       "url": "https://www.reddit.com/r/worldnews/comments/1xqattv/five_dead_and_many_injured_amid_shooting_in/",
       "platform": "reddit",
       "author": "/u/vin_mcqueen",
       "published": "2026-11-07T16:45:25.000Z",
-      "date": "2026-11-07",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-f0337ba97d55",
-      "text": "❗️ Стрельба на центральной площади Кракова: убиты по меньшей мере пять человек, 10 ранены Неизвестный открыл стрельбу на центральной площади Кракова Главный Рынок. По данным польских СМИ, которые ссылаются на экстренные службы, по меньшей мере пять человек погибли, 10 получили ранения. Как пишет Gazeta Wyborcza, выстрелы были произведены из автомобиля, проезжавшего по площади. Государственная пожа",
-      "url": "https://t.me/bbcrussian/101189",
-      "platform": "telegram",
-      "author": "BBC News Russian",
-      "published": "2026-11-07T15:18:26.000Z",
       "date": "2026-11-07",
       "geocode": {
         "lat": 50.0617,
@@ -1674,23 +1612,6 @@
         "place": "Іран",
         "country": "IR",
         "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-33f6ad33090e",
-      "text": "British troops will be allowed to fire back at Russian forces if attacked in mission — London and Paris pressing ahead with preparations for the \"Multinational Force-Ukraine\" (MNF-U)",
-      "url": "https://www.reddit.com/r/europe/comments/1xq79nb/british_troops_will_be_allowed_to_fire_back_at/",
-      "platform": "reddit",
-      "author": "/u/paneuropeanism_",
-      "published": "2026-11-07T14:10:50.000Z",
-      "date": "2026-11-07",
-      "geocode": {
-        "lat": 51.5074,
-        "lon": -0.1278,
-        "place": "Лондон",
-        "country": "GB",
-        "precision": "місто"
       },
       "confidence": "неперевірений сигнал"
     },
@@ -1877,17 +1798,6 @@
         "country": "LB",
         "precision": "країна"
       },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-1a07f88ec218",
-      "text": "Activists across Europe prepare two days of protests against datacentres | More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects",
-      "url": "https://www.reddit.com/r/europe/comments/1xpaxxk/activists_across_europe_prepare_two_days_of/",
-      "platform": "reddit",
-      "author": "/u/Puzzleheaded-King584",
-      "published": "2026-11-06T11:54:10.000Z",
-      "date": "2026-11-06",
-      "geocode": null,
       "confidence": "неперевірений сигнал"
     },
     {
@@ -2120,17 +2030,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-c2ff4f6010bf",
-      "text": "Can the current French protests really be compared with May 68?",
-      "url": "https://www.reddit.com/r/europe/comments/1xomtvh/can_the_current_french_protests_really_be/",
-      "platform": "reddit",
-      "author": "/u/LeMonde_en",
-      "published": "2026-11-05T16:18:51.000Z",
-      "date": "2026-11-05",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-b2ad33a536e0",
       "text": "Babenhausen (ots) - Bei einem Arbeitsunfall am Donnerstagvormittag (5.11.) ist ein 32-jähriger Mann ums Leben gekommen. Gegen 8.20 Uhr wurden Polizei und Rettungskräfte über den Vorfall in einer Gärtnerei in der Straße \"Außerhalb\" informiert. ... https://www. presseportal.de/blaulicht/pm/4 969/6385077 # Arbeitsunfall # Explosion # Gesetz # Gärtnerei # Kriminalpolizei # Leben # Sicherheitskräfte",
       "url": "https://freie-re.de/@blaulicht/117564434349240979",
@@ -2164,17 +2063,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-d250c5ea3926",
-      "text": "Pro-Russian hacker groups claim responsibility for attacks on refrigeration systems across Europe",
-      "url": "https://www.reddit.com/r/europe/comments/1xod49l/prorussian_hacker_groups_claim_responsibility_for/",
-      "platform": "reddit",
-      "author": "/u/Cosmos1985",
-      "published": "2026-11-05T08:04:06.000Z",
-      "date": "2026-11-05",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-dafddc840335",
       "text": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
       "url": "https://www.reddit.com/r/worldnews/comments/1xoc9pa/first_france_had_riots_and_protests_now_its/",
@@ -2200,23 +2088,6 @@
       "published": "2026-11-05T07:08:09.483Z",
       "date": "2026-11-05",
       "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-3edf8a9dffa3",
-      "text": "Serbia detains police officers over alleged use of force against protesters",
-      "url": "https://www.reddit.com/r/europe/comments/1xoc4jg/serbia_detains_police_officers_over_alleged_use/",
-      "platform": "reddit",
-      "author": "/u/JohnHammond94",
-      "published": "2026-11-05T06:59:17.000Z",
-      "date": "2026-11-05",
-      "geocode": {
-        "lat": 44.222,
-        "lon": 20.789,
-        "place": "Сербія",
-        "country": "RS",
-        "precision": "країна"
-      },
       "confidence": "неперевірений сигнал"
     },
     {
@@ -2276,17 +2147,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-6a1a1fd899d6",
-      "text": "Serbian authorities have detained nine active police officers for ⁠allegedly using excessive force against individuals during anti-corruption protests last year with claims that the suspects tortured and intimidated protesters detained in garage of government compound, says interior ministry",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xo12fq/serbian_authorities_have_detained_nine_active/",
-      "platform": "reddit",
-      "author": "/u/Raj_Valiant3011",
-      "published": "2026-11-04T21:52:00.000Z",
-      "date": "2026-11-04",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-7ffc7a265f92",
       "text": "Dürrholz (ots) - Am Mittwoch, 04.11.2026 kam es im Zeitraum von 05:40 Uhr bis 19:35 Uhr zu einer Verkehrsunfallflucht. Ein bislang unbekannter Fahrzeugführer beschädigte einen ordnungsgemäß auf einem Firmenparkplatz in der Industriestraße in ... https://www. presseportal.de/blaulicht/pm/1 17709/6384385 # Branchen # Explosion # Invalidität # Kriminalität # Transport # Unfallflucht # Verkehrsbericht",
       "url": "https://freie-re.de/@blaulicht/117560191626858987",
@@ -2331,17 +2191,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-ba703fa86ebd",
-      "text": "French blood banks hacked in latest cyber-attack on Europe",
-      "url": "https://www.reddit.com/r/europe/comments/1xnp3q6/french_blood_banks_hacked_in_latest_cyberattack/",
-      "platform": "reddit",
-      "author": "/u/Socmel_",
-      "published": "2026-11-04T14:07:46.000Z",
-      "date": "2026-11-04",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-31489a334bbc",
       "text": "Ludwigsburg (ots) - Am Dienstag (03.11.2026) gegen 17:50 Uhr kam es auf einem Parkplatz in der Freiburger Allee in Böblingen zu einem Unfall. Eine 45-jährige Nissan-Lenkerin parkte gegenüber einer Apotheke aus und kollidierte mit einem seitlich ... https://www. presseportal.de/blaulicht/pm/1 10974/6384161 # Apotheke # Explosion # Fahrzeug # Invalidität # Nissan # Parkplatz # Personenkraftwagen # T",
       "url": "https://freie-re.de/@blaulicht/117558394224504446",
@@ -2361,23 +2210,6 @@
       "published": "2026-11-04T12:01:09.000Z",
       "date": "2026-11-04",
       "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-524d9828e502",
-      "text": "More than 300 arrests at Palestine Action support protest outside US embassy",
-      "url": "https://www.reddit.com/r/europe/comments/1xnlmba/more_than_300_arrests_at_palestine_action_support/",
-      "platform": "reddit",
-      "author": "/u/Naurgul",
-      "published": "2026-11-04T11:15:12.000Z",
-      "date": "2026-11-04",
-      "geocode": {
-        "lat": 31.948,
-        "lon": 35.248,
-        "place": "Палестина",
-        "country": "PS",
-        "precision": "країна"
-      },
       "confidence": "неперевірений сигнал"
     },
     {
@@ -2405,62 +2237,6 @@
         "place": "Одеса",
         "country": "UA",
         "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-d86d4605cbd9",
-      "text": "Explosion in Regensburg: Verletzte aus Klinik entlassen https://www. diebayern.de/unfall/explosion- in-regensburg-verletzte-aus-klinik-entlassen-3198111?utm_source=Mastodon&utm_medium=dpa&utm_content=textlink # Notfall # Bayern # Feuer # Explosion # Regensburg",
-      "url": "https://muenchen.social/@diebayern/117557554871485297",
-      "platform": "mastodon",
-      "author": "diebayern@muenchen.social",
-      "published": "2026-11-04T09:52:12.000Z",
-      "date": "2026-11-04",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-dbd35d4e38a0",
-      "text": "“There’s a war on!”I notice the word ‘war’ increasingly in the Russian press, though officially Moscow still refers to its ‘special military operation’ in Ukraine. In today’s papers: enemies, drone attacks & what may become\"the longest investment crisis in modern Russian history” Steve Rosenberg BBC",
-      "url": "https://www.reddit.com/r/europe/comments/1xn4gle/theres_a_war_oni_notice_the_word_war_increasingly/",
-      "platform": "reddit",
-      "author": "/u/BkkGrl",
-      "published": "2026-11-03T20:38:17.000Z",
-      "date": "2026-11-03",
-      "geocode": {
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "place": "Москва",
-        "country": "RU",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-383a7319f853",
-      "text": "Protesters, National Guard hold tense standoff over detainment of service members, draftees",
-      "url": "https://www.reddit.com/r/europe/comments/1xmr9p3/protesters_national_guard_hold_tense_standoff/",
-      "platform": "reddit",
-      "author": "/u/Individual_Cloud935",
-      "published": "2026-11-03T12:08:35.000Z",
-      "date": "2026-11-03",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-86f26d231721",
-      "text": "A person dressed as Batman stands in front of a blaze during a nationwide protest led by campaign group \"Gen Z regelt,\" meaning \"Gen Z takes charge,\" in Frankfurt, Germany. 📷 Kai Pfaffenbach.",
-      "url": "https://www.reddit.com/r/europe/comments/1xlq02c/a_person_dressed_as_batman_stands_in_front_of_a/",
-      "platform": "reddit",
-      "author": "/u/Giwargis_Sahada",
-      "published": "2026-11-02T06:34:01.000Z",
-      "date": "2026-11-02",
-      "geocode": {
-        "lat": 51.088,
-        "lon": 10.372,
-        "place": "Німеччина",
-        "country": "DE",
-        "precision": "країна"
       },
       "confidence": "неперевірений сигнал"
     }
