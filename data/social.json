@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:27:11.102Z",
+  "generatedAt": "2026-11-11T06:28:42.568Z",
   "windowDays": 7,
   "note": "Неофіційні сигнали з публічних сторінок. Кожен запис має мітку «неперевірений сигнал». Текст — уривок джерела, не переказ.",
   "sources": [
@@ -7,7 +7,7 @@
       "name": "Telegram @suspilnenews",
       "platform": "telegram",
       "ok": true,
-      "received": 3,
+      "received": 2,
       "error": null
     },
     {
@@ -189,14 +189,14 @@
       "name": "Mastodon #protest",
       "platform": "mastodon",
       "ok": true,
-      "received": 37,
+      "received": 38,
       "error": null
     },
     {
       "name": "Mastodon #ukraine",
       "platform": "mastodon",
       "ok": true,
-      "received": 4,
+      "received": 9,
       "error": null
     },
     {
@@ -237,48 +237,256 @@
   ],
   "items": [
     {
-      "id": "s-0aec3480f054",
-      "text": "https:// youtu.be/N-kPOuYTnVQ ⛔️🇺🇸Polls found Corruption with Trump and Republican leadership was #1 issue in midterm elections (CNN Media VIDEO) # Ukraine # Press # America # MAGA # Trump # USA # UnitedStates # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # France # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # USAIsAStateSponsorofTerror # 12",
-      "url": "https://mastodon.online/@SocraticEthics/117594695498090064",
+      "id": "s-5c7c2002517c",
+      "text": "Нафта дорожчає на тлі атак по суднах в Ормузькій протоці У середу, 11 листопада, ціни на нафту зросли оскільки настрої на ринку коливалися між надіями на деескалацію конфлікту за участю США, Ізраїлю та Ірану й побоюваннями щодо нападів на судна в Ормузькій протоці. ukrinform.ua/rubric-economy/4183606-nafta-dorozcae-na-tli-atak-po-sudnah-v-ormuzkij-protoci.html #Ukraine #Україна #News #Новини",
+      "url": "https://www.ukrinform.ua/rubric-economy/4183606-nafta-dorozcae-na-tli-atak-po-sudnah-v-ormuzkij-protoci.html",
       "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-10T23:17:33.000Z",
+      "author": "ukrinform_ua@rss.anyfeed.cc",
+      "published": "2026-11-11T06:19:52.000Z",
       "date": "2026-11-11",
       "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
       },
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-3bfdb687a9a1",
-      "text": "https:// youtu.be/5qeqX7QAjHY ⛔️🇺🇸Putin has compromised U.S. troops as Hegseth and Trump collaborate with Kremlin over Ukraine (NBC Media VIDEO) # Ukraine # Press # America # USA # Kyiv # USArmy # Pentagon # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # France # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # USAIsAStateSponsorofTerror # 12yrInvasionO",
-      "url": "https://mastodon.online/@SocraticEthics/117594678360873742",
+      "id": "s-3a692751d41c",
+      "text": "Air Defense neutralizes 14 Banderol missiles, 130 Russian drones overnight Ukraine's air defense forces neutralized 14 Banderol missiles and 130 drones used by Russian forces to attack Ukraine since the evening of November 10. ukrinform.net/rubric-ato/4183607-air-defense-neutralizes-14-banderol-missiles-130-russian-drones-overnight.html #Ukraine #News #UkraineWar",
+      "url": "https://www.ukrinform.net/rubric-ato/4183607-air-defense-neutralizes-14-banderol-missiles-130-russian-drones-overnight.html",
       "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-10T23:13:11.000Z",
+      "author": "Ukrinform@rss.anyfeed.cc",
+      "published": "2026-11-11T06:18:00.000Z",
       "date": "2026-11-11",
       "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
       },
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-daf2baa38eb9",
-      "text": "Krieg und Umwelt Kriege sind neben dem menschlichen Leid auch eine massive ökologische Katastrophe mit langfristigen Folgen für Natur, Gesundheit und Klima. Und sie schädigen häufig die &nbsp; natürlichen Lebensgrundlagen der Menschen. Deshalb ist es nachvollziehbar, dass die Vereinten Nationen 2001 den „Internationalen Tag für die Verhütung der Ausbeutung der Umwelt in Kriegen und bewaffneten Kon",
-      "url": "https://extradienst.net/2026/11/11/krieg-und-umwelt/",
+      "id": "s-a424fa60b971",
+      "text": "On the night of 11 November (from 18:00 on 10 November), the enemy launched an attack using X-59/69 guided air-to-surface missiles, 163 Shahed-type strike UAVs (91 of which were jet-powered), Gerbera, S8000 Banderol/Dan-T, and ‘Parody’-type decoy drones Preliminary data, as of 08:00, # Ukraine air defences have shot down or neutralised 14 Banderole/Dan-T and 130 enemy Shahed-type UAVs (72 of which",
+      "url": "https://mastodon.ie/@EugeneMcParland/117596323233973125",
       "platform": "mastodon",
-      "author": "heiner.juettner@extradienst.net",
-      "published": "2026-11-10T23:09:06.000Z",
+      "author": "EugeneMcParland@mastodon.ie",
+      "published": "2026-11-11T06:11:30.000Z",
+      "date": "2026-11-11",
+      "geocode": {
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-42b61815ff80",
+      "text": "ППО знешкодила 14 «Бандеролей» та 130 безпілотників, якими росіяни з вечора атакували Україну Сили протиповітряної оборони знешкодили 14 \"Бандеролей\" та 130 безпілотників, якими російські загарбники атакували Україну з вечора 10 листопада. ukrinform.ua/rubric-ato/4183605-ppo-zneskodila-14-banderolej-ta-130-bezpilotnikiv-akimi-rosiani-z-vecora-atakuvali-ukrainu.html #Ukraine #Україна #News #Новини",
+      "url": "https://www.ukrinform.ua/rubric-ato/4183605-ppo-zneskodila-14-banderolej-ta-130-bezpilotnikiv-akimi-rosiani-z-vecora-atakuvali-ukrainu.html",
+      "platform": "mastodon",
+      "author": "ukrinform_ua@rss.anyfeed.cc",
+      "published": "2026-11-11T06:03:00.000Z",
+      "date": "2026-11-11",
+      "geocode": {
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-3a825a35728f",
+      "text": "Росіяни з вечора понад 10 разів атакували Дніпропетровщину, спалахнула пожежа Російські загарбники з вечора вівторка, 10 листопада, понад 10 разів атакували Дніпропетровську область. ukrinform.ua/rubric-regions/4183603-rosiani-z-vecora-ponad-10-raziv-atakuvali-dnipropetrovsinu-spalahnula-pozeza.html #Ukraine #Україна #News #Новини",
+      "url": "https://www.ukrinform.ua/rubric-regions/4183603-rosiani-z-vecora-ponad-10-raziv-atakuvali-dnipropetrovsinu-spalahnula-pozeza.html",
+      "platform": "mastodon",
+      "author": "ukrinform_ua@rss.anyfeed.cc",
+      "published": "2026-11-11T05:58:41.000Z",
+      "date": "2026-11-11",
+      "geocode": {
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-2db56c3234b9",
+      "text": "Russian drones kill 2 municipal workers, injure another in consecutive attacks on Kramatorsk #Ukraine Russian drones kill 2 municipa...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:yx2nfpytmmze4fau2qxw2c5a/post/7ikm7n3hukqw2",
+      "platform": "mastodon",
+      "author": "amplifyukraine.eu@bsky.brid.gy",
+      "published": "2026-11-11T05:53:20.468Z",
+      "date": "2026-11-11",
+      "geocode": {
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-4c913cc49876",
+      "text": "‚Am vergangenen Wochenende protestierten Aktivist:innen in ganz Europa gegen den Rechenzentrums-Boom. Die beteiligten Gruppen sind divers, aber durch eine Forderung vereint: Sie wollen einen Baustopp für große Rechenzentren….‘ Gegen KI, Kapitalismus und Umweltzerstörung! https:// netzpolitik.org/2026/aktionsta ge-zu-rechenzentren-gegen-ki-kapitalismus-und-umweltzerstoerung/ # Europa # KI # Rechenz",
+      "url": "https://todon.eu/@autonomysolidarity/117596203019493095",
+      "platform": "mastodon",
+      "author": "autonomysolidarity@todon.eu",
+      "published": "2026-11-11T05:40:56.000Z",
       "date": "2026-11-11",
       "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-bfb1f6918577",
+      "text": "Zelensky discusses support for Ukraine with Northern European Prime Ministers amid Russian escalation The President discussed the diplomatic process and support for Ukraine with the prime ministers of Northern European countries against the backdrop of Russia's escalating attacks. ukrinform.net/rubric-polytics/4183596-zelensky-discusses-support-for-ukraine-with-northern-european-prime-ministers-am",
+      "url": "https://www.ukrinform.net/rubric-polytics/4183596-zelensky-discusses-support-for-ukraine-with-northern-european-prime-ministers-amid-russian-escalation.html",
+      "platform": "mastodon",
+      "author": "Ukrinform@rss.anyfeed.cc",
+      "published": "2026-11-11T05:36:00.000Z",
+      "date": "2026-11-11",
+      "geocode": {
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-ca3d8d9e0429",
+      "text": "Kryvyi Rih under massive Russian drone attack: Parts of city without electricity and heating Kryvyi Rih has come under a massive attack by Russian unmanned aerial vehicles (UAVs), leaving parts of the city without electricity and heating. Residential buildings, schools, and kindergartens have been damaged. ukrinform.net/rubric-ato/4183595-kryvyi-rih-under-massive-russian-drone-attack-parts-of-city",
+      "url": "https://www.ukrinform.net/rubric-ato/4183595-kryvyi-rih-under-massive-russian-drone-attack-parts-of-city-without-electricity-and-heating.html",
+      "platform": "mastodon",
+      "author": "Ukrinform@rss.anyfeed.cc",
+      "published": "2026-11-11T05:17:00.000Z",
+      "date": "2026-11-11",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-5428043207e7",
+      "text": "Challenging Authority: How Ordinary People Change America by Frances Fox Piven, 2008 Challenging Authority argues that ordinary people exercise extraordinary political courage and power in American politics when, frustrated by politics as usual, they rise up in anger and hope and defy the authorities and the status quo rules that ordinarily govern their daily lives. # books # nonfiction # America ",
+      "url": "https://mastodon.social/@appassionato/117595674686938240",
+      "platform": "mastodon",
+      "author": "appassionato",
+      "published": "2026-11-11T03:26:34.724Z",
+      "date": "2026-11-11",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-3d0582472c57",
+      "text": "Situation in 34 settlements in Kherson Oblast is as critical as in Oleshky Oleksandr Prokudin, Head of Kherson Oblast Military Administration, has said that the situation in 34 settlements is as critical as in Oleshky. Source: Prokudin in Ukrainska Pravda's podcast Quote: \"We have another 34 villages where the situation is critical, and 58 where it is moderate, all within a 20-kilometre zone from ",
+      "url": "https://www.pravda.com.ua/eng/news/2026/11/11/8062249/",
+      "platform": "mastodon",
+      "author": "pravda_english@rss.anyfeed.cc",
+      "published": "2026-11-11T03:12:00.000Z",
+      "date": "2026-11-11",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-aa104a993748",
+      "text": "There are 727 days until the next theoretical Presidential Election and 801 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 47% Until Next Inauguration : ████▒▒▒▒▒▒ 45% #protest IMPEACH TRUMP. AGAIN.",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3mzyxrh3twl2k",
+      "platform": "mastodon",
+      "author": "uspol.skyfleet.blue@bsky.brid.gy",
+      "published": "2026-11-11T03:03:00.955Z",
+      "date": "2026-11-11",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-1430a2740ca9",
+      "text": "'Newcastle Lord Mayor Gavin Morris has led a successful push to ban climate activist group Rising Tide from using council owned community land for protest events, following a heated council meeting' # protest # union # environment # councilCapture https:// newcastleweekly.com.au/newcast le-council-votes-to-ban-rising-tide-protests/",
+      "url": "https://aus.social/@oscarjiminy/117595538728106418",
+      "platform": "mastodon",
+      "author": "oscarjiminy@aus.social",
+      "published": "2026-11-11T02:52:00.000Z",
+      "date": "2026-11-11",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-05d6d5ea2994",
+      "text": "Six killed and 15 wounded in mass shooting in central Krakow The attack in a major European cultural hub has prompted a terrorism investigation, two days of national mourning, and intense political debate over the perpetrator's suspected far-right radicalization. https://www. citelink.news/brief/six-killed -and-15-wounded-in-mass-shooting-in-central-krakow-bce4b86d AI-drafted, source-cited brief #",
+      "url": "https://mastodon.social/@citelink/117595430619372289",
+      "platform": "mastodon",
+      "author": "citelink",
+      "published": "2026-11-11T02:24:30.539Z",
+      "date": "2026-11-11",
+      "geocode": {
+        "lat": 50.0617,
+        "lon": 19.9373,
+        "place": "Краків",
+        "country": "PL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-c794a6fb9af5",
+      "text": "CW: Occasional Foul Language. Always Political. Breaking: Bernie Sanders pledges support to Chris Van Hollen for Senate Majority Leader after he & Elissa Slotkin host press conference opposing Schumer’s bid. Call the U.S. Capitol Switchboard at (202) 224-3121 & then call their local office to tell your Senators: Chris, Not Chuck. Link: https:// bsky.app/profile/50501movement .bsky.social/post/3mzy",
+      "url": "https://hear-me.social/@alt50501/117595104087100913",
+      "platform": "mastodon",
+      "author": "alt50501@hear-me.social",
+      "published": "2026-11-11T01:01:28.000Z",
+      "date": "2026-11-11",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-39c9bdea676c",
+      "text": "# Bolivia : \"On Tuesday, urban education workers are observing the second day of a 48-hour strike, accompanied by demonstrations, in opposition to a government draft bill that proposes transferring the administration of technical and technological institutes to regional governments (departmental administrations). The teaching profession argues that this measure would fragment the public system and",
+      "url": "https://todon.nl/@Persona/117594939717318566",
+      "platform": "mastodon",
+      "author": "Persona@todon.nl",
+      "published": "2026-11-11T00:19:39.000Z",
+      "date": "2026-11-11",
+      "geocode": {
+        "lat": -16.708,
+        "lon": -64.685,
+        "place": "Болівія",
+        "country": "BO",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-233532aeaa63",
+      "text": "In which Amy discovers Buffy Sainte-Marie, her voice, hears Universal Soldier, and is blown away, as she should be. https://www. youtube.com/watch?v=pD8N1zZhn3k A wiki about Buffy: https:// en.wikipedia.org/wiki/Buffy_Sa inte-Marie # music # protest # folk # war # indigenous # Canada",
+      "url": "https://mastodon.stevesworld.co/@steter/117594738580912779",
+      "platform": "mastodon",
+      "author": "steter@mastodon.stevesworld.co",
+      "published": "2026-11-10T23:28:30.000Z",
+      "date": "2026-11-11",
+      "geocode": {
+        "lat": 57.934,
+        "lon": -102.365,
+        "place": "Канада",
+        "country": "CA",
+        "precision": "країна"
+      },
       "confidence": "неперевірений сигнал"
     },
     {
@@ -293,25 +501,8 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-ca8d030c87d2",
-      "text": "📰 Cyberattacks on Ukraine: thousands of attempts to breach digital systems recorded each year 🔗 https:// censor.net/en/news/4033072/ukr aine-records-2-000-3-000-cyberattacks-a-year # News # RussianInvasion # RussianWar # Ukraine",
-      "url": "https://masto.ai/@ukraine/117594631319231730",
-      "platform": "mastodon",
-      "author": "ukraine@masto.ai",
-      "published": "2026-11-10T23:01:14.000Z",
-      "date": "2026-11-11",
-      "geocode": {
-        "lat": 49.16,
-        "lon": 31.253,
-        "place": "Україна",
-        "country": "UA",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-82142d0a6a95",
-      "text": "У Литві винищувачі НАТО були підняті в повітря через можливу повітряну загрозу. ЗМІ пишуть, що це дрон і він з Білорусі. Дрон був помічений приблизно за 30–50 км від литовського кордону. #Протест #Білорусь #Новини",
+      "text": "🔁 Forwarded from Ігор Лосик У Литві через ймовірну повітряну загрозу підняли винищувачі НАТО. ЗМІ пишуть, що це дрон і він із боку Білорусі. Дрон помічений приблизно за 30–50 км від кордону Литви. #Protest #Belarus #News",
       "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68740",
       "platform": "mastodon",
       "author": "worldprotest@uk.tg.anyfeed.cc",
@@ -328,7 +519,7 @@
     },
     {
       "id": "s-64c094a71b7b",
-      "text": "В Литве из-за вероятной воздушной угрозы в воздух подняты истребители НАТО. СМИ пишут, что это дрон и он со стороны Беларуси. Дрон замечен примерно в 30–50 км от границы Литвы. #Protest #Belarus #News",
+      "text": "🔁 Forwarded from Игорь Лосик В Литве из-за вероятной воздушной угрозы в воздух подняты истребители НАТО. СМИ пишут, что это дрон и он со стороны Беларуси. Дрон замечен примерно в 30–50 км от границы Литвы. #Protest #Belarus #News",
       "url": "https://tg.anyfeed.cc/post/worldprotest-68740",
       "platform": "mastodon",
       "author": "worldprotest@tg.anyfeed.cc",
@@ -808,23 +999,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-5c6cc4b9da87",
-      "text": "UPD// Двоє людей загинули , щонайменше четверо дістали поранення внаслідок удару РФ по підприємству критичної інфраструктури у Дніпрі. Там зайнялася пожежа, повідомив керівник ОВА Ганжа. У Миколаєві та Дніпрі було чутно вибухи, повідомили кореспонденти Суспільного.",
-      "url": "https://t.me/suspilnenews/79106",
-      "platform": "telegram",
-      "author": "СУСПІЛЬНЕ НОВИНИ",
-      "published": "2026-11-10T14:14:38.000Z",
-      "date": "2026-11-10",
-      "geocode": {
-        "lat": 48.4647,
-        "lon": 35.0462,
-        "place": "Дніпро",
-        "country": "UA",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-b08d8c87f874",
       "text": "LIVE: French students and teachers march in Paris French students, teachers and education staff march through Paris to demand better school conditions and call for demonstrations to continue. # france # studentprotests # paris # education # protest # live # Reuters # News Keep up with the latest news from around the world: https:// fllics.com/zh/video/live-frenc h-students-and-teachers-march-in-pa",
       "url": "https://mastodon.social/@fllics/117592505363084703",
@@ -898,84 +1072,12 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-1f12927bd544",
-      "text": "Demonstration in Solidarität mit den Mieter:innen-Protesten in Spanien 11.11. 18:00 Ulrichsplatz In ganz Spanien protestieren seit Wochen Hunderttausende mit dem Netzwerk spanischer Mieter*innengewerkschaften gegen das Wohnen als Ware. Sie fordern als Nothilfe mieterfreundlichere Gesetzgebung, aber auch die Vergesellschaftung großer Wohnungskonzerne.Zusammen mit Mieter*innen aus Kämpfen ums Wohnen",
-      "url": "https://troet.cafe/@b_rain/117592199544348650",
-      "platform": "mastodon",
-      "author": "b_rain@troet.cafe",
-      "published": "2026-11-10T12:42:48.000Z",
-      "date": "2026-11-10",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-79686fac16f8",
       "text": "Dos policías han muerto tras la explosión de una mochila en Oviedo durante una intervención por un tiroteo. Una menor de 17 años resultó herida y la Policía mantiene un amplio operativo para localizar al sospechoso. # Oviedo # Asturias # PoliciaNacional # TEDAX # Villafria # UltimaHora # Sucesos # Tiroteo # Explosion # Seguridad # NoticiasEspaña # Policia # Martes # 10deNoviembre https:// elfolio.",
       "url": "https://mastodon.social/@elfolio/117592160260213379",
       "platform": "mastodon",
       "author": "elfolio",
       "published": "2026-11-10T12:32:48.819Z",
-      "date": "2026-11-10",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-5e1449fdd8a6",
-      "text": "# stickers # guerrillastickers # jaideuxpassions # sticker # adesivi # France # protest # riot # fanfare # devolution",
-      "url": "https://mastodon.bida.im/@guerrillastickers/117592158683228154",
-      "platform": "mastodon",
-      "author": "guerrillastickers@mastodon.bida.im",
-      "published": "2026-11-10T12:32:24.000Z",
-      "date": "2026-11-10",
-      "geocode": {
-        "lat": 46.62,
-        "lon": 2.453,
-        "place": "Франція",
-        "country": "FR",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-43e39e23efcf",
-      "text": "We gathered on the steps of council afterwards, a strong presence, especially considering we only had 30mins warning about the vote. We spoke, we sang, we chanted. And we rejoiced in our community and common cause. This isn't over # RisingTide # environment # protest # CivilDisobedience # ClimateChange # ClimateJustice https://www. instagram.com/p/Dfjj-HUkrKh/?i mg_index=4&obrf=cHRkbzI1ZmxzNTVy",
-      "url": "https://aus.social/@psychopoesie/117592152525170321",
-      "platform": "mastodon",
-      "author": "psychopoesie@aus.social",
-      "published": "2026-11-10T12:30:50.000Z",
-      "date": "2026-11-10",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-c59396d25f6f",
-      "text": "Rising Tide staunch in the face of the ban. At the end of the vote, Rising Tide members expressed their strong views about the total shitfuckery of this council decision. https://www. instagram.com/p/DfjbT0Pny95/?d lrf=MXVkOXcxczZqaTEweA== # RisingTide # environment # protest # CivilDisobedience # ClimateChange # ClimateJustice",
-      "url": "https://aus.social/@psychopoesie/117592135222189064",
-      "platform": "mastodon",
-      "author": "psychopoesie@aus.social",
-      "published": "2026-11-10T12:26:26.000Z",
-      "date": "2026-11-10",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-4a25a797c7b3",
-      "text": "And they ended up narrowly passing the ban on Rising Tide (by 1 vote). The Greens and some Labor councillors objected. # RisingTide # environment # protest # CivilDisobedience # ClimateChange # ClimateJustice",
-      "url": "https://aus.social/@psychopoesie/117592108707228304",
-      "platform": "mastodon",
-      "author": "psychopoesie@aus.social",
-      "published": "2026-11-10T12:19:42.000Z",
-      "date": "2026-11-10",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-893a04dc5686",
-      "text": "As i returned home to Newcastle on the train, i heard that our local Mayor was bringing a snap motion to ban Rising Tide from using any council owned property for events - now and forever. And not just Rising Tide - anyone affiliated with us. Which seems like a massive overreach and an attempt to suppress our right to protest. So i went to the council meeting along with many of my fellow Rising Ti",
-      "url": "https://aus.social/@psychopoesie/117592095943863980",
-      "platform": "mastodon",
-      "author": "psychopoesie@aus.social",
-      "published": "2026-11-10T12:16:27.000Z",
       "date": "2026-11-10",
       "geocode": null,
       "confidence": "неперевірений сигнал"
@@ -1377,23 +1479,6 @@
       "platform": "mastodon",
       "author": "rawfeednews@mastodon.world",
       "published": "2026-11-09T12:00:41.000Z",
-      "date": "2026-11-09",
-      "geocode": {
-        "lat": 50.0617,
-        "lon": 19.9373,
-        "place": "Краків",
-        "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-2ef83676b7fa",
-      "text": "Today's # news roundup: https:// nitroglycol.blogspot.com/2026/ 11/news-roundup-9-nov-2026.html # JamesTalarico # HakeemJeffries # ChuckSchumer # NewZealand # MMP # overhang # Krakow # massshooting # BillC36 # privacy # China # climate # JensenHuang # Nvidia # espionage",
-      "url": "https://mastodon.social/@nitroglycol/117586311806813112",
-      "platform": "mastodon",
-      "author": "nitroglycol",
-      "published": "2026-11-09T11:45:28.499Z",
       "date": "2026-11-09",
       "geocode": {
         "lat": 50.0617,
