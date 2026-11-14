@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:47:00.968Z",
+  "generatedAt": "2026-11-14T01:30:11.058Z",
   "windowDays": 7,
   "note": "Неофіційні сигнали з публічних сторінок. Кожен запис має мітку «неперевірений сигнал». Текст — уривок джерела, не переказ.",
   "sources": [
@@ -7,7 +7,7 @@
       "name": "Telegram @suspilnenews",
       "platform": "telegram",
       "ok": true,
-      "received": 1,
+      "received": 2,
       "error": null
     },
     {
@@ -105,7 +105,7 @@
       "name": "Telegram @bbcrussian",
       "platform": "telegram",
       "ok": true,
-      "received": 1,
+      "received": 0,
       "error": null
     },
     {
@@ -126,7 +126,7 @@
       "name": "Telegram @radiosvoboda",
       "platform": "telegram",
       "ok": true,
-      "received": 0,
+      "received": 2,
       "error": null
     },
     {
@@ -140,7 +140,7 @@
       "name": "Telegram @rian_ru",
       "platform": "telegram",
       "ok": true,
-      "received": 4,
+      "received": 3,
       "error": null
     },
     {
@@ -155,7 +155,7 @@
       "platform": "reddit",
       "ok": false,
       "received": 0,
-      "error": "HTTP 429"
+      "error": "HTTP 403"
     },
     {
       "name": "Reddit r/poland",
@@ -196,7 +196,7 @@
       "name": "Mastodon #ukraine",
       "platform": "mastodon",
       "ok": true,
-      "received": 2,
+      "received": 6,
       "error": null
     },
     {
@@ -237,13 +237,30 @@
   ],
   "items": [
     {
-      "id": "s-673dafce1ec2",
-      "text": "\"Королівський смак\" останавливает производство из-за перебоев со светом и российских атак Компания завершает отгрузку готовой продукции и приостанавливает производственные процессы. --- https://www. unian.net/economics/agro/korol ivskiy-smak-priostanavlivaet-proizvodstvo-iz-za-pereboev-s-elektrosnabzheniem-i-rossiyskih-atak-13559049.html # ua # ukraine # Украина # НовостиУкраины # НовиниУкраїни",
-      "url": "https://silverbay.space/@unian/117610816070266397",
+      "id": "s-e7beb6bd75b3",
+      "text": "🇺🇸 Трамп связал масштабный сбой в авиации США с устаревшим оборудованием, – Fox News По словам президента США, проблема может быть связана со старой инфраструктурой Управления гражданской авиации, которой местами около 55 лет. При этом Трамп заявил, что произошедшее, вероятнее всего, не связано ни с кибератакой, ни с искусственным интеллектом. УНИАН в 🕸 Google | 👥 X | 📺 YouTube |🧵 Threads #U",
+      "url": "https://tg.anyfeed.cc/post/uniannet-207023",
       "platform": "mastodon",
-      "author": "unian@silverbay.space",
-      "published": "2026-11-13T19:37:13.000Z",
-      "date": "2026-11-13",
+      "author": "uniannet@tg.anyfeed.cc",
+      "published": "2026-11-14T01:18:14.000Z",
+      "date": "2026-11-14",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-73c5a3f959cf",
+      "text": "📰 Occupiers strike gas station in Chernihiv region: fire breaks out. PHOTOS 🔗 https:// censor.net/en/news/4033623/rus sian-attack-sparks-fire-at-gas-station-in-chernihiv-region # News # RussianInvasion # RussianWar # Ukraine",
+      "url": "https://masto.ai/@ukraine/117612042968471915",
+      "platform": "mastodon",
+      "author": "ukraine@masto.ai",
+      "published": "2026-11-14T00:49:14.000Z",
+      "date": "2026-11-14",
       "geocode": {
         "lat": 49.16,
         "lon": 31.253,
@@ -251,6 +268,231 @@
         "country": "UA",
         "precision": "країна"
       },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-04eaa2e56315",
+      "text": "Трамп заявил Fox News, что приостановка вылетов из американских аэропортов не связана с кибератакой или ИИ. 🔹 Подписаться / Мы в \"Максе\"",
+      "url": "https://t.me/rian_ru/349708",
+      "platform": "telegram",
+      "author": "РИА Новости",
+      "published": "2026-11-14T00:39:23.000Z",
+      "date": "2026-11-14",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-b300ff84f525",
+      "text": "📰 Man cries over woman killed in Russian attack on Odesa 🔗 https://www. youtube.com/shorts/za2GEeNZwgc # News # RussianInvasion # RussianWar # Ukraine",
+      "url": "https://masto.ai/@ukraine/117611889535952768",
+      "platform": "mastodon",
+      "author": "ukraine@masto.ai",
+      "published": "2026-11-14T00:10:13.000Z",
+      "date": "2026-11-14",
+      "geocode": {
+        "lat": 46.4825,
+        "lon": 30.7233,
+        "place": "Одеса",
+        "country": "UA",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-10bcc89515da",
+      "text": "KYIV INDEPENDENT: FAA orders nationwide ground stop for all US flight departures https:// kyivindependent.com/faa-orders -nationwide-ground-stop-for-all-us-flight-departures/ The grounding was the first nationwide flight stoppage since January 2023, when an FAA computer system malfunctioned. Before that, the last nationwide grounding followed the terrorist attacks of Sept. 11, 2001. # Ukraine",
+      "url": "https://mstdn.social/@ukrdef/117611873731229982",
+      "platform": "mastodon",
+      "author": "ukrdef@mstdn.social",
+      "published": "2026-11-14T00:06:12.000Z",
+      "date": "2026-11-14",
+      "geocode": {
+        "lat": 50.4501,
+        "lon": 30.5234,
+        "place": "Київ",
+        "country": "UA",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-837825061a1f",
+      "text": "📰 Cyberattack hits German drone manufacturer supplying Ukraine in late October, company confirms 🔗 https:// kyivindependent.com/cyberattac k-hits-german-drone-manufacturer-supplying-ukraine-in-late-october-company-confirms/ # News # RussianInvasion # RussianWar # Ukraine",
+      "url": "https://masto.ai/@ukraine/117611873575380956",
+      "platform": "mastodon",
+      "author": "ukraine@masto.ai",
+      "published": "2026-11-14T00:06:10.000Z",
+      "date": "2026-11-14",
+      "geocode": {
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-bd09e144f1ff",
+      "text": "Remains of Russian drone recovered from Dnipro River in Kyiv Rescuers have recovered the remains of an enemy drone from the Dnipro River in Kyiv's Obolonskyi district. The debris fell into the river during a Russian attack on November 11. ukrinform.net/rubric-ato/4184176-remains-of-russian-drone-recovered-from-dnipro-river-in-kyiv.html #Ukraine #News #UkraineWar",
+      "url": "https://www.ukrinform.net/rubric-ato/4184176-remains-of-russian-drone-recovered-from-dnipro-river-in-kyiv.html",
+      "platform": "mastodon",
+      "author": "Ukrinform@rss.anyfeed.cc",
+      "published": "2026-11-13T23:26:00.000Z",
+      "date": "2026-11-14",
+      "geocode": {
+        "lat": 48.4647,
+        "lon": 35.0462,
+        "place": "Дніпро",
+        "country": "UA",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-f8092aaa7073",
+      "text": "There are 725 days until the next theoretical Presidential Election and 799 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 47% Until Next Inauguration : ████▒▒▒▒▒▒ 45% #protest Trump Action Tracker | Keeping...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n2a3r25roe23",
+      "platform": "mastodon",
+      "author": "uspol.skyfleet.blue@bsky.brid.gy",
+      "published": "2026-11-13T23:03:00.520Z",
+      "date": "2026-11-14",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-df9397b8cb52",
+      "text": "📰 Un muerto y treinta heridos en una explosión por un escape de gas en Argentina 🔗 https://www. cnnchile.com/mundo/un-muerto-y -treinta-heridos-en-una-explosion-por-un-escape-de-gas-en-argentina/ # explosion # gas # argentina",
+      "url": "https://mastodon.cl/@cnnchile/117611622836468112",
+      "platform": "mastodon",
+      "author": "cnnchile@mastodon.cl",
+      "published": "2026-11-13T23:02:24.000Z",
+      "date": "2026-11-14",
+      "geocode": {
+        "lat": -35.18,
+        "lon": -65.156,
+        "place": "Аргентина",
+        "country": "AR",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-601fa276bca8",
+      "text": "В США впервые после 9/11 полностью остановлено авиасообщение Федеральное управление гражданской авиации США выпустило распоряжение о приостановке вылетов всех самолётов на территории страны. Подробности о причинах этого пока не известны. Министр внутренней безопасности США Маркуэйн Маллин сообщил, что, по его данным, речь на данный момент не идет ни о террористическом нападении, ни о кибератаке. М",
+      "url": "https://t.me/radiosvoboda/106871",
+      "platform": "telegram",
+      "author": "Radio Svoboda",
+      "published": "2026-11-13T22:30:14.000Z",
+      "date": "2026-11-13",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-6efb08f0b85e",
+      "text": "\"Bring him home.\" Officials, parents, teachers rally for 8-year-old boy detained by ICE in San Diego, CA Video Source https:// reddit.com/comments/1xvdzz0 Article https://www. nbcsandiego.com/news/local/ice -takes-8-year-old-haitian-boy-into-custody-at-san-diego-check-in/4098472/ # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobed",
+      "url": "https://social.linux.pizza/@CubitOom/117611467520081677",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-13T22:22:54.000Z",
+      "date": "2026-11-13",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-f01288a508c6",
+      "text": "\"There's no humane way to detain a child.\" EachStepHome and AOC Rescued Starving Boys and Mother from Horrific Conditions in ICE Concentration Camp Video Source https:// reddit.com/comments/1xup5od # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # USAFascistShitShow # icestapo # policestate # paramilitary # policemilitari",
+      "url": "https://social.linux.pizza/@CubitOom/117611426873099691",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-13T22:12:34.000Z",
+      "date": "2026-11-13",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-d741a3380f67",
+      "text": "Федеральное управление гражданской авиации США выпустило распоряжение о приостановке вылетов всех самолётов на территории страны. Подробности о причинах этого пока не известны, по ряду сообщений, речь идёт о сбое в радиочастотах. Источники CNN утверждают, что речь не идёт о кибератаке, однако официальных данных нет.",
+      "url": "https://t.me/radiosvoboda/106869",
+      "platform": "telegram",
+      "author": "Radio Svoboda",
+      "published": "2026-11-13T21:59:24.000Z",
+      "date": "2026-11-13",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-f93bd7bd0eed",
+      "text": "Fascist paramilitary (ICE) pepper sprayed legal observers and migrant advocate Arturo Gonzalez and his friend while they were driving. (San Diego, CA, 11/11/2026) Video Source https:// reddit.com/comments/1xtx6ne # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # USAFascistShitShow # icestapo # policestate # paramilitary #",
+      "url": "https://social.linux.pizza/@CubitOom/117611342827569814",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-13T21:51:11.000Z",
+      "date": "2026-11-13",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-72a37bdd587f",
+      "text": "Fascist Paramilitary Brutalize Man during Abduction, Punch Him in the Face, and Nearly Break His Arm as Children Cry in Terror (Robbinsdale, MN, 11/11/2026) Article https://www. mprnews.org/story/2026/11/12/i ce-arrests-robbinsdale-man-without-a-warrant Ice Out Report https:// iceout.org/en/reportInfo/165555 Video Source https:// reddit.com/comments/1xtxwaq # ice # iceout # eyesonice # resistance ",
+      "url": "https://social.linux.pizza/@CubitOom/117611293641286674",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-13T21:38:41.000Z",
+      "date": "2026-11-13",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-da71998db30a",
+      "text": "На Вінниччині було чутно звук вибуху, повідомляють кореспонденти Суспільного. У Повітряних силах повідомляли про рух реактивного БпЛА зі сходу в напрямку Вороновиці на Вінниччині.",
+      "url": "https://t.me/suspilnenews/79258",
+      "platform": "telegram",
+      "author": "СУСПІЛЬНЕ НОВИНИ",
+      "published": "2026-11-13T20:55:19.000Z",
+      "date": "2026-11-13",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-e8890d55f410",
+      "text": "📰 Los impactantes registros de la explosión por fuga de gas en Buenos Aires que dejó decenas de heridos Un error durante trabajos de mantenimiento en la vía pública de Lanús desató un feroz incendio que af... 🔗 https://www. adnradio.cl/2026/11/13/los-imp actantes-registros-de-la-explosion-por-fuga-de-gas-en-buenos-aires-que-dejo-decenas-de-heridos/ # explosion # fuga # gases # incendios # buenos",
+      "url": "https://mastodon.cl/@adnradio/117610908705698032",
+      "platform": "mastodon",
+      "author": "adnradio@mastodon.cl",
+      "published": "2026-11-13T20:00:47.000Z",
+      "date": "2026-11-13",
+      "geocode": null,
       "confidence": "неперевірений сигнал"
     },
     {
@@ -262,23 +504,6 @@
       "published": "2026-11-13T19:25:51.000Z",
       "date": "2026-11-13",
       "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-965558881547",
-      "text": "Франція готується до п’ятої хвилі протестів - планує залучити близько 70 тисяч правоохоронців У Франції в суботу, 14 листопада, запланований «Акт V» протестів проти дорожнечі. МВС очікує від 50 до 60 маршів по всій країні й планує залучити близько 70 тисяч поліцейських і жандармів. ukrinform.ua/rubric-world/4184324-francia-gotuetsa-do-patoi-hvili-protestiv-planue-zaluciti-blizko-70-tisac-pravoohor",
-      "url": "https://www.ukrinform.ua/rubric-world/4184324-francia-gotuetsa-do-patoi-hvili-protestiv-planue-zaluciti-blizko-70-tisac-pravoohoronciv.html",
-      "platform": "mastodon",
-      "author": "ukrinform_ua@rss.anyfeed.cc",
-      "published": "2026-11-13T19:21:00.000Z",
-      "date": "2026-11-13",
-      "geocode": {
-        "lat": 46.62,
-        "lon": 2.453,
-        "place": "Франція",
-        "country": "FR",
-        "precision": "країна"
-      },
       "confidence": "неперевірений сигнал"
     },
     {
@@ -516,17 +741,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-bcd122f2a26d",
-      "text": "📹 СКР подтвердил, что при взрыве автомобиля в Москве пострадал бывший советник экс-премьера Украины Николая Азарова. По данным источников газеты «Коммерсант», следствие связывает взрыв с украинскими спецслужбами. 🔗 Сайт без VPN | YouTube | Рассылка | Что делать, если не работает сайт",
-      "url": "https://t.me/bbcrussian/101402",
-      "platform": "telegram",
-      "author": "BBC News Russian",
-      "published": "2026-11-13T14:44:00.000Z",
-      "date": "2026-11-13",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-489ae1a892ab",
       "text": "📰 Vecinos aseguran que eran una pareja y su hijo: lo que se sabe la explosión de un departamento en Santiago en la que murieron tres personas 🔗 https://www. theclinic.cl/2026/11/13/vecino s-aseguran-que-eran-una-pareja-y-su-hijo-lo-que-se-sabe-la-explosion-de-un-departamento-en-santiago-en-la-que-murieron-tres-personas/ # pareja # explosion # santiago",
       "url": "https://mastodon.cl/@theclinic/117609640813720940",
@@ -616,17 +830,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-b47a817b1442",
-      "text": "Взрывы гремят в Виннице на фоне воздушной тревоги. 🔹 Подписаться / Мы в \"Максе\"",
-      "url": "https://t.me/rian_ru/349684",
-      "platform": "telegram",
-      "author": "РИА Новости",
-      "published": "2026-11-13T13:19:20.000Z",
-      "date": "2026-11-13",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-08996d9cbaf5",
       "text": "My personal observation of protests in the places I've been is that unless you win and win big, the vandalism results in a worsening of conditions as the state cracks down more, and replaces infrastructure in the way that suits them. This is an example. Most folks will consider it minor, but it's actually a significant loss of safer space for cyclists, wheelchair users and pedestrians. Some protes",
       "url": "https://eldritch.cafe/@ml/117609258350915979",
@@ -669,17 +872,6 @@
         "country": "AL",
         "precision": "країна"
       },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-c5d318c0fb88",
-      "text": "До 60 протестных акций пройдет во Франции в субботу, заявил глава МВД страны Лоран Нуньес. 🟦 Подписаться / Мы в \"Максе\"",
-      "url": "https://t.me/rian_ru/349680",
-      "platform": "telegram",
-      "author": "РИА Новости",
-      "published": "2026-11-13T11:24:52.000Z",
-      "date": "2026-11-13",
-      "geocode": null,
       "confidence": "неперевірений сигнал"
     },
     {
@@ -972,73 +1164,6 @@
         "country": "US",
         "precision": "країна"
       },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-c2b5aeec2c4c",
-      "text": "There are 726 days until the next theoretical Presidential Election and 800 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 47% Until Next Inauguration : ████▒▒▒▒▒▒ 45% #protest IMPEACH TRUMP. AGAIN.",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n25lc62t7a23",
-      "platform": "mastodon",
-      "author": "uspol.skyfleet.blue@bsky.brid.gy",
-      "published": "2026-11-12T23:03:01.962Z",
-      "date": "2026-11-13",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-09b11c026501",
-      "text": "How Corporate Liberalism and Political Parties Shape US Protest Movements! https://www. youtube.com/shorts/ntt2EYQrqh4 complicit controlled opposition and the history of protest and response in America # ThreatenPower # ControlledOpposition # Protest # Response # Movements # Toothless # LeftAgression # Lacking # Liberalism # Complicity # StatusQuo",
-      "url": "https://syzito.xyz/@OccuWorld/117605737098848582",
-      "platform": "mastodon",
-      "author": "OccuWorld@syzito.xyz",
-      "published": "2026-11-12T22:05:34.000Z",
-      "date": "2026-11-12",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-d60dea471f9f",
-      "text": "Тим часом НПЗ у Волгограді #Protest #Belarus #News",
-      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68751",
-      "platform": "mastodon",
-      "author": "worldprotest@uk.tg.anyfeed.cc",
-      "published": "2026-11-12T21:56:52.000Z",
-      "date": "2026-11-12",
-      "geocode": {
-        "lat": 53.531,
-        "lon": 28.033,
-        "place": "Білорусь",
-        "country": "BY",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-ee974a3a3f7c",
-      "text": "Тем временем НПЗ в Волгограде #Protest #Belarus #News",
-      "url": "https://tg.anyfeed.cc/post/worldprotest-68751",
-      "platform": "mastodon",
-      "author": "worldprotest@tg.anyfeed.cc",
-      "published": "2026-11-12T21:56:52.000Z",
-      "date": "2026-11-12",
-      "geocode": {
-        "lat": 53.531,
-        "lon": 28.033,
-        "place": "Білорусь",
-        "country": "BY",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-dd432f8b7585",
-      "text": "Proti čemu teda protestujete? 😶‍🌫️📢 Prostor Hnízdo, čtvrtek 19. listopadu v 19:00 SEČ For English, please scroll down ⬇️ Proti čemu teda protestujete? 😶‍🌫️📢 Kde: Prostor Hnízdo Kdy: 19. listopadu v 19:00 V posledních týdnech jsme nuceni HODNĚ vyrážet do ulic – přemýšleli jste někdy nad tím, jestli to děláme správně? 19. listopadu večer přijďte do Hnízda na workshop a debatu k intersekcionali",
-      "url": "https://akce.nolog.cz/event/proti-cemu-teda-protestujete",
-      "platform": "mastodon",
-      "author": "Levicove_Akce@akce.nolog.cz",
-      "published": "2026-11-12T19:55:31.678Z",
-      "date": "2026-11-12",
-      "geocode": null,
       "confidence": "неперевірений сигнал"
     },
     {
@@ -1662,40 +1787,6 @@
       "published": "2026-11-08T08:46:19.000Z",
       "date": "2026-11-08",
       "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-0f941a8e9c28",
-      "text": "🔴 Explosion | 8/10 🇮🇷 Explosions reported on Qeshm Island (Iran) Reports of two explosions were heard on Qeshm Island, Hormozgan Province (Iran). # OSINT # NewsGroup # Iran # Explosion # Qeshm",
-      "url": "https://social.vir.group/@analytics/117576816416891192",
-      "platform": "mastodon",
-      "author": "analytics@social.vir.group",
-      "published": "2026-11-07T19:30:40.000Z",
-      "date": "2026-11-07",
-      "geocode": {
-        "lat": 32.58,
-        "lon": 54.273,
-        "place": "Іран",
-        "country": "IR",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-aaf99dd7946d",
-      "text": "🔴 Explosion | 8/10 Explosions in Shiraz (Iran) Initial reports indicate four consecutive explosions occurred near the cement factory in Shiraz (Iran). # OSINT # NewsGroup # Iran # Explosion # IndustrialTarget",
-      "url": "https://social.vir.group/@analytics/117575807251031256",
-      "platform": "mastodon",
-      "author": "analytics@social.vir.group",
-      "published": "2026-11-07T15:14:01.000Z",
-      "date": "2026-11-07",
-      "geocode": {
-        "lat": 32.58,
-        "lon": 54.273,
-        "place": "Іран",
-        "country": "IR",
-        "precision": "країна"
-      },
       "confidence": "неперевірений сигнал"
     }
   ]
