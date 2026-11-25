@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:41:15.593Z",
+  "generatedAt": "2026-11-25T19:21:38.143Z",
   "windowDays": 7,
   "note": "Неофіційні сигнали з публічних сторінок. Кожен запис має мітку «неперевірений сигнал». Текст — уривок джерела, не переказ.",
   "sources": [
@@ -7,7 +7,7 @@
       "name": "Telegram @suspilnenews",
       "platform": "telegram",
       "ok": true,
-      "received": 0,
+      "received": 1,
       "error": null
     },
     {
@@ -105,7 +105,7 @@
       "name": "Telegram @bbcrussian",
       "platform": "telegram",
       "ok": true,
-      "received": 1,
+      "received": 0,
       "error": null
     },
     {
@@ -119,7 +119,7 @@
       "name": "Telegram @meduzalive",
       "platform": "telegram",
       "ok": true,
-      "received": 1,
+      "received": 0,
       "error": null
     },
     {
@@ -133,14 +133,14 @@
       "name": "Telegram @wartranslated",
       "platform": "telegram",
       "ok": true,
-      "received": 0,
+      "received": 2,
       "error": null
     },
     {
       "name": "Telegram @rian_ru",
       "platform": "telegram",
       "ok": true,
-      "received": 1,
+      "received": 0,
       "error": null
     },
     {
@@ -182,28 +182,28 @@
       "name": "Mastodon #explosion",
       "platform": "mastodon",
       "ok": true,
-      "received": 37,
+      "received": 36,
       "error": null
     },
     {
       "name": "Mastodon #protest",
       "platform": "mastodon",
       "ok": true,
-      "received": 39,
+      "received": 40,
       "error": null
     },
     {
       "name": "Mastodon #ukraine",
       "platform": "mastodon",
       "ok": true,
-      "received": 10,
+      "received": 4,
       "error": null
     },
     {
       "name": "Mastodon #krakow",
       "platform": "mastodon",
       "ok": true,
-      "received": 16,
+      "received": 15,
       "error": null
     },
     {
@@ -237,125 +237,107 @@
   ],
   "items": [
     {
-      "id": "s-eda2ae502f4a",
-      "text": "‼️Ukrainian drones struck Rosneft's Syzran oil refinery in Russia's Samara Oblast overnight, causing a major fire. The moment of the attack was captured during a livestream by Russian blogger Andrei Arzamatov, known as MrRissso. Located roughly 800 km from Ukraine, the refinery has an annual processing capacity of 8.5 to 8.9 million tons and produces gasoline, diesel and aviation fuel. # Ukraine",
-      "url": "https://mstdn.social/@noelreports/117676178986888805",
+      "id": "s-cca10836d6fb",
+      "text": "CW: Occasional Foul Language. Always Political. 📞 CALL TO ACTION❗️ @50501veterans.bsky.social is asking *everyone* to call the Senate VA committee chairman directly to urge him to oppose the Take Care of America’s Veterans Act & to pass the standalone Major Richard Star Act. Swipe through the slides for details, the number, & a call script. Link: https:// bsky.app/profile/50501movement .bsky.soci",
+      "url": "https://hear-me.social/@alt50501/117678701265822626",
       "platform": "mastodon",
-      "author": "noelreports@mstdn.social",
-      "published": "2026-11-25T08:39:52.000Z",
+      "author": "alt50501@hear-me.social",
+      "published": "2026-11-25T19:21:19.000Z",
       "date": "2026-11-25",
-      "geocode": {
-        "lat": 49.16,
-        "lon": 31.253,
-        "place": "Україна",
-        "country": "UA",
-        "precision": "країна"
-      },
+      "geocode": null,
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-2e9f80476973",
-      "text": "Russian forces attack Chernihiv region, one person killed – State Emergency Service #Ukraine Russian forces attack Chernihi...",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:yx2nfpytmmze4fau2qxw2c5a/post/i5nxj5z5wqf3c",
-      "platform": "mastodon",
-      "author": "amplifyukraine.eu@bsky.brid.gy",
-      "published": "2026-11-25T08:35:51.350Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 49.16,
-        "lon": 31.253,
-        "place": "Україна",
-        "country": "UA",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-f8d5f6dcc892",
-      "text": "💬 Служба безпеки України заявляє про затримання агента російської воєнної розвідки . Стверджують, що він готував замах на командира підрозділу ССО у Хмельницькому. За даними слідства, чоловік заклав вибухівку в автівку біля будинку військового та планував підірвати її. СБУ затримала його за кілька метрів від місця. Чоловіку повідомили про підозру в держзраді. Йому загрожує довічне ув’язнення. Укр",
-      "url": "https://tg.anyfeed.cc/post/Katimsya-20532",
-      "platform": "mastodon",
-      "author": "Katimsya@tg.anyfeed.cc",
-      "published": "2026-11-25T08:34:24.000Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 49.16,
-        "lon": 31.253,
-        "place": "Україна",
-        "country": "UA",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-4b83a7e56e0a",
-      "text": "Overnight, Russia launched 112 drones, including 66 jet-powered Shaheds. Ukrainian air defenses shot down or suppressed 88 drones, including 47 jet-powered ones. Impacts were recorded at 18 locations and falling debris at 13. The attack is ongoing. # Ukraine",
-      "url": "https://mstdn.social/@noelreports/117676149075520246",
-      "platform": "mastodon",
-      "author": "noelreports@mstdn.social",
-      "published": "2026-11-25T08:32:16.000Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 49.16,
-        "lon": 31.253,
-        "place": "Україна",
-        "country": "UA",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-c5d983cca75b",
-      "text": "🔴 Drone Attack | 9/10 🇺🇦 Massive Russian Drone Strike on Dnipropetrovsk and Odesa Regions Russian unmanned aerial vehicles attacking Dnipropetrovsk and Odesa regions. Strikes confirmed on Dnipro, Zelenodolsk, and Chornomorsk. Active air alert in progress. # OSINT # NewsGroup # Ukraine # AirAlert # DroneAttack # Dnipro",
-      "url": "https://social.vir.group/@analytics/117676117527092677",
+      "id": "s-0202416d36d1",
+      "text": "🟡 Infrastructure Incident | 7/10 🇪🇬 Petroleum tanker explosion in Cairo, Egypt Petroleum tanker explosion confirmed in Cairo (coordinates: 30.062203, 31.174219). Multiple video recordings from the incident site released. Cause under investigation. # OSINT # NewsGroup # Egypt # Infrastructure # Explosion # Cairo",
+      "url": "https://social.vir.group/@analytics/117678687843053274",
       "platform": "mastodon",
       "author": "analytics@social.vir.group",
-      "published": "2026-11-25T08:24:15.000Z",
+      "published": "2026-11-25T19:17:54.000Z",
       "date": "2026-11-25",
       "geocode": {
-        "lat": 48.4647,
-        "lon": 35.0462,
-        "place": "Дніпро",
-        "country": "UA",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-b30a1c352ec7",
-      "text": "Дрони атакували Волинь: п'ятеро поранених Війська РФ атакували реактивними дронами-камікадзе типу \"Шахед\" Волинську область у ніч на середу, 25 листопада. Унаслідок удару по Ковельському району п'ятеро людей дістали поранення, інформує Державна служба України з надзвичайних ситуацій.&nbsp; &nbsp; Спалахнули пожежі в будівлі, двох легкових та трьох вантажних автомобілях. 50 рятувальників ліквідувал",
-      "url": "https://zn.ua/ukr/war/droni-atakuvali-volin-pjatero-poranenikh-.html",
-      "platform": "mastodon",
-      "author": "zn_ua@rss.anyfeed.cc",
-      "published": "2026-11-25T08:19:36.000Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 49.16,
-        "lon": 31.253,
-        "place": "Україна",
-        "country": "UA",
+        "lat": 26.496,
+        "lon": 29.862,
+        "place": "Єгипет",
+        "country": "EG",
         "precision": "країна"
       },
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-36a35259ae5c",
-      "text": "Нафта дешевшає попри атаки на танкери, трейдери побоюються надлишку пропозиції Ціни на сиру нафту в середу впали на понад 1%, нівелюючи зростання попереднього дня, оскільки перспектива надлишку на ринку компенсувала побоювання щодо перебоїв у морських перевезеннях на Близькому Сході. ukrinform.ua/rubric-economy/4188350-nafta-desevsae-popri-ataki-na-tankeri-trejderi-pobouutsa-nadlisku-propozicii.ht",
-      "url": "https://www.ukrinform.ua/rubric-economy/4188350-nafta-desevsae-popri-ataki-na-tankeri-trejderi-pobouutsa-nadlisku-propozicii.html",
+      "id": "s-e868164e37cf",
+      "text": "Greifswald (LK VG) (ots) - Am 25.11.2026, kam es gegen 16:40 Uhr in der Franz-Mehring-Straße zu einem Verkehrsunfall, bei dem zwei Personen leicht verletzt wurden. Nach bisherigen Erkenntnissen bog ein 76-jähriger Fahrer eines Nissan aus einem ... https://www. presseportal.de/blaulicht/pm/1 08747/6398056 # Audi # Explosion # Formel1 # Invalidität # Nissan # Personen # Transport # Verkehrsbericht #",
+      "url": "https://freie-re.de/@blaulicht/117678672615343316",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T19:14:02.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-4cea168d71cf",
+      "text": "There are 713 days until the next theoretical Presidential Election and 787 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 48% Until Next Inauguration : ████▒▒▒▒▒▒ 46% #protest Trump Action Tracker | Keeping...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n35twwv3nl2f",
+      "platform": "mastodon",
+      "author": "uspol.skyfleet.blue@bsky.brid.gy",
+      "published": "2026-11-25T19:03:00.635Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-1261bebf1051",
+      "text": "Стамбул заборонив акції проти насильства над жінками Влада Стамбула заборонила заплановані у місті демонстрації з нагоди Міжнародного дня ООН за ліквідацію насильства щодо жінок. Джерело: \" Європейська правда \" з посиланням на dpa Деталі: Численні організації, що захищають права жінок, закликали до проведення демонстрації в районі Бейоглу на європейській стороні міста в середу ввечері. У відповідь",
+      "url": "https://www.pravda.com.ua/news/2026/11/25/8064689/",
+      "platform": "mastodon",
+      "author": "ukrpravda@rss.anyfeed.cc",
+      "published": "2026-11-25T19:02:00.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 41.0082,
+        "lon": 28.9784,
+        "place": "Стамбул",
+        "country": "TR",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-73700c86d578",
+      "text": "📰 Student (58) in Italië overleden in tent na hongerstaking https:// nieuwsjunkies.nl/artikel/1YwO 🕗 19:53 | RTL Nieuws 🔸 # Protest # Huisvesting # Woedend # Staking # Italie",
+      "url": "https://mastodon.social/@NieuwsJunkies/117678597831233968",
+      "platform": "mastodon",
+      "author": "NieuwsJunkies",
+      "published": "2026-11-25T18:55:01.483Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-d5eedaa2cacc",
+      "text": "Somewhere in Zaporizhzhia or the surrounding region, a camera captured Russia attacking civilian buildings with massive guided aerial bomb strikes.",
+      "url": "https://t.me/wartranslated/20598",
+      "platform": "telegram",
+      "author": "WarTranslated",
+      "published": "2026-11-25T18:52:57.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 61.699,
+        "lon": 99.728,
+        "place": "Росія",
+        "country": "RU",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-2fa55c34f5f9",
+      "text": "На Харківщині упродовж дня через російські атаки троє людей загинули і двоє постраждали У Харківській області упродовж дня внаслідок російських атак троє людей загинули і двоє постраждали. ukrinform.ua/rubric-regions/4188648-na-harkivsini-uprodovz-dna-cerez-rosijski-ataki-troe-ludej-zaginuli-i-dvoe-postrazdali.html #Ukraine #Україна #News #Новини",
+      "url": "https://www.ukrinform.ua/rubric-regions/4188648-na-harkivsini-uprodovz-dna-cerez-rosijski-ataki-troe-ludej-zaginuli-i-dvoe-postrazdali.html",
       "platform": "mastodon",
       "author": "ukrinform_ua@rss.anyfeed.cc",
-      "published": "2026-11-25T08:19:00.000Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-164d843dabea",
-      "text": "Russian forces strike Zaporizhzhia in morning attack, injuries, damage reported Three people were injured in a Russian attack on the Shevchenkivskyi district of Zaporizhzhia on Wednesday morning, November 25. ukrinform.net/rubric-ato/4188341-russian-forces-strike-zaporizhzhia-in-morning-attack-injuries-damage-reported.html #Ukraine #News #UkraineWar",
-      "url": "https://www.ukrinform.net/rubric-ato/4188341-russian-forces-strike-zaporizhzhia-in-morning-attack-injuries-damage-reported.html",
-      "platform": "mastodon",
-      "author": "Ukrinform@rss.anyfeed.cc",
-      "published": "2026-11-25T08:18:00.000Z",
+      "published": "2026-11-25T18:52:00.000Z",
       "date": "2026-11-25",
       "geocode": {
         "lat": 49.16,
@@ -367,42 +349,883 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-d008d6783850",
-      "text": "🇺🇸 🧑‍💻 Хакеры взломали системы ЦРУ и других разведведомств США Центральное разведывательное управление США (ЦРУ) и как минимум два других американских разведывательных ведомства подверглись кибератаке, в результате которой произошла утечка несекретной информации. Об этом сообщает The New York Times со ссылкой на источники, знакомые с ситуацией. Помимо ЦРУ, взлом затронул Национальное агентство",
-      "url": "https://t.me/radiosvoboda/107346",
-      "platform": "telegram",
-      "author": "Radio Svoboda",
-      "published": "2026-11-25T08:02:53.000Z",
+      "id": "s-8803de9d9d0f",
+      "text": "Estonian Foreign Ministry attacks on ships in Baltic Sea: Russia bears full responsibility for this #Ukraine Estonian Foreign Ministry atta...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:yx2nfpytmmze4fau2qxw2c5a/post/ga3x7usdy2yjr",
+      "platform": "mastodon",
+      "author": "amplifyukraine.eu@bsky.brid.gy",
+      "published": "2026-11-25T18:49:55.737Z",
       "date": "2026-11-25",
       "geocode": {
-        "lat": 40.7128,
-        "lon": -74.006,
-        "place": "Нью-Йорк",
-        "country": "US",
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-e69f7da9ec3a",
+      "text": "Ukrainian journalists outnumbered 30 to 1 by Russian propagandists during Oleshky evacuation, reporter says #Ukraine Ukrainian journalists outnumbe...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:yx2nfpytmmze4fau2qxw2c5a/post/6imxe7po2kqgj",
+      "platform": "mastodon",
+      "author": "amplifyukraine.eu@bsky.brid.gy",
+      "published": "2026-11-25T18:47:34.045Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-db272c4f699a",
+      "text": "Day 179 of anti-corruption protest in Tirana, Albania 179 ditë protestë kundër qeverisë, qytetarët bëjnë thirrje për mobilizim mbarëkombëtar më 28 nëntor Machine translated: 179 days of protest against the government; citizens call for a nationwide mobilization on November 28. # Albania # Balkans # Corruption # Europe # Protest # FlamingoRevolution https://www. youtube.com/watch?v=u_U7f54B6FM",
+      "url": "https://eldritch.cafe/@ml/117678511699484363",
+      "platform": "mastodon",
+      "author": "ml@eldritch.cafe",
+      "published": "2026-11-25T18:33:07.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 41.142,
+        "lon": 20.05,
+        "place": "Албанія",
+        "country": "AL",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-c0b56f93d18a",
+      "text": "Jetzt steht fest: Generali schließt seinen Standort in Aachen bis Ende 2030. Über 1000 Beschäftigte sollen bald in Köln arbeiten. # WDR # WDRde # Aachen # Generali # Entscheidung # Stadt # Protest # Betriebsrat # NRW Generali-Mitarbeiter enttäuscht: 1.200 Beschäftigte müssen Standort in Aachen verlassen",
+      "url": "https://squeet.me/display/962c3e10-f95eb51c-3321628c3a00160e",
+      "platform": "mastodon",
+      "author": "wdr@squeet.me",
+      "published": "2026-11-25T18:28:43.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-1b738d034fef",
+      "text": "https:// widdershins.verja.net/five-ton s-of-lead-azide-and-twenty-years-of-later/ # accountability # army # explosion # iowa # lead # thoughts",
+      "url": "https://social.verja.net/@widdershins/117678326495169888",
+      "platform": "mastodon",
+      "author": "widdershins@verja.net",
+      "published": "2026-11-25T17:46:01.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-770d1367a116",
+      "text": "⛔️🇺🇸Poland disappointed by Trump and Republican-led U.S. government response to Russian terrorist’s missile attack on NATO member’s soil (more) https:// english.nv.ua/russian-war/pola nd-awaits-us-response-to-russian-missiles-entering-its-airspace-50662519.html # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Poland # Warsaw # Krakow # Vote2028 # Democrats # Kherson # Berlin # Brussels # USA ",
+      "url": "https://mastodon.online/@SocraticEthics/117678208117093221",
+      "platform": "mastodon",
+      "author": "SocraticEthics@mastodon.online",
+      "published": "2026-11-25T17:15:54.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "place": "Брюссель",
+        "country": "BE",
         "precision": "місто"
       },
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-51a1599e1f28",
-      "text": "Russian drones attack Volyn Oblast: five injured, fires break out in Kovel district – photos Five people were injured and a civilian building and cars caught fire as a result of a Russian strike on the Kovel hromada A hromada is an administrative unit designating a village, several villages, or a town, and their adjacent territories in Volyn Oblast on the evening of 24 November.&nbsp; Source: Stat",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064542/",
+      "id": "s-1f10861b3f68",
+      "text": "CW: Occasional Foul Language. Always Political. Breaking: Claire Valdez, Sam Forstag, & Bob Brooks Organize 53 Freshman Democrats to Boycott Harvard to Stand in Solidarity With Strikers! # 50501movement # BreakingNews # HarvardStrike Link: https:// bsky.app/profile/50501movement .bsky.social/post/3n35n5xrurc25 ---------------------------- Reposted from 50501: The People's Movement Join the Movemen",
+      "url": "https://hear-me.social/@alt50501/117678191022834398",
       "platform": "mastodon",
-      "author": "pravda_english@rss.anyfeed.cc",
-      "published": "2026-11-25T07:43:00.000Z",
+      "author": "alt50501@hear-me.social",
+      "published": "2026-11-25T17:11:34.000Z",
       "date": "2026-11-25",
       "geocode": null,
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-34fb39bbe7f7",
-      "text": "Russians attack energy and industrial infrastructure in Zhytomyr and Poltava oblasts The Russians attacked Zhytomyr and Poltava oblasts overnight on 24-25 November, hitting energy infrastructure facilities and industrial businesses. Source: Vitalii Bunechko , Head of Zhytomyr Oblast Military Administration; Vitalii Diakivnych , Head of Poltava Oblast Military Administration Details: Bunechko repor",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064543/",
+      "id": "s-d815e3e87e7e",
+      "text": "⚠️⛔️Neutered NATO, Now A Cowardly Alliance, Proves Feckless Yet Again: Poland says Rutte and NATO refuse to shoot down drones over Ukraine due to \"numerous complications\" (more) https://www. pravda.com.ua/eng/news/2026/11 /25/8064636/ # Ukraine # Press # Kyiv # Poland # Krakow # Warsaw # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE ",
+      "url": "https://mastodon.online/@SocraticEthics/117678174105656882",
       "platform": "mastodon",
-      "author": "pravda_english@rss.anyfeed.cc",
-      "published": "2026-11-25T07:41:00.000Z",
+      "author": "SocraticEthics@mastodon.online",
+      "published": "2026-11-25T17:07:15.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "place": "Брюссель",
+        "country": "BE",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-24a15aa31753",
+      "text": "‼️🇵🇱Poland to introduce no-fly zone on eastern border to bolster air defence (more) https://www. pravda.com.ua/eng/news/2026/11 /25/8064627/ # Ukraine # Press # Kyiv # Poland # Warsaw # Krakow # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # USAIsAStateSponsorofTerror # 12yrInvasi",
+      "url": "https://mastodon.online/@SocraticEthics/117678154344677878",
+      "platform": "mastodon",
+      "author": "SocraticEthics@mastodon.online",
+      "published": "2026-11-25T17:02:14.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "place": "Брюссель",
+        "country": "BE",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-8771b70a7d86",
+      "text": "Theater Review: The Getaway Driver at Central Square&nbsp;Theater The Getaway Driver Written by Deborah Salem Smith and Charlie Thurston Directed by Curt Columbus November 24, 2026: Central Square Theater , Cambridge, Massachusetts Cast Rebecca Gibel – Katherine Rachael Warren – Clare In 1970, 21-year-old student Katherine Ann Power become involved with a radical anti-war group that plotted an arm",
+      "url": "https://othemts.wordpress.com/2026/11/25/theater-review-the-getaway-driver-at-central-square-theater/",
+      "platform": "mastodon",
+      "author": "othemts.wordpress.com@othemts.wordpress.com",
+      "published": "2026-11-25T17:00:56.000Z",
       "date": "2026-11-25",
       "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-0aba4d2c0bb4",
+      "text": "⚠️🇵🇱Russians calls Poles \"Russophobic\" for protesting a terrorist missile attack and explosions on Polish soil (more) https://www. pravda.com.ua/eng/news/2026/11 /25/8064544/ # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Poland # Warsaw # Krakow # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # USAIs",
+      "url": "https://mastodon.online/@SocraticEthics/117678099053911177",
+      "platform": "mastodon",
+      "author": "SocraticEthics@mastodon.online",
+      "published": "2026-11-25T16:48:10.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "place": "Брюссель",
+        "country": "BE",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-db0c0738ebe5",
+      "text": "И США, и Советский Союз в 1962 году произвели взрывы ядерного оружия в космосе: один из наблюдателей описал \"второе солнце\", на мгновение вспыхнувшее над головой. На линиях электропередачи появились искры, кабели упали на землю, на электростанции вспыхнул пожар. Сейчас появились сообщения, что Россия планирует запустить в космос спутник с ядерным вооружением под названием \"Спутник-С\". Кремль опров",
+      "url": "https://t.me/radiosvoboda/107381",
+      "platform": "telegram",
+      "author": "Radio Svoboda",
+      "published": "2026-11-25T16:48:02.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-a6abe4815686",
+      "text": "# brd # israel # libanon # mossad # hezbollah # attentate # pager # völkerrecht # partei # pdl # protest # sitin # gewaltlosigkeit # b90grüne 2/2 „Konstantin von Notz verteidigt seine Schirmherrschaft für ein parlamentarisches Frühstück mit David Barnea, dem Ex-Mossad-Chef, der wegen Kriegsverbrechen angezeigt wurde. Wie wäre es mit ein bisschen Konsistenz in Sachen Völkerrecht?“ https://www. frei",
+      "url": "https://mastodon.social/@Gerd_Brodowski/117678094905049819",
+      "platform": "mastodon",
+      "author": "Gerd_Brodowski",
+      "published": "2026-11-25T16:47:07.461Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 31.461,
+        "lon": 35.004,
+        "place": "Ізраїль",
+        "country": "IL",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-d88d27b3095a",
+      "text": "Activists prevent ICE Fascists from sleeping at Hampton Inn. Don't sleep with ICE. NO REST FOR THE WICKED. (Concord, CA, 11/25/2026) Video Source https:// reddit.com/comments/1y55wy6 # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # USAFascistShitShow # icestapo # policestate # paramilitary # policemilitarization # federa",
+      "url": "https://social.linux.pizza/@CubitOom/117678041191206637",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-25T16:33:27.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-b009539674b3",
+      "text": "Meanwhile, in other apocalyptic news... \"Army detonates 68 barrels containing nearly 9,500lbs of lead azide despite public concern about potential health and environmental effects\" https://www. theguardian.com/us-news/live/2 026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates # news # lead # toxic # poison # US # UnitedStates # Iowa # explosion # army # politics # environment # ",
+      "url": "https://mastodon.social/@ubuntourist/117678040919441238",
+      "platform": "mastodon",
+      "author": "ubuntourist",
+      "published": "2026-11-25T16:33:23.692Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-91a61a18173b",
+      "text": "Arzbach (ots) - Die bereits in der Presseerstmeldung geschilderte Explosion eines Anhängers auf dem Campingplatz in Arzbach konnte wie folgt verifiziert werden: Eine Gasflasche, die in einem als Küche umgebauten und genutzten Anhänger betrieben ... https://www. presseportal.de/blaulicht/pm/1 17710/6398020 # Campingplatz # Explosion # Gasflasche # Invalidität",
+      "url": "https://freie-re.de/@blaulicht/117678020287425817",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T16:28:08.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-55dfc3d7addf",
+      "text": "ICE Out of NJ Demands Freedom for Junior Marte & Other Former Delaney Hall Hunger Strikers Democracy Now! has obtained exclusive audio from inside Delaney Hall, the controversial immigrant detention center in Newark, New Jersey, operated by the for-profit prison company GEO Group. The audio was recorded over the summer during a labor and hunger strike organized by immigrant detainees. Junior Marte",
+      "url": "https://social.linux.pizza/@CubitOom/117678010143925215",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-25T16:25:34.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 49.218,
+        "lon": -2.127,
+        "place": "Джерсі",
+        "country": "JE",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-0112e0a23e0e",
+      "text": "ICE argues with San Mateo County Supervisor Noelia Corzo for Enforcing Local Ordinance Against Illegal Staging Video Source https:// reddit.com/comments/1y4ql9r # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # USAFascistShitShow # icestapo # policestate # paramilitary # policemilitarization # federalinvasion # abolishice",
+      "url": "https://social.linux.pizza/@CubitOom/117677971614470278",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-25T16:15:46.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-c3769ba03e59",
+      "text": "# brd # israel # libanon : # mossad / # hezbollah / # attentate / # pager / # völkerrecht / # partei / # pdl / # protest / # sitin / # gewaltlosigkeit „Abgeordnete der Linksfraktion im Bundestag haben kurzzeitig den Zugang zu einer Veranstaltung mit dem ehemaligen Chef des israelischen Geheimdienstes Mossad blockiert.“ https://www. deutschlandfunk.de/linken-abge ordnete-blockieren-veranstaltung-mi",
+      "url": "https://mastodon.social/@Gerd_Brodowski/117677946289559117",
+      "platform": "mastodon",
+      "author": "Gerd_Brodowski",
+      "published": "2026-11-25T16:09:19.769Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 31.461,
+        "lon": 35.004,
+        "place": "Ізраїль",
+        "country": "IL",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-d76b06a5508d",
+      "text": "Local Police block hospital entrance to protect ICE, enable assault on Journalist, and an Abduction (Providence Saint Joseph Medical Center Burbank, CA, 11/23/2026) Video Source https:// reddit.com/comments/1y4waqz # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # USAFascistShitShow # icestapo # policestate # paramilitary",
+      "url": "https://social.linux.pizza/@CubitOom/117677944642873952",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-25T16:08:54.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-df49e179214c",
+      "text": "Workers in Bangladesh showing us how it's done: \"Bangladesh garment workers win 36% pay rise after weeks of protest\" \"The protests have cost Bangladesh hundreds of millions, but it is unclear whether workers will accept the offer.\" https://www. aljazeera.com/news/2026/11/25/ bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest # work # workers # protest # strike # job # union",
+      "url": "https://mstdn.social/@aSweetGentleman/117677938538230700",
+      "platform": "mastodon",
+      "author": "aSweetGentleman@mstdn.social",
+      "published": "2026-11-25T16:07:21.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 23.898,
+        "lon": 90.224,
+        "place": "Бангладеш",
+        "country": "BD",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-070d6391b75c",
+      "text": "An explosion at a U.S. Army ammunition plant has captured national attention. Live videos show the shocking incident. # BreakingNews # Explosion https:// seeble.now/NO2BLO?utm_source=d lvr.it&utm_medium=mastodon",
+      "url": "https://mastodon.social/@LifyStyleByAmanda/117677924358883239",
+      "platform": "mastodon",
+      "author": "LifyStyleByAmanda",
+      "published": "2026-11-25T16:03:45.112Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-264ac5eae648",
+      "text": "Arzbach (ots) - Die bereits in der Presseerstmeldung geschilderte Explosion eines Anhängers auf dem Campingplatz in Arzbach konnte wie folgt verifiziert werden: Eine Gasflasche, die in einem als Küche umgebauten und genutzten Anhänger betrieben ... https://www. presseportal.de/blaulicht/pm/1 17710/6398020 # Campingplatz # Explosion # Gasflasche # Invalidität",
+      "url": "https://freie-re.de/@blaulicht/117677902428872537",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T15:58:10.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-59111c20b84e",
+      "text": "Protesters block Seattle, WA Mayor Katie Wilson's car after she allowed the Seattle Police Department to share information with ICE (11/24/2026) Video Source https:// reddit.com/comments/1y4xiwb Related Video Seattle Police Are Building a Mass Surveillance Machine https:// youtu.be/Pzo1uTJP4KQ # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest ",
+      "url": "https://social.linux.pizza/@CubitOom/117677885350832651",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-25T15:53:49.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-42f3c5853e77",
+      "text": "Степногірськ, Запорізька область #Protest #Belarus #News",
+      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68834",
+      "platform": "mastodon",
+      "author": "worldprotest@uk.tg.anyfeed.cc",
+      "published": "2026-11-25T15:25:39.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-55c44521804d",
+      "text": "Степногорск, Запорожская область #Protest #Belarus #News",
+      "url": "https://tg.anyfeed.cc/post/worldprotest-68834",
+      "platform": "mastodon",
+      "author": "worldprotest@tg.anyfeed.cc",
+      "published": "2026-11-25T15:25:39.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-4d1eb2ca3fd4",
+      "text": "Arzbach (ots) - Nach ersten Erkenntnissen kam es auf dem Campingplatz in Arzbach zu einer Explosion in einem Anhänger. Hierdurch wurde eine Person verletzt. Rettungsdienst, Feuerwehr und Polizei sind vor Ort. Es wird gebeten, von Anfragen zunächst ... https://www. presseportal.de/blaulicht/pm/1 17710/6397984 # Campingplatz # Explosion # Feuerwehr # Hilfsorganisation",
+      "url": "https://freie-re.de/@blaulicht/117677725674908727",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T15:13:13.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-9f97cc599466",
+      "text": "There are 713 days until the next theoretical Presidential Election and 787 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 48% Until Next Inauguration : ████▒▒▒▒▒▒ 46% #protest Trump Action Tracker | Keeping...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n35gjsp7ob2q",
+      "platform": "mastodon",
+      "author": "uspol.skyfleet.blue@bsky.brid.gy",
+      "published": "2026-11-25T15:03:01.400Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-30c34c4a0769",
+      "text": "5/5 Iowa Explosion - LIVE Breaking News Coverage (Army Detonates Lead Azide) https://www. youtube.com/watch?v=yEoyP3iYzIE # Iowa # Illinois # army # detonation # bomb # explosion # toxic",
+      "url": "https://mastodon.social/@touaregtweet/117677653081482519",
+      "platform": "mastodon",
+      "author": "touaregtweet",
+      "published": "2026-11-25T14:54:45.739Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-8e8cbfcfdadc",
+      "text": "Satellite imagery of the Novoshakhtinsk Oil Refinery has emerged following the November 23 attack. According to Bloomberg , due to refinery strikes, the occupiers cannot refine oil into gasoline and diesel, forcing them to sell off crude oil, which is 1.5 times cheaper.",
+      "url": "https://t.me/wartranslated/20588",
+      "platform": "telegram",
+      "author": "WarTranslated",
+      "published": "2026-11-25T14:32:48.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-0fdb2e65f72b",
+      "text": "CW: Occasional Foul Language. Always Political. Do you want the guy who plans to hold Elon Musk accountable & get money out of politics to represent you as our next Senate Majority Leader? Join us the day before the vote on November 30 at 10am when we’ll deliver the last of the declarations to your senators. # ChrisVanHollen # CVH # chrisnotchuck Link: https:// bsky.app/profile/50501movement .bsky",
+      "url": "https://hear-me.social/@alt50501/117677424686934068",
+      "platform": "mastodon",
+      "author": "alt50501@hear-me.social",
+      "published": "2026-11-25T13:56:40.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-2b2fba68fbe1",
+      "text": "NYT: Don’t Let the Lame Duck G.O.P. Ram Through This Bill https://www. nytimes.com/2026/11/24/opinion /permitting-reform-environmental-laws.html?unlocked_article_code=1.TFE.P_Y7.wt3Ts_JLn0MH&smid=url-share # NYT # GOP # BAAJA # resist # protest # environment",
+      "url": "https://mastodon.social/@ubuntourist/117677396328742906",
+      "platform": "mastodon",
+      "author": "ubuntourist",
+      "published": "2026-11-25T13:49:28.006Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-d3b5d6ac3137",
+      "text": "Просто уявіть, що дивіться це відео у лютому 2022 року #Protest #Belarus #News",
+      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68833",
+      "platform": "mastodon",
+      "author": "worldprotest@uk.tg.anyfeed.cc",
+      "published": "2026-11-25T13:20:20.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-27b3a36f8d78",
+      "text": "Просто представьте, что смотрите это видео в феврале 2022-го года #Protest #Belarus #News",
+      "url": "https://tg.anyfeed.cc/post/worldprotest-68833",
+      "platform": "mastodon",
+      "author": "worldprotest@tg.anyfeed.cc",
+      "published": "2026-11-25T13:20:20.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-e628eb27d25e",
+      "text": "Eigelsfenn/Irrhausen (ots) - Am Donnerstag, den 12.11.2026, an der B410 zwischen Eigelsfenn und Irrhausen eine beschädigte Schutzplanke festgestellt. Nach derzeitigem Ermittlungsstand dürfte die Schutzplanke infolge eines Verkehrsunfalles ... https://www. presseportal.de/blaulicht/pm/1 17697/6397855 # B410 # Explosion # Invalidität # Schutzplanke # Transport # Verkehrsunfallflucht # Verkehrsunglüc",
+      "url": "https://freie-re.de/@blaulicht/117677250940661122",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T13:12:29.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-f42d347b36a6",
+      "text": "Лукашенко показав нову карту, звідки на Білорусь готувався напад #Protest #Belarus #News",
+      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68832",
+      "platform": "mastodon",
+      "author": "worldprotest@uk.tg.anyfeed.cc",
+      "published": "2026-11-25T13:00:10.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-05a262c108ee",
+      "text": "Лукашенко показал новую карту, откуда на Беларусь готовилось нападение #Protest #Belarus #News",
+      "url": "https://tg.anyfeed.cc/post/worldprotest-68832",
+      "platform": "mastodon",
+      "author": "worldprotest@tg.anyfeed.cc",
+      "published": "2026-11-25T13:00:10.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-37067aa023bd",
+      "text": "UPD// У Полтавському районі російський дрон вдарив по енергообʼєкту, повідомив керівник ОВА Дяківнич. Попередньо, травмувалися четверо людей. У Полтаві було чутно звук вибуху, повідомляють кореспонденти Суспільного.",
+      "url": "https://t.me/suspilnenews/79891",
+      "platform": "telegram",
+      "author": "СУСПІЛЬНЕ НОВИНИ",
+      "published": "2026-11-25T12:58:28.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-d2a90e2c7280",
+      "text": "350 Menschen wollen heute in Siegen gegen das neue Pflegegesetz demonstrieren. Sie sehen ihre Jobs durch das Gesetz in Gefahr. # WDR # StudioSiegen # Südwestfalen # KreisSiegen-Wittgenstein # Siegen # Demonstration # Demo # Pflegegesetz # Protest # Politik # Diakonie # NRW Kündigung zu Weihnachten? 350 Menschen wollen in Siegen gegen neues Pflegegesetz demonstrieren",
+      "url": "https://squeet.me/display/962c3e10-d429fe71-276f497a36a10556",
+      "platform": "mastodon",
+      "author": "wdr@squeet.me",
+      "published": "2026-11-25T12:46:11.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-377eb77505a0",
+      "text": "Лукашенко знову показав карту, звідки готувався напад 😁️️️️️️ При цьому збрехав, що Україна заарештувала білоруські вагони та фури до початку війни. Насправді, це сталося після вторгнення. \"Я НЕ ЗНАВ ПРО ПОЧАТОК ВІЙНИ І ГЕНШТАБ РОСІЇ МЕНЕ НЕ ПОПЕРЕДИВ. Я АБСОЛЮТНО НЕ ПРИ НІЖ\" #Protest #Belarus #News",
+      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68831",
+      "platform": "mastodon",
+      "author": "worldprotest@uk.tg.anyfeed.cc",
+      "published": "2026-11-25T12:10:27.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-4604f5f67d65",
+      "text": "Лукашенко опять показал карту, откуда готовилось нападение 😁️️️️️️ При этом соврал, что Украина арестовала белорусские вагоны и фуры до начала войны. На самом деле это произошло после вторжения. \"Я НЕ ЗНАЛ О НАЧАЛЕ ВОЙНЫ И ГЕНШТАБ РОССИИ МЕНЯ НЕ ПРЕДУПРЕДИЛ. Я АБСОЛЮТНО НЕ ПРИ ЧЁМ\" #Protest #Belarus #News",
+      "url": "https://tg.anyfeed.cc/post/worldprotest-68831",
+      "platform": "mastodon",
+      "author": "worldprotest@tg.anyfeed.cc",
+      "published": "2026-11-25T12:10:27.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-b8c0d1b9f1fb",
+      "text": "💥 US-Armee sprengt fünf Tonnen Sprengstoff in Iowa In Iowa will die US-Armee fast fünf Tonnen instabilen Sprengstoff kontrolliert sprengen, geplant für Mittwoch. Grund sind Befürchtungen vor einer unkontrollierten Explosion und giftigem Blei in der Umgebung. Für Anwohner entsteht ein Dilemma: Die Detonation soll die Gefahr bannen, birgt aber Risiken für Mensch und Umwelt. # Sprengstoff # Iowa # U",
+      "url": "https://mastodon.social/@notexx/117676924615467474",
+      "platform": "mastodon",
+      "author": "notexx",
+      "published": "2026-11-25T11:49:30.231Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-de9a052c6fe3",
+      "text": "Mönchengladbach (ots) - Die Polizei sucht Zeugen zu einer Verkehrsunfallflucht, zu der es am gestrigen Dienstag, 24. November, in Dahl gekommen ist. Eine 66-jährige Autofahrerin war laut eigener Angaben gegen 19.50 Uhr auf der ... https://www. presseportal.de/blaulicht/pm/3 0127/6397698 # Bahn # Bahnunglück # Dahl # Explosion # MG # SportUtilityVehicle # Transport # Verkehrsunfallflucht # Verkehrs",
+      "url": "https://freie-re.de/@blaulicht/117676779069296863",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T11:12:29.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-806e9b85a6ca",
+      "text": "There are 713 days until the next theoretical Presidential Election and 787 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 48% Until Next Inauguration : ████▒▒▒▒▒▒ 46% #protest Trump Action Tracker | Keeping...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n34z4nbu352b",
+      "platform": "mastodon",
+      "author": "uspol.skyfleet.blue@bsky.brid.gy",
+      "published": "2026-11-25T11:03:00.868Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-a56811da63ca",
+      "text": "Hennef (ots) - Bei einem Verkehrsunfall in Hennef wurden am Dienstag (24. November) fünf Personen leicht verletzt. Gegen 19:50 Uhr war eine 49 Jahre alte Henneferin mit ihrem VW ID auf der Frankfurter Straße in Richtung Hennef unterwegs. Ihr Auto ... https://www. presseportal.de/blaulicht/pm/6 5853/6397684 # Airbag # Automobil # Explosion # Ford # Invalidität # Personen # Transport # Unfall # VW #",
+      "url": "https://freie-re.de/@blaulicht/117676737840454006",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T11:02:00.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-65ecd40240cb",
+      "text": "Sande (ots) - Am 24.11.2026 kam es zwischen 14:00 Uhr und 15:30 Uhr auf dem Parkplatz des Nordwest-Krankenhauses Sanderbusch zu einem Verkehrsunfall. Eine Fahrzeughalterin stellte nach ihrer Rückkehr zu ihrem geparkten Pkw eine Beschädigung im ... https://www. presseportal.de/blaulicht/pm/6 8442/6397657 # Ermittlung # Explosion # Invalidität # Personenkraftwagen # Transport # Verkehrsbericht # Ver",
+      "url": "https://freie-re.de/@blaulicht/117676707059338986",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T10:54:10.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-b332e3063577",
+      "text": "Sande (ots) - Am 24.11.2026 kam es zwischen 14:00 Uhr und 15:30 Uhr auf dem Parkplatz des Nordwest-Krankenhauses Sanderbusch zu einem Verkehrsunfall. Eine Fahrzeughalterin stellte nach ihrer Rückkehr zu ihrem geparkten Pkw eine Beschädigung im ... https://www. presseportal.de/blaulicht/pm/6 8442/6397657 # Ermittlung # Explosion # Invalidität # Personenkraftwagen # Transport # Verkehrsbericht # Ver",
+      "url": "https://freie-re.de/@blaulicht/117676656518358084",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T10:41:19.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-15340eb12b58",
+      "text": "Delmenhorst (ots) - Bei einem Verkehrsunfall auf der Bremer Straße in Hude wurden am Montag, 23. November 2026, gegen 11:00 Uhr, zwei Personen leicht verletzt. Nach bisherigen Erkenntnissen beabsichtigte ein 53-jähriger Mann aus Hude, mit seinem ... https://www. presseportal.de/blaulicht/pm/6 8438/6397642 # Explosion # Fahrzeugführer # Hude # Invalidität # Nissan # Personen # Personenkraftwagen # ",
+      "url": "https://freie-re.de/@blaulicht/117676636013707722",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T10:36:06.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-426e8a58e48b",
+      "text": "Delmenhorst (ots) - Bei einem Verkehrsunfall auf der Bremer Straße in Hude wurden am Montag, 23. November 2026, gegen 11:00 Uhr, zwei Personen leicht verletzt. Nach bisherigen Erkenntnissen beabsichtigte ein 53-jähriger Mann aus Hude, mit seinem ... https://www. presseportal.de/blaulicht/pm/6 8438/6397642 # Explosion # Fahrzeugführer # Hude # Invalidität # Nissan # Personen # Personenkraftwagen # ",
+      "url": "https://freie-re.de/@blaulicht/117676618024113200",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T10:31:32.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-5374b7a55c6e",
+      "text": "Лукашенко: Сьогодні говорити про те, що ця земля здавна є російською — ну, вона справді була російською в певний момент. Але якщо ми подивимося далі в минуле, то російські землі колись були монгольськими та татарськими. Ви пам’ятаєте? Тоді нам довелося б повернути всю Росію Монголії. Путін це чудово розуміє. #Protest #Belarus #News",
+      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68830",
+      "platform": "mastodon",
+      "author": "worldprotest@uk.tg.anyfeed.cc",
+      "published": "2026-11-25T10:29:20.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-5a98f8e086dc",
+      "text": "Лукашенко: Сегодня говорить о том, что эта земля издревле является русской — ну, она действительно была русской в какой-то момент. Но если мы посмотрим дальше в прошлое, то русские земли когда-то были монгольскими и татарскими. Вы помните? Тогда нам пришлось бы вернуть всю Россию Монголии. Путин это прекрасно понимает. #Protest #Belarus #News",
+      "url": "https://tg.anyfeed.cc/post/worldprotest-68830",
+      "platform": "mastodon",
+      "author": "worldprotest@tg.anyfeed.cc",
+      "published": "2026-11-25T10:29:20.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-9a49011d2597",
+      "text": "Лукашенко: Трамп запобіг третій світовій війні. Якби все тривало так, як це відбувалося за Байдена, що не можна виключати в майбутньому, конфлікт міг би вже розширитися. #Protest #Belarus #News",
+      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68829",
+      "platform": "mastodon",
+      "author": "worldprotest@uk.tg.anyfeed.cc",
+      "published": "2026-11-25T10:14:14.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-df3fed175e97",
+      "text": "Лукашенко: Трамп предотвратил Третью мировую войну. Если бы все продолжалось так, как это происходило при Байдене, что нельзя исключать в будущем, конфликт мог бы уже расшириться. #Protest #Belarus #News",
+      "url": "https://tg.anyfeed.cc/post/worldprotest-68829",
+      "platform": "mastodon",
+      "author": "worldprotest@tg.anyfeed.cc",
+      "published": "2026-11-25T10:14:14.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-bd4223365c45",
+      "text": "Лукашенко заявив про можливий компроміс, за якого РФ виведе свої ракети та ядерну зброю з Білорусі, а Захід не наближатиме аналогічні засоби поразки до кордонів Росії. «У переговорах можливо все. Я не відкидаю таких сценаріїв. Головне – це світ. Яка зброя, хто що виведе і звідки, це, мабуть, ключове питання для досягнення миру. Тому я виступаю за будь-яке рішення за умови, що воно сприятиме врегул",
+      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68828",
+      "platform": "mastodon",
+      "author": "worldprotest@uk.tg.anyfeed.cc",
+      "published": "2026-11-25T10:05:58.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-5550bdac36d6",
+      "text": "Лукашенко заявил о возможном компромиссе, при котором РФ выведет свои ракеты и ядерное оружие из Беларуси, а Запад не будет приближать аналогичные средства поражения к границам России. «В переговорах возможно всё. Я не исключаю таких сценариев. Главное — это мир. Какое оружие, кто что выведет и откуда — это, пожалуй, ключевой вопрос для достижения мира. Поэтому я выступаю за любое решение, при усл",
+      "url": "https://tg.anyfeed.cc/post/worldprotest-68828",
+      "platform": "mastodon",
+      "author": "worldprotest@tg.anyfeed.cc",
+      "published": "2026-11-25T10:05:58.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-da95e59e234e",
+      "text": "Лукашенко: сьогодні вважається, що Росія просувається на фронті, чи то семимильними кроками, чи невеликими ривками. Але це може змінитись. Навпаки, Україна успішно обороняється: її безпілотники завдають ударів по нафтопереробних заводах, вони вразили кримський міст. Все здається гаразд. Ви завдаєте ударів по нам, ми завдаємо ударів по вас, ми обмінюємося ударами. Завтра ситуація може повністю змін",
+      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68827",
+      "platform": "mastodon",
+      "author": "worldprotest@uk.tg.anyfeed.cc",
+      "published": "2026-11-25T10:03:24.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 49.16,
+        "lon": 31.253,
+        "place": "Україна",
+        "country": "UA",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-d7440c1806e0",
+      "text": "Лукашенко: сегодня считается, что Россия продвигается на фронте, будь то семимильными шагами или небольшими рывками. Но это может измениться. Напротив, Украина успешно обороняется: её беспилотники наносят удары по нефтеперерабатывающим заводам, они поразили крымский мост. Всё кажется в порядке. Вы наносите удары по нам, мы наносим удары по вам, мы обмениваемся ударами. Завтра ситуация может полнос",
+      "url": "https://tg.anyfeed.cc/post/worldprotest-68827",
+      "platform": "mastodon",
+      "author": "worldprotest@tg.anyfeed.cc",
+      "published": "2026-11-25T10:03:24.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-9b33f3d25606",
+      "text": "Gütersloh (ots) - Rheda-Wiedenbrück (FK) - Bei einem Verkehrsunfall auf der Rentruper Straße verstarb am Dienstagabend (25.11., 21.37 Uhr) ein 40-jähriger Mann aus dem Landkreis Leer. Nach bisherigen Erkenntnissen befuhr der Mann mit einem Golf ... https://www. presseportal.de/blaulicht/pm/2 3127/6397588 # Bahn # Bahnunglück # Explosion # Transport # Verkehrsbericht # Verkehrsunfall # Verkehrsunfa",
+      "url": "https://freie-re.de/@blaulicht/117676505432065958",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T10:02:54.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-0fca1c754288",
+      "text": "Gütersloh (ots) - Rheda-Wiedenbrück (FK) - Bei einem Verkehrsunfall auf der Rentruper Straße verstarb am Dienstagabend (25.11., 21.37 Uhr) ein 40-jähriger Mann aus dem Landkreis Leer. Nach bisherigen Erkenntnissen befuhr der Mann mit einem Golf ... https://www. presseportal.de/blaulicht/pm/2 3127/6397588 # Bahn # Bahnunglück # Explosion # Transport # Verkehrsbericht # Verkehrsunfall # Verkehrsunfa",
+      "url": "https://freie-re.de/@blaulicht/117676468709426289",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T09:53:33.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-cb796010a232",
+      "text": "Eckolstädt (ots) - Am 24.11.2026, 12:30 Uhr, kam es in einer Sackgasse, Im Oberen Dorf, Eckolstädt, zu einem Verkehrsunfall mit einer Fußgängerin. Eine 54-jährige Pkw-Fahrerin setzte mit ihrem Pkw in Schrittgeschwindigkeit zurück. Die ... https://www. presseportal.de/blaulicht/pm/1 26722/6397544 # Bahn # Bahnunglück # Explosion # Fahrzeug # Fußgänger # Fußgängerin # Invalidität # Personenkraftwage",
+      "url": "https://freie-re.de/@blaulicht/117676366167995201",
+      "platform": "mastodon",
+      "author": "blaulicht@freie-re.de",
+      "published": "2026-11-25T09:27:29.000Z",
+      "date": "2026-11-25",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-51a5175e21a2",
+      "text": "Коли почув про гарантію безпеки Лукашенка #Protest #Belarus #News",
+      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68826",
+      "platform": "mastodon",
+      "author": "worldprotest@uk.tg.anyfeed.cc",
+      "published": "2026-11-25T09:13:02.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-42558bd849d1",
+      "text": "Когда услышал про гарантии безопасности Лукашенко #Protest #Belarus #News",
+      "url": "https://tg.anyfeed.cc/post/worldprotest-68826",
+      "platform": "mastodon",
+      "author": "worldprotest@tg.anyfeed.cc",
+      "published": "2026-11-25T09:13:02.000Z",
+      "date": "2026-11-25",
+      "geocode": {
+        "lat": 53.531,
+        "lon": 28.033,
+        "place": "Білорусь",
+        "country": "BY",
+        "precision": "країна"
+      },
       "confidence": "неперевірений сигнал"
     },
     {
@@ -451,67 +1274,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-fdb807e87d49",
-      "text": "Убить бомбой чиновника администрации Мелитополя пытался агент Киева. Ему сбросили взрывчатку с дрона. Он собрал бомбу и взорвал ее недалеко от места работы чиновника, но исполнить задуманное ему не удалось – тот не пострадал. Российские силовики задержали агента Киева, он признался в содеянном. 🔹 Подписаться / Мы в \"Максе\"",
-      "url": "https://t.me/rian_ru/350422",
-      "platform": "telegram",
-      "author": "РИА Новости",
-      "published": "2026-11-25T06:45:42.000Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-51a49791ad93",
-      "text": "ЦРУ, а&nbsp;также как минимум два разведывательных ведомства —&nbsp;Национальное агентство геопространственной разведки и&nbsp;Аппарат директора Национальной разведки&nbsp;— столкнулись с&nbsp;кибератакой, в&nbsp;результате которой произошла утечка несекретной информации, рассказали источники The New York Times @meduza_news Открыть сайт | зеркало | телеграм ↓",
-      "url": "https://t.me/meduzalive/151046",
-      "platform": "telegram",
-      "author": "Медуза — LIVE",
-      "published": "2026-11-25T06:21:01.000Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 40.7128,
-        "lon": -74.006,
-        "place": "Нью-Йорк",
-        "country": "US",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-e0425b723cc3",
-      "text": "RE: https:// amicale.net/@franceinfo/117675 353917704939 Wie französische Kommunen gegen die Einschnitte und Sparauflagen der französischen Zentralregierung protestieren. # frankreich # protest",
-      "url": "https://mastodon.social/@kanuka/117675420786935036",
-      "platform": "mastodon",
-      "author": "kanuka",
-      "published": "2026-11-25T05:27:03.630Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-aedb6c436d1b",
-      "text": "CW: Occasional Foul Language. Always Political. PSA 🏛️🍿👀💸 # CapitolHill # conspiracy Link: https:// bsky.app/profile/50501movement .bsky.social/post/3n34c7oiugs2p ---------------------------- Reposted from 50501: The People's Movement Join the Movement at https:// fiftyfifty.one This robot is unaffiliated w/ 50501 Replies here are only seen in the Fediverse, not on Bluesky. 50501 volunteers do",
-      "url": "https://hear-me.social/@alt50501/117675142382156532",
-      "platform": "mastodon",
-      "author": "alt50501@hear-me.social",
-      "published": "2026-11-25T04:16:15.000Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-1496c533d2a6",
-      "text": "CW: Occasional Foul Language. Always Political. PSA 🏛️🍿👀💸 # CapitolHill # conspiracy Link: https:// bsky.app/profile/50501movement .bsky.social/post/3n34bibdtps2p ---------------------------- Reposted from 50501: The People's Movement Join the Movement at https:// fiftyfifty.one This robot is unaffiliated w/ 50501 Replies here are only seen in the Fediverse, not on Bluesky. 50501 volunteers do",
-      "url": "https://hear-me.social/@alt50501/117675084528960732",
-      "platform": "mastodon",
-      "author": "alt50501@hear-me.social",
-      "published": "2026-11-25T04:01:32.000Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-cef0a0d3fe7f",
       "text": "Hildesheim (ots) - LAMSPRINGE (zim). Am Montag, den 23.11.2026 kam es an der Hindenburgstraße in der Ortschaft Lamspringe zu einem Verkehrsunfall. Hierbei touchierte ein unbekanntes Fahrzeug zwischen 09:15 Uhr und 09:45 Uhr ein am Fahrbahnrand ... https://www. presseportal.de/blaulicht/pm/5 7621/6397313 # Explosion # Fahrzeug # Fahrzeugführer # Personenkraftwagen # Transport # Unfallflucht # Verke",
       "url": "https://freie-re.de/@blaulicht/117674877899836257",
@@ -523,56 +1285,12 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-103e1b58f23d",
-      "text": "There are 713 days until the next theoretical Presidential Election and 787 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 48% Until Next Inauguration : ████▒▒▒▒▒▒ 46% #protest Trump Action Tracker | Keeping...",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n346ccvbws2d",
-      "platform": "mastodon",
-      "author": "uspol.skyfleet.blue@bsky.brid.gy",
-      "published": "2026-11-25T03:03:00.266Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-192d0257b908",
       "text": "Hildesheim (ots) - LAMSPRINGE (zim). Am Montag, den 23.11.2026 kam es an der Hindenburgstraße in der Ortschaft Lamspringe zu einem Verkehrsunfall. Hierbei touchierte ein unbekanntes Fahrzeug zwischen 09:15 Uhr und 09:45 Uhr ein am Fahrbahnrand ... https://www. presseportal.de/blaulicht/pm/5 7621/6397313 # Explosion # Fahrzeug # Fahrzeugführer # Personenkraftwagen # Transport # Unfallflucht # Verke",
       "url": "https://freie-re.de/@blaulicht/117674820521203799",
       "platform": "mastodon",
       "author": "blaulicht@freie-re.de",
       "published": "2026-11-25T02:54:24.000Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-b4815ec34341",
-      "text": "Added this track. Lobbing to Les Justes by Òscar Briz. The bass line is groovy. Add it to your songbook. Right here: https:// chordyes.com/chord/oscar-briz- les-justes # guitarcommunity # guitarfamily # spanish # valencian # malevocalist # political # protest",
-      "url": "https://mastodon.social/@chordyes/117674665980689293",
-      "platform": "mastodon",
-      "author": "chordyes",
-      "published": "2026-11-25T02:15:06.202Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-d7da7eb71561",
-      "text": "https://www. redbubble.com/i/sticker/No-ICE -by-kodiakj77/171407672/7sgk # ice # fuckice # immigration # deportation # protests # immigrants # iceraids # raids # immigrationraids # donaldtrump # trump # fucktrump # protest # resistance # activism # antifascist # nokings # fuckmaga # magamorons # magacult # shopping # merchandise # merch # artforsale",
-      "url": "https://mastodon.social/@Kodiakj/117673947926443648",
-      "platform": "mastodon",
-      "author": "Kodiakj",
-      "published": "2026-11-24T23:12:29.566Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-351cdbbc9b73",
-      "text": "There are 714 days until the next theoretical Presidential Election and 788 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 48% Until Next Inauguration : ████▒▒▒▒▒▒ 46% #protest Trump Action Tracker | Keeping...",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n33qv67vul2h",
-      "platform": "mastodon",
-      "author": "uspol.skyfleet.blue@bsky.brid.gy",
-      "published": "2026-11-24T23:03:00.520Z",
       "date": "2026-11-25",
       "geocode": null,
       "confidence": "неперевірений сигнал"
@@ -597,23 +1315,6 @@
       "published": "2026-11-24T22:52:55.000Z",
       "date": "2026-11-24",
       "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-8f5648e239b5",
-      "text": "CW: Occasional Foul Language. Always Political. Where will our tax dollars continue going if Chuck Schumer becomes the next Senate Majority Leader? 50501 DC & FLARE.usa just left Chuck Schumer’s office where we dropped off the letters you wrote him. Keep those declarations coming! # ChrisVanHollen # CVH # chrisnotchuck Link: https:// bsky.app/profile/50501movement .bsky.social/post/3n33pxqw2h22w -",
-      "url": "https://hear-me.social/@alt50501/117673865624539473",
-      "platform": "mastodon",
-      "author": "alt50501@hear-me.social",
-      "published": "2026-11-24T22:51:33.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 39.526,
-        "lon": -99.143,
-        "place": "США",
-        "country": "US",
-        "precision": "країна"
-      },
       "confidence": "неперевірений сигнал"
     },
     {
@@ -645,146 +1346,12 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-dc7b7568f273",
-      "text": "CW: Occasional Foul Language. Always Political. 🚨 50501 DC & FLARE.usa are walking the halls on Capitol Hill visiting your senators & delivering the letters you wrote them. Urge your senators to support Chris Van Hollen as Senate Majority Leader TODAY! Sign the online letter & we’ll print it out & hand-deliver it to your senator’s office in DC! Link: https:// bsky.app/profile/50501movement .bsky.",
-      "url": "https://hear-me.social/@alt50501/117673411649350495",
-      "platform": "mastodon",
-      "author": "alt50501@hear-me.social",
-      "published": "2026-11-24T20:56:06.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 39.526,
-        "lon": -99.143,
-        "place": "США",
-        "country": "US",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-aa790d499d15",
-      "text": "🔁 Forwarded from Ігор Лосик \"Я йому, що, валізу? Забрати мене на літак і полетіти. Це несерйозна розмова\", – Зеленський відреагував на заяву Лукашенка. #Protest #Belarus #News",
-      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68825",
-      "platform": "mastodon",
-      "author": "worldprotest@uk.tg.anyfeed.cc",
-      "published": "2026-11-24T20:48:51.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 53.531,
-        "lon": 28.033,
-        "place": "Білорусь",
-        "country": "BY",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-d01b33714fab",
-      "text": "🔁 Forwarded from Игорь Лосик \"Я ему, что, чемодан? Забрать меня на самолет и улететь. Это несерьезный разговор\", – Зеленский отреагировал на заявление Лукашенко. #Protest #Belarus #News",
-      "url": "https://tg.anyfeed.cc/post/worldprotest-68825",
-      "platform": "mastodon",
-      "author": "worldprotest@tg.anyfeed.cc",
-      "published": "2026-11-24T20:48:51.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 53.531,
-        "lon": 28.033,
-        "place": "Білорусь",
-        "country": "BY",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-87d7ad51a58d",
       "text": "📰 Cazuela, porotos y salir a comprar: Los últimos siete días de la víctima 16 de la explosión en Renca 🔗 https://www. biobiochile.cl/noticias/socied ad/historia/2026/11/24/cazuela-porotos-y-salida-a-comprar-pan-los-ultimos-siete-dias-de-la-victima-16-de-tragedia-en-renca.shtml # renca # explosion # victimas # saliracomprar",
       "url": "https://mastodon.cl/@biobiochile/117673314784491363",
       "platform": "mastodon",
       "author": "biobiochile@mastodon.cl",
       "published": "2026-11-24T20:31:28.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-1d6ead6ce514",
-      "text": "\"U.S. government is expanding its assault on Palestine solidarity activism in Michigan.\" \"[N]ew defendants are all recent graduates of the University of Michigan with ties to campus Palestine activism.\" ———————————————————— Title: The U.S. government is escalating its attack on Palestine activism in Michigan Author(s): Yarden Azoulay Katz & Adi Saleem Publication(s): Mondoweiss Date: November 10, ",
-      "url": "https://archive.harmscommitted.com/@admin/117673301890650524",
-      "platform": "mastodon",
-      "author": "admin@archive.harmscommitted.com",
-      "published": "2026-11-24T20:28:11.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 31.948,
-        "lon": 35.248,
-        "place": "Палестина",
-        "country": "PS",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-234de4247cea",
-      "text": "Here's a new one. Appreciating Jangan Bicara by Iwan Fals. The tone of this track is perfect. Start grooving. Chart: https:// chordyes.com/chord/iwan-fals-j angan-bicara # guitarhero # guitarlegend # indonesian # malevocalist # protest # satire # tongkrongan",
-      "url": "https://mastodon.social/@chordyes/117673203202031793",
-      "platform": "mastodon",
-      "author": "chordyes",
-      "published": "2026-11-24T20:03:05.970Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-db2eee1f9ad1",
-      "text": "Here's the stripped-down version. Playing Jangan Bicara by Iwan Fals. Get the chorus sheet. Right here: https:// chordyes.com/chord/iwan-fals-j angan-bicara # guitarstand # guitartuner # indonesian # malevocalist # protest # satire # tongkrongan",
-      "url": "https://mastodon.social/@chordyes/117673191399396617",
-      "platform": "mastodon",
-      "author": "chordyes",
-      "published": "2026-11-24T20:00:05.880Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-57191e01f0b9",
-      "text": "RE: https:// pixelfed.social/p/CSuthorn/101 5278352587187403 #BMDV #AI #Protest #AIsummit",
-      "url": "https://no-pony.farm/@Life_is/117673062401287861",
-      "platform": "mastodon",
-      "author": "Life_is@no-pony.farm",
-      "published": "2026-11-24T19:27:17.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-e196b7d27b4a",
-      "text": "There are 714 days until the next theoretical Presidential Election and 788 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 48% Until Next Inauguration : ████▒▒▒▒▒▒ 46% #protest Trump Action Tracker | Keeping...",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n33dhzifpz2v",
-      "platform": "mastodon",
-      "author": "uspol.skyfleet.blue@bsky.brid.gy",
-      "published": "2026-11-24T19:03:00.698Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-8f110a7b6b3d",
-      "text": "🌎 [EN] 🎸✊ \"B.Y.O.B.\" (\"Bring Your Own Bombs\") is the first single from Mezmerize (2005), by System of a Down. The song denounces the hypocrisy of the elites who decide on wars without suffering their consequences and calls for civic conscience in the face of propaganda and indifference. 🌐 +info https:// url.ecoarglobal.org/zuZPUy 💪 https:// pepaloba.org/?lang=en#asociate ✊ https:// ecoarglobal",
-      "url": "https://mastodon.gal/@ecoarglobal/117672959125962797",
-      "platform": "mastodon",
-      "author": "ecoarglobal@mastodon.gal",
-      "published": "2026-11-24T19:01:01.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-ab97f7ef0467",
-      "text": "KILVEY HILL: Silent vigil planned as Skyline protest trio face court A silent vigil will be held outside Swansea Magistrates’ Court next week when three people charged after a protest against the Skyline development on Kilvey Hill appear before the bench. Supporters plan to gather on the pavement outside the Grove Place court at 9.30am on Wednesday 2 December. First-time protesters will be among t",
-      "url": "https://swanseabaynews.com/kilvey-hill-silent-vigil-planned-as-skyline-protest-trio-face-court/",
-      "platform": "mastodon",
-      "author": "swanseabaynews@swanseabaynews.com",
-      "published": "2026-11-24T19:00:00.000Z",
       "date": "2026-11-24",
       "geocode": null,
       "confidence": "неперевірений сигнал"
@@ -801,40 +1368,12 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-1b6944a25889",
-      "text": "# Chile : National Teachers' March \"The Colegio de Profesoras y Profesores has organized a nationwide work stoppage and march along Santiago's Alameda, backed by 11 organisations spanning labour, student, education, public-service and community groups, including the CUT workers' federation and student confederation CONFECH — to protest what the union calls a systematic rollback of education fundin",
-      "url": "https://todon.nl/@Persona/117672892400766059",
-      "platform": "mastodon",
-      "author": "Persona@todon.nl",
-      "published": "2026-11-24T18:44:03.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": -35.746,
-        "lon": -71.311,
-        "place": "Чилі",
-        "country": "CL",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-1a56c4102e6e",
       "text": "Science: Detonating A Huge Pile of Lead Azide. Really. (Updated) h/t @ jerzone https://www. science.org/content/blog-post/ detonating-huge-pile-lead-azide-really # disasters # leadazide # explosion # IAwx",
       "url": "https://m.ai6yr.org/@ai6yr/117672843198010799",
       "platform": "mastodon",
       "author": "ai6yr@m.ai6yr.org",
       "published": "2026-11-24T18:31:32.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-7f713bf330e2",
-      "text": "Польша вызвала российского посла из-за нарушений воздушного пространства Посол России в Варшаве Георгий Михно во вторник был вызван в МИД Польши, где ему вручили «очень резкую дипломатическую ноту» в связи с предполагаемым нарушением воздушного пространства российскими ракетами, сообщают польские СМИ со ссылкой на пресс-секретаря ведомства Мачея Вевюра. 💬 В ней выражен наш категорический протест ",
-      "url": "https://t.me/bbcrussian/101798",
-      "platform": "telegram",
-      "author": "BBC News Russian",
-      "published": "2026-11-24T18:18:25.000Z",
       "date": "2026-11-24",
       "geocode": null,
       "confidence": "неперевірений сигнал"
@@ -857,108 +1396,12 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-64b35c46d9a8",
-      "text": "Someone made a game where you have to protest in Paris picking up protesters along the way while trying to avoid the minister of police and his police squads.😁 It's in French but simple enough to quickly get the hang of it. https:// platformed.studio/gaming/trace _ta_manif/ # game # protest # france",
-      "url": "https://mstdn.social/@aSweetGentleman/117672657384984795",
-      "platform": "mastodon",
-      "author": "aSweetGentleman@mstdn.social",
-      "published": "2026-11-24T17:44:17.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 48.8566,
-        "lon": 2.3522,
-        "place": "Париж",
-        "country": "FR",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-085b4a0bab63",
-      "text": "Day 178 of anti-corruption protest in Tirana, Albania 🔴LIVE | Protesta e qytetarëve dhe përplasjet brenda PS-së, çfarë po ndodh në politikë? Machine translated: 🔴LIVE | Citizen protests and internal clashes within the SP – what is happening in politics? # Albania # Balkans # Corruption # Europe # Protest # FlamingoRevolution https://www. youtube.com/watch?v=70WmiZMYOvs",
-      "url": "https://eldritch.cafe/@ml/117672582728164713",
-      "platform": "mastodon",
-      "author": "ml@eldritch.cafe",
-      "published": "2026-11-24T17:25:18.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 41.142,
-        "lon": 20.05,
-        "place": "Албанія",
-        "country": "AL",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-fd28172393f8",
-      "text": "Fascists installed a sprinkler outside the Broadview ICE concentration camp in Illinois to keep observers and family from watching detained community members being transferred out Video Source https:// reddit.com/comments/1y42yx1 # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # USAFascistShitShow # icestapo # policestate",
-      "url": "https://social.linux.pizza/@CubitOom/117672555009919073",
-      "platform": "mastodon",
-      "author": "CubitOom@social.linux.pizza",
-      "published": "2026-11-24T17:18:15.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 39.526,
-        "lon": -99.143,
-        "place": "США",
-        "country": "US",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-97f09c9c6818",
-      "text": "🔁 Forwarded from Ігор Лосик Лукашенко: «Ми з Володею Зеленським могли б сісти та прилетіти до Москви. Удвох. Я, як гарант його безпеки, міг би з ним сісти та прилетіти до Москви. Ми втрьох визначимо, яке буде майбутнє — України, Білорусі та Росії. Ми три слов'янські народи. Наша головна роль. #Protest #Belarus #News",
-      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68824",
-      "platform": "mastodon",
-      "author": "worldprotest@uk.tg.anyfeed.cc",
-      "published": "2026-11-24T17:17:35.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "place": "Москва",
-        "country": "RU",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-4658c6571313",
-      "text": "🔁 Forwarded from Игорь Лосик Лукашенко: «Мы&nbsp;с&nbsp;Володей Зеленским могли&nbsp;бы сесть и&nbsp;прилететь в&nbsp;Москву. Вдвоем. Я, как гарант его безопасности, мог&nbsp;бы с&nbsp;ним сесть и&nbsp;прилететь в&nbsp;Москву. Мы&nbsp;втроем определим, какое у&nbsp;нас будет будущее&nbsp;— Украины, Беларуси и&nbsp;России. Мы&nbsp;три славянских народа. Наша главная будет роль. #Protest #Belarus #",
-      "url": "https://tg.anyfeed.cc/post/worldprotest-68824",
-      "platform": "mastodon",
-      "author": "worldprotest@tg.anyfeed.cc",
-      "published": "2026-11-24T17:17:35.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 53.531,
-        "lon": 28.033,
-        "place": "Білорусь",
-        "country": "BY",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-07f3a50554fa",
       "text": "Biblis (ots) - Am 24.11.2026, gegen 07.00 Uhr ereignete sich auf der L 3261 zwischen Hofheim und Nordheim ein Verkehrsunfall. Ein bisher unbekannter Fahrzeugführer befuhr die Landstraße aus Richtung Hofheim kommend in Richtung Nordheim und geriet ... https://www. presseportal.de/blaulicht/pm/4 969/6397271 # Explosion # Fahrzeug # Fahrzeugführer # Invalidität # Opel # Personenkraftwagen # Transport",
       "url": "https://freie-re.de/@blaulicht/117672538817685610",
       "platform": "mastodon",
       "author": "blaulicht@freie-re.de",
       "published": "2026-11-24T17:14:08.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-b82fea7e2976",
-      "text": "ICE fascist arrested for DWI after threatening people at a bar and flashing his red and blue emergency lights outside (Jefferson Township, NJ, 8/26/2026) Video Source https:// reddit.com/comments/1y4c93d On August 25th, Jefferson Twp, NJ police responded to reports of a bar fight and a man brandishing a gun. According to witnesses, there was no gun but there was an intoxicated man being aggressive",
-      "url": "https://social.linux.pizza/@CubitOom/117672495430917512",
-      "platform": "mastodon",
-      "author": "CubitOom@social.linux.pizza",
-      "published": "2026-11-24T17:03:06.000Z",
       "date": "2026-11-24",
       "geocode": null,
       "confidence": "неперевірений сигнал"
@@ -1009,17 +1452,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-cefbcf6755bb",
-      "text": "📰 Architectuur, natuur & corruptie: waarom mensen in Albanië massaal de straat op gaan https:// nieuwsjunkies.nl/artikel/1Yog 🕟 16:30 | NPO Radio 1 🔸 # Protest # Corruptie # Architecten # Albanie # Natuur",
-      "url": "https://mastodon.social/@NieuwsJunkies/117672155566539458",
-      "platform": "mastodon",
-      "author": "NieuwsJunkies",
-      "published": "2026-11-24T15:36:40.322Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-d54adabfc9b7",
       "text": "Poppendorf (Landkreis Rostock) (ots) - Aktuell kommt es aufgrund eines Brandausbruches im Düngemittelwerk in Poppendorf im Landkreis Rostock zu einem Großeinsatz von Feuerwehr und Polizei. Derzeit sind die Werksfeuerwehr als auch umliegende ... https://www. presseportal.de/blaulicht/pm/1 08746/6397251 # Brand # Einsatz # Explosion # Feuer # Feuerwehr # Feuerwehren # Großbrand # Hilfsorganisation #",
       "url": "https://freie-re.de/@blaulicht/117672141383501936",
@@ -1048,23 +1480,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-2c17b969a794",
-      "text": "🟢 Domestic Protest / Media | 3/10 🇮🇱 Israeli activists protest against media investigation into IDF operations Members of Koach Hit'arvut block entrance to KAN 11 public broadcaster offices protesting an investigative report on IDF operations. Domestic political conflict over media coverage of military activities. # OSINT # NewsGroup # Israel # Protest # Media # Domestic",
-      "url": "https://social.vir.group/@analytics/117672095273445294",
-      "platform": "mastodon",
-      "author": "analytics@social.vir.group",
-      "published": "2026-11-24T15:21:20.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 31.461,
-        "lon": 35.004,
-        "place": "Ізраїль",
-        "country": "IL",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-afa4fae4a26b",
       "text": "📰 \"Pidió cazuela y porotos\": víctima de explosión en Renca pasó sus últimos días en casa tras nueve meses internado Accidente provocado por un caminó de gas en el mes de febrero, suma nada menos que... 🔗 https:// lahora.cl/cronica/2026/11/24/p idio-cazuela-y-porotos-victima-de-explosion-en-renca-alcanzo-paso-sus-ultimas-dias-en-casa-tras-nueve-meses-internado/ # cazuela # victima # explosion # r",
       "url": "https://mastodon.cl/@lahora/117672040025309681",
@@ -1082,360 +1497,6 @@
       "platform": "mastodon",
       "author": "blaulicht@freie-re.de",
       "published": "2026-11-24T15:03:31.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-59d521c9b036",
-      "text": "There are 714 days until the next theoretical Presidential Election and 788 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 48% Until Next Inauguration : ████▒▒▒▒▒▒ 46% #protest Trump Action Tracker | Keeping...",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n32w2ukugq24",
-      "platform": "mastodon",
-      "author": "uspol.skyfleet.blue@bsky.brid.gy",
-      "published": "2026-11-24T15:03:00.682Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-7dba7c495241",
-      "text": "Osnabrück (ots) - Bei einem Großbrand am Jivitsweg in Neuenkirchen bei Bramsche wurden am Dienstagvormittag ein Wohnhaus und eine angrenzende Garage vollständig zerstört. Nach den bisherigen Erkenntnissen ist um kurz nach neun Uhr ein in der ... https://www. presseportal.de/blaulicht/pm/1 04236/6397210 # Altbau # Brand # Explosion # Feuer # Feuerwehr # Garage # Hilfsorganisation # Invalidität # Ka",
-      "url": "https://freie-re.de/@blaulicht/117671991383760680",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T14:54:55.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-4555e967ab32",
-      "text": "Landkreis Sömmerda (ots) - Am Montag (23.11.2026) ereignete sich im Landkreis Sömmerda ein schwerer Verkehrsunfall. Eine 29-jährige Hyundai-Fahrerin war gegen 12:00 Uhr auf der Bundesstraße zwischen Olbersleben und Buttelstedt unterwegs gewesen. ... https://www. presseportal.de/blaulicht/pm/1 26719/6397218 # Bahn # Bahnunglück # Explosion # Invalidität # LPIEF # Landkreis # Opel # Personen # Trans",
-      "url": "https://freie-re.de/@blaulicht/117671987301168283",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T14:53:52.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-ec0a1ff518ec",
-      "text": "Osnabrück (ots) - Bei einem Großbrand am Jivitsweg in Neuenkirchen bei Bramsche wurden am Dienstagvormittag ein Wohnhaus und eine angrenzende Garage vollständig zerstört. Nach den bisherigen Erkenntnissen ist um kurz nach neun Uhr ein in der ... https://www. presseportal.de/blaulicht/pm/1 04236/6397210 # Altbau # Brand # Explosion # Feuer # Feuerwehr # Garage # Hilfsorganisation # Invalidität # Ka",
-      "url": "https://freie-re.de/@blaulicht/117671967544039953",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T14:48:51.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-4a77b6d3c656",
-      "text": "📰 Atentado con coche bomba destruye gobernación y edificios en Colombia: reportan varios heridos La explosión ocurrió en el centro de Villavicencio y dejó graves daños en edificios, vehículos y calles. 🔗 https://www. adnradio.cl/2026/11/24/atentad o-con-coche-bomba-destruye-gobernacion-y-edificios-en-colombia-reportan-varios-heridos/ # colombia # cochebomba # explosion",
-      "url": "https://mastodon.cl/@adnradio/117671896360658570",
-      "platform": "mastodon",
-      "author": "adnradio@mastodon.cl",
-      "published": "2026-11-24T14:30:45.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 3.914,
-        "lon": -73.081,
-        "place": "Колумбія",
-        "country": "CO",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-ccd929c94e5d",
-      "text": "Aurich/Wittmund (ots) - Kriminalitätsgeschehen Südbrookmerland - Einbruch auf Firmengelände Auf einem Firmengelände in Uthwerdum (Südbrookmerland) kam es am Wochenende zu einem Einbruch. Bislang unbekannte Täter betraten zwischen Freitag, 15 ... https://www. presseportal.de/blaulicht/pm/1 04233/6397152 # Detonation # Einbruch # Explosion # Firmengelände # Knallkörper",
-      "url": "https://freie-re.de/@blaulicht/117671823794132193",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T14:12:17.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-4ef72354fbe1",
-      "text": "Hameln (ots) - Am Freitag (13.11.2026), gegen 10:30 Uhr, ereignete sich an der Kreuzung Guter Ort/Ohsener Straße in Hameln ein Auffahrunfall. Der Unfallverursacher entfernte sich anschließend unerlaubt vom Unfallort. An dem Unfall waren ein ... https://www. presseportal.de/blaulicht/pm/5 7895/6397093 # Auffahrunfall # Bahn # Bahnunglück # Explosion # Fahrzeugführer # Kriminalität # Personenkraftwa",
-      "url": "https://freie-re.de/@blaulicht/117671634489580265",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T13:24:09.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-aeb53d52a79b",
-      "text": "Rhein-Neckar-Kreis (ots) - Am Montag kam es auf der L630 zu einer Verkehrsunfallflucht zwischen einem Auto und einem bislang unbekannten Radfahrer. Ein 20-jähriger Opel-Fahrer war von der B535 auf die L630 aufgefahren und in Richtung Stadtzentrum ... https://www. presseportal.de/blaulicht/pm/1 4915/6397092 # Arbeitskleidung # Auto # Bahn # Bahnunglück # Explosion # Opel # Radfahrer # Transport # V",
-      "url": "https://freie-re.de/@blaulicht/117671630532909017",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T13:23:08.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-074fb63d800b",
-      "text": "Frankfurt (ots) - (ha) Am gestrigen Montagmorgen (23. November 2026) kam es kurz hintereinander zu zwei Fahrbahnsperrungen auf der BAB 661. Ursächlich dafür waren ein Unfall und ein LKW-Brand, der sich an nahezu derselben Örtlichkeit auf der ... https://www. presseportal.de/blaulicht/pm/4 970/6397083 # Bagger # Bundesautobahn661 # Explosion # Fahrzeug # Führerhaus # Invalidität # LKWBrand # LKWUnf",
-      "url": "https://freie-re.de/@blaulicht/117671602835498819",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T13:16:06.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-4ab9121274ff",
-      "text": "📰 Auto bomba en Colombia deja al menos 23 heridos y prov... Según reportaron medios locales, la explosión ocurrió cerca de las 21:30 horas del lunes en la plaza de la Gobernación. La Secretaría de Salud de Meta confirmó la cifra de les... 🔗 https://www. lanacion.cl/auto-bomba-en-colo mbia-deja-al-menos-23-heridos-y-provoca-graves-danos-en-villavicencio/ # colombia # explosion # heridos # goberna",
-      "url": "https://mastodon.cl/@lanacion/117671567672279268",
-      "platform": "mastodon",
-      "author": "lanacion@mastodon.cl",
-      "published": "2026-11-24T13:07:09.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 3.914,
-        "lon": -73.081,
-        "place": "Колумбія",
-        "country": "CO",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-5dc44707821a",
-      "text": "Die Linke nennt Hilberts Kurs ein »soziales Abrissprogramm« und ruft für Donnerstag zur Kundgebung auf. Über den Gesamthaushalt entscheidet der Rat nicht. # Dresden # DieLinkeDresden # DirkHilbert # Haushaltsstreit # StadtratDresden # Kürzungen # KitaSchließung # Stellenabbau # Protest https://www. diesachsen.de/dresden-news/pro test-vor-dresdner-rathaus-linke-warnt-vor-kuerzungen-3205100?utm_sour",
-      "url": "https://dju.social/@diesachsen/117671468745018690",
-      "platform": "mastodon",
-      "author": "diesachsen@dju.social",
-      "published": "2026-11-24T12:42:00.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-7df18158209c",
-      "text": "Representative Al Green. Watercolor and Marker. # civilrights # civil # blackpeopleareNOTapes # protest # protestbigotry # bigotryiswrong # endbigotry # endbigotrynow # endracism # racism # racismiswrong # algreen # representatives # government # facist # facistgovernment # facists # portrait # portraits",
-      "url": "https://mastodon.social/@HermitsDaily/117671313408662147",
-      "platform": "mastodon",
-      "author": "HermitsDaily",
-      "published": "2026-11-24T12:02:30.015Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-843b80fc7aa9",
-      "text": "Hüfingen (ots) - Am Montag hat sich, um 11 Uhr, auf der Bräunlinger Straße ein Unfall mit einer leicht verletzten Person ereignet. Ein 60-jähriger Skoda-Fahrer kam wegen einer medizinischen Ursache in Richtung Hüfingen auf die Gegenfahrbahn und ... https://www. presseportal.de/blaulicht/pm/1 10973/6396979 # Abschleppunternehmen # Explosion # Invalidität # Krankenhaus # Mitsubishi # Transport # Unf",
-      "url": "https://freie-re.de/@blaulicht/117671256844668382",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T11:48:06.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-8dcfe5935f49",
-      "text": "There are 714 days until the next theoretical Presidential Election and 788 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 48% Until Next Inauguration : ████▒▒▒▒▒▒ 46% #protest Trump Action Tracker | Keeping...",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n32inpi72a2t",
-      "platform": "mastodon",
-      "author": "uspol.skyfleet.blue@bsky.brid.gy",
-      "published": "2026-11-24T11:03:00.502Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-2892c7e18b17",
-      "text": "Let's follow Adam's advice for #PlanB: 1.) #selfcare -> go into the woods (if any left) & SCREAM 2.) #takeaction -> #organize the #community for #resilience #unite #protest #resist #boycott #vote #climatechange #ClimateCrisis #globalWarming #ExtremeWeather #polycrisis #ecocide #KeepitInTheGround",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:363wvm7kugoota5ihrxbr26p/post/3n32i3545jc27",
-      "platform": "mastodon",
-      "author": "ivichoc.bsky.social@bsky.brid.gy",
-      "published": "2026-11-24T10:52:37.314Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-94a68a500e66",
-      "text": "# COP # UN # ClimateConference # Antalya # Turkiye # COP31 # ClimateAdam summary # Flop31 Let's follow Adam's advice for # PlanB : 1.) # selfcare -> go into the woods (if any left) & SCREAM 2.) # takeaction -> # organize the # community for # resilience # unite # protest # resist # boycott # vote https:// youtu.be/iqPg_JJqz68 # climatechange # ClimateCrisis # ClimateBreakdown # ClimateDisruption #",
-      "url": "https://mastodon.online/@IviChoc/117671025441698889",
-      "platform": "mastodon",
-      "author": "IviChoc@mastodon.online",
-      "published": "2026-11-24T10:49:15.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-0ffc0891345f",
-      "text": "https://www. youtube.com/shorts/Cwvqm-kXKpY ?is=1pgrnHSxlnGHtWWD # Boycott # Protest # Activism # Consumer # Holiday # EatTheRich # BlackFriday # Affordability",
-      "url": "https://mastodon.social/@donhawkins/117671009125603472",
-      "platform": "mastodon",
-      "author": "donhawkins",
-      "published": "2026-11-24T10:45:07.032Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-592b5a2c6e2e",
-      "text": "Freiburg (ots) - Am Montag, 23.11.2026, ereignete sich gegen 07.55 Uhr an der Kreuzung Opfinger Straße/Uffhauser Straße in Freiburg ein Verkehrsunfall zwischen einem 22-jährigen E-Scooter-Fahrer und einem weißen Kastenwagen. Hierbei wurde der ... https://www. presseportal.de/blaulicht/pm/1 10970/6396827 # Explosion # Kastenwagen # Kollision # Transport # Unfall # Verkehrsbericht # Verkehrsunglück ",
-      "url": "https://freie-re.de/@blaulicht/117670922989579678",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T10:23:12.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-d1867e43116f",
-      "text": "Neumünster (ots) - Am 17. November 2026 kam es in Neumünster zu einem Verkehrsunfall, bei dem ein bislang unbekanntes Fahrzeug beschädigt worden sein könnte. Da der Zusammenstoß zunächst unbemerkt blieb und erst später bei der Polizei ... https://www. presseportal.de/blaulicht/pm/4 7769/6396801 # Drogenkriminalität # Explosion # Fahrzeug # Hyundai # Kriminalität # Transport # Unfallflucht # Verkeh",
-      "url": "https://freie-re.de/@blaulicht/117670859886281537",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T10:07:09.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-8944a66e2634",
-      "text": "Neumünster (ots) - Am 17. November 2026 kam es in Neumünster zu einem Verkehrsunfall, bei dem ein bislang unbekanntes Fahrzeug beschädigt worden sein könnte. Da der Zusammenstoß zunächst unbemerkt blieb und erst später bei der Polizei ... https://www. presseportal.de/blaulicht/pm/4 7769/6396801 # Drogenkriminalität # Explosion # Fahrzeug # Hyundai # Kriminalität # Transport # Unfallflucht # Verkeh",
-      "url": "https://freie-re.de/@blaulicht/117670859886952442",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T10:07:09.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-567677b12d8e",
-      "text": "Appenweier / B28 (ots) - Am Montagnachmittag, gegen 17 Uhr, kam es auf der B28 zu einer Kollision mit zwei Pkw. Nach bisherigen Erkenntnissen befuhr ein 72-Jähriger mit seinem Dacia die B28 von der Autobahn kommend in Richtung Oberkirch. Aus ... https://www. presseportal.de/blaulicht/pm/1 10975/6396743 # Autobahn # Bahn # Bahnunglück # Dacia # Explosion # Invalidität # Kollision # Personenkraftwag",
-      "url": "https://freie-re.de/@blaulicht/117670757716636640",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T09:41:10.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-9a0f7db86799",
-      "text": "Sonneberg (ots) - Am Montag, dem 23.11.2026, kam es gegen 15:00 Uhr in der Gustav-König-Straße in Sonneberg zu einem Verkehrsunfall, bei dem ein zehnjähriges Kind leicht verletzt wurde. Nach bisherigen Erkenntnissen wollte ein Pkw-Fahrer ... https://www. presseportal.de/blaulicht/pm/1 26724/6396718 # Explosion # Invalidität # Personenkraftwagen # Transport # Verkehrsbericht # Verkehrsunglück # Zus",
-      "url": "https://freie-re.de/@blaulicht/117670741456462004",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T09:37:02.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-37a125199166",
-      "text": "Термінове звернення Путіна у зв'язку з обваленням Кримського мосту та потопленням корабля в Лівії #Protest #Belarus #News",
-      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68823",
-      "platform": "mastodon",
-      "author": "worldprotest@uk.tg.anyfeed.cc",
-      "published": "2026-11-24T09:34:14.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 53.531,
-        "lon": 28.033,
-        "place": "Білорусь",
-        "country": "BY",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-c85c14b766ba",
-      "text": "Срочное обращение Путина в связи с обрушением Крымского моста и потоплением корабля в Ливии #Protest #Belarus #News",
-      "url": "https://tg.anyfeed.cc/post/worldprotest-68823",
-      "platform": "mastodon",
-      "author": "worldprotest@tg.anyfeed.cc",
-      "published": "2026-11-24T09:34:14.000Z",
-      "date": "2026-11-24",
-      "geocode": {
-        "lat": 53.531,
-        "lon": 28.033,
-        "place": "Білорусь",
-        "country": "BY",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-48c51821e877",
-      "text": "Altenburg (ots) - Am Montag, den 23.11.2026, ereignete sich gegen 07: 15 Uhr ein Verkehrsunfall in der Ortslage Hartha. Ein Pkw Fahrer verlor auf der nass-glatten Fahrbahn die Kontrolle über sein sommerbereiftes Fahrzeug und stieß in der weiteren ... https://www. presseportal.de/blaulicht/pm/1 26720/6396705 # Explosion # Fahrzeug # Invalidität # LPIG # Personenkraftwagen # Transport # Unfall # Ver",
-      "url": "https://freie-re.de/@blaulicht/117670672058583711",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T09:19:23.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-8a85c2a08130",
-      "text": "Nienburg (ots) - (KEM) Am Montag, den 23.11.2026, beschädigte ein bislang unbekannter Fahrzeugführer zwischen 11:45 Uhr und 11:55 Uhr auf einem Parkplatz in der Straße An der Stadtgrenze Höhe Hausnummer 1 in Nienburg einen abgestellten Pkw und ... https://www. presseportal.de/blaulicht/pm/5 7922/6396617 # Ermittlungsverfahren # Explosion # Fahrzeug # Fahrzeugführer # Kriminalität # Opel # Parkplat",
-      "url": "https://freie-re.de/@blaulicht/117670442089229891",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T08:20:54.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-9872ed972267",
-      "text": "Mayen, Im Möhren (ots) - Am 23.11.2026, kam in der Zeit von ca. 11:30 Uhr bis 12:30 Uhr, zu einen Verkehrsunfallflucht. Ein grauer, PKW Hyundai, parkte in der Einbahnstraße, in Höhe des Anwesens der Hausnummer 9, linksseitig am Fahrbahnrand. Ein ... https://www. presseportal.de/blaulicht/pm/1 17711/6396616 # Explosion # Fahrzeugführer # Hyundai # Verkehrsunfallflucht # Zeugen",
-      "url": "https://freie-re.de/@blaulicht/117670437530767065",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T08:19:45.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-c92726e70d4f",
-      "text": "Hagenburg (ots) - (KEM) Am Freitag, den 20.11.2026, beschädigte ein bislang unbekannter Fahrzeugführer zwischen 09:00 Uhr und 09:40 Uhr auf einem Parkplatz am Cord-Bothe-Platz in Hagenburg einen geparkten Pkw und entfernte sich anschließend ... https://www. presseportal.de/blaulicht/pm/5 7922/6396615 # Bahn # Bahnunglück # Explosion # Fahrzeug # Fahrzeugführer # Kriminalität # Parkplatz # Personen",
-      "url": "https://freie-re.de/@blaulicht/117670432965573599",
-      "platform": "mastodon",
-      "author": "blaulicht@freie-re.de",
-      "published": "2026-11-24T08:18:35.000Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-946d7689973b",
-      "text": "Unbelievable! Lead poisoning took out the Romans eventually didn't it? # lead # airpollution # trump # explosion # inadvisable https:// epa.illinois.gov/iowa-plant-up dates.html",
-      "url": "https://mastodon.social/@adritheonly/117669510912355299",
-      "platform": "mastodon",
-      "author": "adritheonly",
-      "published": "2026-11-24T04:24:06.110Z",
-      "date": "2026-11-24",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-85535a003a37",
-      "text": "📰 Qué pasaría si un arma nuclear explotara en el espacio 🔗 https://www. biobiochile.cl/noticias/bbcl-e xplica/bbcl-explica-notas/2026/11/24/que-pasaria-si-un-arma-nuclear-explotara-en-el-espacio.shtml # armanuclear # espacio # explosion",
-      "url": "https://mastodon.cl/@biobiochile/117669419229177839",
-      "platform": "mastodon",
-      "author": "biobiochile@mastodon.cl",
-      "published": "2026-11-24T04:00:47.000Z",
       "date": "2026-11-24",
       "geocode": null,
       "confidence": "неперевірений сигнал"
@@ -1606,91 +1667,6 @@
         "lon": 19.9373,
         "place": "Краків",
         "country": "PL",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-c73a83b91f8e",
-      "text": "⚠️🇵🇱Putin wins again diverting NATO air defense resources away from Ukraine: Poland asks NATO allies to help strengthen its air defenses (more) https://www. pravda.com.ua/eng/news/2026/11 /20/8063846/ # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris # London # Poland # Warsaw # Krakow # Media # News ",
-      "url": "https://mastodon.online/@SocraticEthics/117649869734429764",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-20T17:09:05.000Z",
-      "date": "2026-11-20",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-2b49ae2fb22f",
-      "text": "⛔️⚠️Russian missiles strike Poland 100 km from NATO military exercises (more) https:// newsukraine.rbc.ua/news/russia n-missiles-fall-in-poland-100-km-from-1795180500.html # Ukraine # Poland # Krakow # Warsaw # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # USAIsAStat",
-      "url": "https://mastodon.online/@SocraticEthics/117649843624440347",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-20T17:02:27.000Z",
-      "date": "2026-11-20",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-c2adb03e5a6e",
-      "text": "⛔️⚠️Russian breach of Polish airspace is proof Moscow threatens all of NATO — FM Sybiha (more) https:// english.nv.ua/nation/sybiha-sp eaks-out-after-russia-violates-polish-airspace-50660989.html # Ukraine # Poland # Warsaw # Krakow # Mastodon # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris # London # Media # N",
-      "url": "https://mastodon.online/@SocraticEthics/117649820025337504",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-20T16:56:27.000Z",
-      "date": "2026-11-20",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-84a14e0188c0",
-      "text": "⛔️🇵🇱NATO and Poland seek to mitigate Russian attack by forcing media to write “landed” rather than “exploded” - Russian missiles explodes in Poland during Coalition of the Willing military exercises (more) https:// english.nv.ua/nation/two-russi an-missiles-drone-fall-in-poland-ministry-50661040.html # Ukraine # Poland # Warsaw # Krakow # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin ",
-      "url": "https://mastodon.online/@SocraticEthics/117649800145811851",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-20T16:51:23.000Z",
-      "date": "2026-11-20",
-      "geocode": {
-        "lat": 49.9935,
-        "lon": 36.2304,
-        "place": "Харків",
-        "country": "UA",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-320c14cb34a8",
-      "text": "⛔️🇵🇱BREAKING: Two Russian missiles and jet drone attacked and violated Polish airspace and causing explosions inside NATO - Rutte and his feckless alliance will seek to downplay and legitimize attack (more) https://www. pravda.com.ua/eng/news/2026/11 /20/8063786/ # Ukraine # Poland # Warsaw # Krakow # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # ",
-      "url": "https://mastodon.online/@SocraticEthics/117649687701867406",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-20T16:22:47.000Z",
-      "date": "2026-11-20",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
         "precision": "місто"
       },
       "confidence": "неперевірений сигнал"
