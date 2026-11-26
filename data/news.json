@@ -1,115 +1,115 @@
 {
-  "generatedAt": "2026-11-25T19:21:19.472Z",
+  "generatedAt": "2026-11-26T03:40:23.966Z",
   "windowDays": 30,
   "note": "Кожен запис скопійовано з публічного RSS Google News або GDELT DOC. Скрипт нічого не дописує від себе. Усі записи мають мітку «одне джерело». Геоточка, якщо є, приблизна: її взято зі згадки міста чи країни в заголовку, а не з місця події.",
   "sources": [
     {
       "name": "Google News: теракт",
-      "ok": true,
-      "received": 89,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: вибух",
-      "ok": true,
-      "received": 103,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: стрілянина",
-      "ok": true,
-      "received": 100,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: протест",
-      "ok": true,
-      "received": 100,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: кібератака банк",
-      "ok": true,
-      "received": 37,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: Краків",
-      "ok": true,
-      "received": 75,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: Варшава",
-      "ok": true,
-      "received": 89,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: atak terrorystyczny",
-      "ok": true,
-      "received": 100,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: wybuch",
-      "ok": true,
-      "received": 100,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: strzelanina",
-      "ok": true,
-      "received": 83,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: protest Kraków OR Warszawa",
-      "ok": true,
-      "received": 71,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: cyberatak bank",
-      "ok": true,
-      "received": 67,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: terror attack",
-      "ok": true,
-      "received": 100,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: explosion attack",
-      "ok": true,
-      "received": 99,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: shooting attack",
-      "ok": true,
-      "received": 100,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: protest Poland",
-      "ok": true,
-      "received": 57,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: cyberattack bank",
-      "ok": true,
-      "received": 74,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "Google News: Krakow OR Kraków OR Warsaw",
-      "ok": true,
-      "received": 100,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 503"
     },
     {
       "name": "GDELT: Krakow OR Kraków OR Warsaw OR Warszawa",
@@ -119,15 +119,15 @@
     },
     {
       "name": "GDELT: (attack OR explosion OR shooting) (Poland OR Ukraine)",
-      "ok": true,
-      "received": 25,
-      "error": null
+      "ok": false,
+      "received": 0,
+      "error": "HTTP 429"
     },
     {
       "name": "GDELT: cyberattack (bank OR banking)",
-      "ok": false,
-      "received": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "received": 25,
+      "error": null
     },
     {
       "name": "GDELT: protest (Warsaw OR Krakow OR Poland)",
@@ -2810,6 +2810,22 @@
       "query": "terror attack"
     },
     {
+      "id": "n-d0303b5b9d4c",
+      "title": "Banks flag NBFC autopay risks amid rising cyberfraud cases",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/banks-flag-nbfc-autopay-risks-amid-rising-cyberfraud-cases/articleshow/136145128.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-11-25T01:45:00.000Z",
+      "date": "2026-11-25",
+      "lat": null,
+      "lon": null,
+      "place": null,
+      "country": null,
+      "geocodePrecision": null,
+      "confidence": "одне джерело",
+      "origin": "gdelt",
+      "query": "cyberattack (bank OR banking)"
+    },
+    {
       "id": "n-6376e2024660",
       "title": "Мадяр в Україні , США блокують 60 ракет Patriot , спротив ударам по танкерах РФ : новини дня",
       "link": "https://www.eurointegration.com.ua/news/2026/11/24/7250741/",
@@ -2872,6 +2888,22 @@
       "confidence": "одне джерело",
       "origin": "gdelt",
       "query": "(attack OR explosion OR shooting) (Poland OR Ukraine)"
+    },
+    {
+      "id": "n-db86fa4f8b05",
+      "title": "CIA Hacked in Cybersecurity Breach : Here What Was Impacted",
+      "link": "https://www.newsweek.com/cia-hacked-in-cybersecurity-breach-heres-what-was-impacted-12765090",
+      "source": "newsweek.com",
+      "published": "2026-11-25T00:30:00.000Z",
+      "date": "2026-11-25",
+      "lat": null,
+      "lon": null,
+      "place": null,
+      "country": null,
+      "geocodePrecision": null,
+      "confidence": "одне джерело",
+      "origin": "gdelt",
+      "query": "cyberattack (bank OR banking)"
     },
     {
       "id": "n-38dae11f5d4e",
@@ -3304,38 +3336,6 @@
       "confidence": "одне джерело",
       "origin": "google-news",
       "query": "Krakow OR Kraków OR Warsaw"
-    },
-    {
-      "id": "n-7b26719c39d3",
-      "title": "Kontrolowana detonacja materiałów z ołowiem. W stanie Iowa wezwano do ewakuacji",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalFzYVUyV21rLUROQzRzM2RwenN3ZXJHTWN1VWNDdnhHRzdReFhLbEpMV3lVdjhuUjhicUpYeFNWc2tkQmd1Qm0yenQ3UGp4dkFCRDFyMDM1VUU5eEd5aFZQMzVpTGIzNXBVbVFuY3pSRTlJYW5PN0E1X3dhNDVvbkdjYjBRMEZHaVh3SnB2R1ZxTFBpM0xCaHA0N2R6MGE3ZFBMczItUnNNaEl6S3RQZg?oc=5",
-      "source": "RMF24",
-      "published": "2026-11-24T19:57:00.000Z",
-      "date": "2026-11-24",
-      "lat": null,
-      "lon": null,
-      "place": null,
-      "country": null,
-      "geocodePrecision": null,
-      "confidence": "одне джерело",
-      "origin": "google-news",
-      "query": "wybuch"
-    },
-    {
-      "id": "n-6bf16263d5bb",
-      "title": "Katz: IDF ready to evacuate any West Bank areas in response to Palestinian terror",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWJ2VklNNDFBeGZ6YUNDa1k3TlFRa1kwdTNMUXBXdnFjZDVzV2J6TDk1Sm5zeERKTGNRWUd5NXV2MmVGSVVHa2xjOFl0RXBOd1ktRlQ2QTRxcmNxRmNMTXk2R0ZSUjRUcmFocjRn?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-11-24T19:54:03.000Z",
-      "date": "2026-11-24",
-      "lat": null,
-      "lon": null,
-      "place": null,
-      "country": null,
-      "geocodePrecision": null,
-      "confidence": "одне джерело",
-      "origin": "google-news",
-      "query": "terror attack"
     }
   ]
 }
