@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:59:03.096Z",
+  "generatedAt": "2026-11-27T01:47:32.818Z",
   "windowDays": 7,
   "note": "Неофіційні сигнали з публічних сторінок. Кожен запис має мітку «неперевірений сигнал». Текст — уривок джерела, не переказ.",
   "sources": [
@@ -119,7 +119,7 @@
       "name": "Telegram @meduzalive",
       "platform": "telegram",
       "ok": true,
-      "received": 1,
+      "received": 3,
       "error": null
     },
     {
@@ -133,7 +133,7 @@
       "name": "Telegram @wartranslated",
       "platform": "telegram",
       "ok": true,
-      "received": 4,
+      "received": 3,
       "error": null
     },
     {
@@ -196,7 +196,7 @@
       "name": "Mastodon #ukraine",
       "platform": "mastodon",
       "ok": true,
-      "received": 11,
+      "received": 7,
       "error": null
     },
     {
@@ -237,172 +237,305 @@
   ],
   "items": [
     {
-      "id": "s-e90d16b3b2f7",
-      "text": "⚠️🇺🇦Ted Boehly and Trump financed Russian terrorists strike at civilians in Kyiv and seven other oblasts (more) https:// english.nv.ua/nation/russia-hi ts-water-heating-networks-and-grain-ships-in-ukraine-attack-50662836.html # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Vote2028 # Republicans # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris #",
-      "url": "https://mastodon.online/@SocraticEthics/117683795868203233",
+      "id": "s-c6fb5782a7a4",
+      "text": "🔴 AirAlert_DroneAttack | 10/10 🇺🇦 Mass Russian drone attack on Ukraine - air alerts across 5 regions Russian attack drones heading toward Kyiv region (Dymer, Zhuky), Poltava region, Kharkiv region (Kegichivka), Dnipropetrovsk region (Ternivka, Pyatykhatky, Slavhorod). Air alert active, attack ongoing. # OSINT # NewsGroup # Ukraine # AirAlert # DroneAttack # RussianStrike",
+      "url": "https://social.vir.group/@analytics/117685865722451310",
       "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-26T16:56:57.000Z",
-      "date": "2026-11-26",
+      "author": "analytics@social.vir.group",
+      "published": "2026-11-27T01:43:20.000Z",
+      "date": "2026-11-27",
       "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
+        "lat": 49.9935,
+        "lon": 36.2304,
+        "place": "Харків",
+        "country": "UA",
         "precision": "місто"
       },
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-60d6eb4a96da",
-      "text": "# ToddBoehlyIsATerrorist ⛔️🇺🇸Trump and Ted Boehly financed Russia terrorist attack targets civilians in Kharkiv: Drone hits university building, killing woman (more) # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Vote2028 # Democrats # TedBoehly # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # USAIsA",
-      "url": "https://mastodon.online/@SocraticEthics/117683784652495398",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-26T16:54:06.000Z",
-      "date": "2026-11-26",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-9069a2a091ee",
-      "text": "⛔️🇺🇸Ted Boehly is a US Terrorist: Totally Illegal and against US Sanctions Laws: Trump-linked billionaire strikes deal to buy Lukoil’s foreign assets (more) https:// english.nv.ua/business/lukoil- assets-boehly-and-dfc-consortium-to-buy-russian-firm-s-energy-assets-50662782.html # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # Vote2028 # Democrats # USA # America",
-      "url": "https://mastodon.online/@SocraticEthics/117683766793399098",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-26T16:49:33.000Z",
-      "date": "2026-11-26",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-d31e64119c5e",
-      "text": "⚠️🇺🇦Trump and Le Pen backed Russian terrorist strike targets civilians in 20 locations, killing two people and injuring 3 others (more) https:// english.nv.ua/nation/russia-at tacks-ukraine-with-ballistic-missiles-drones-overnight-87-drones-downed-50662752.html # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # Co",
-      "url": "https://mastodon.online/@SocraticEthics/117683757037476793",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-26T16:47:04.000Z",
-      "date": "2026-11-26",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-e8e25c3021ea",
-      "text": "⚠️🇺🇦Europeans keep Russian money for themselves cutting off Ukraine as Ukraine’s infrastructure reconstruction funding lags nearly 57% behind schedule (more) https:// english.nv.ua/business/ukraine -s-infrastructure-rebuilding-funds-fall-nearly-57-short-of-targets-50662746.html # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK",
-      "url": "https://mastodon.online/@SocraticEthics/117683746061312494",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-26T16:44:17.000Z",
-      "date": "2026-11-26",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-31ad9743c86e",
-      "text": "⛔️🇰🇵Kim Jong Un calls for wider deployment of North Korea’s tactical nuclear weapons (more) https:// english.nv.ua/nation/kim-jong- un-says-north-korea-will-expand-tactical-nuclear-weapons-deployment-50662736.html # Ukraine # Press # Kyiv # Seoul # SouthKorea # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris # London # Media ",
-      "url": "https://mastodon.online/@SocraticEthics/117683737294518575",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-26T16:42:03.000Z",
-      "date": "2026-11-26",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-bea2dc6ce15d",
-      "text": "⛔️🇺🇸Bias is obvious: Compromised American unlawful government agent Kushner gushes over Putin's note-taking, crowns him peace-loving 'grandmaster of politics' (more) https:// english.nv.ua/nation/u-s-envoy -jared-kushner-praises-vladimir-putin-as-a-political-grandmaster-50662707.html # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Vote20",
-      "url": "https://mastodon.online/@SocraticEthics/117683731362769690",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-26T16:40:32.000Z",
-      "date": "2026-11-26",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-0cd4b864ab8e",
-      "text": "IISS попередив про ризик російських диверсій у Європі з масовими жертвами Росія дедалі частіше вдається до диверсій у Європі. За останній рік застосування вибухівки та підпалів приблизно подвоїлося, і це створює ризик атаки з масовими жертвами. Найбільше таких інцидентів зафіксували в Польщі та Німеччині, чия логістика й промисловість роблять найвагоміший внесок у підтримку України. Ці дані оприлю",
-      "url": "https://zn.ua/ukr/europe/iiss-poperediv-pro-rizik-rosijskikh-diversij-u-jevropi-z-masovimi-zhertvami.html",
+      "id": "s-8ad4e0fbe90c",
+      "text": "Вибухи на підприємстві та на ТЕЦ: в Росії атаковано завод, пов'язаний із виробництвом ракет «Іскандер» У російському місті Єфремов Тульської області внаслідок атаки безпілотників зафіксовано вибухи на території заводу синтетичного каучуку та в районі місцевої теплоелектроцентралі. Завод є важливим постачальником матеріалів для військово-промислового комплексу Росії. Про це повідомляє російське вид",
+      "url": "https://zn.ua/ukr/war/vibukhi-na-zavodi-ta-tets-v-rosiji-atakovano-zavod-povjazanij-iz-virobnitstvom-raket-iskander.html",
       "platform": "mastodon",
       "author": "zn_ua@rss.anyfeed.cc",
-      "published": "2026-11-26T16:38:11.000Z",
-      "date": "2026-11-26",
+      "published": "2026-11-27T01:23:00.000Z",
+      "date": "2026-11-27",
       "geocode": {
-        "lat": 51.088,
-        "lon": 10.372,
-        "place": "Німеччина",
-        "country": "DE",
+        "lat": 61.699,
+        "lon": 99.728,
+        "place": "Росія",
+        "country": "RU",
         "precision": "країна"
       },
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-101f0a3835f4",
-      "text": "⚠️🇺🇦Kushner, Trump and Musk aided Russian terrorists strike civilians in Kryvyi Rih with drones, damaging reported (more) https:// english.nv.ua/nation/russian-d rone-attacks-damage-infrastructure-mall-in-kryvyi-rih-50662713.html # Ukraine # Press # Kyiv # Odesa # Lviv # Vote2028 # Democrats # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris",
-      "url": "https://mastodon.online/@SocraticEthics/117683721577994482",
+      "id": "s-1a01638af2e5",
+      "text": "🟡 Threat Assessment / Regional Escalation | 7/10 🇺🇦 🇷🇺 Attack intensity on Odesa tripled - air alerts doubled compared to 2025 First Deputy Mayor of Odesa Oleksandr Filatov reported that attack intensity on the city in 2026 has increased almost threefold, with air alerts doubling compared to 2025. # OSINT # NewsGroup # Ukraine # Odesa # AirAlert # Escalation",
+      "url": "https://social.vir.group/@analytics/117685780529216151",
       "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-26T16:38:03.000Z",
-      "date": "2026-11-26",
+      "author": "analytics@social.vir.group",
+      "published": "2026-11-27T01:21:40.000Z",
+      "date": "2026-11-27",
       "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
+        "lat": 46.4825,
+        "lon": 30.7233,
+        "place": "Одеса",
+        "country": "UA",
         "precision": "місто"
       },
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-bc387d04bc77",
-      "text": "Ukraine hits Russian refinery in Krasnodar Krai, setting fire to key facilities Drones of the Defense Intelligence of Ukraine (DIU) attacked an oil refinery in the city of Slavyansk-on-Kuban in Russia’s Krasnodar Krai overnight on November 26. ukrinform.net/rubric-ato/4188986-ukraine-hits-russian-refinery-in-krasnodar-krai-setting-fire-to-key-facilities.html #Ukraine #News #UkraineWar",
-      "url": "https://www.ukrinform.net/rubric-ato/4188986-ukraine-hits-russian-refinery-in-krasnodar-krai-setting-fire-to-key-facilities.html",
+      "id": "s-d0a4eee6835f",
+      "text": "🔴 Air Alert / Drone Attack | 10/10 🇺🇦 Massive Russian drone strike across Ukraine - air alerts in 6 regions Reactive UAVs heading toward Bila Tserkva, Irpin, Hostomel (Kyiv region), Horodnia (Chernihiv region), Ternivka (Dnipropetrovsk region), Kamʼyanka (Cherkasy region). Reconnaissance UAV detected in Sumy region. Active air alert ongoing. # OSINT # NewsGroup # Ukraine # AirAlert # DroneStrik",
+      "url": "https://social.vir.group/@analytics/117685780440835175",
       "platform": "mastodon",
-      "author": "Ukrinform@rss.anyfeed.cc",
-      "published": "2026-11-26T16:35:00.000Z",
-      "date": "2026-11-26",
+      "author": "analytics@social.vir.group",
+      "published": "2026-11-27T01:21:39.000Z",
+      "date": "2026-11-27",
+      "geocode": {
+        "lat": 50.4501,
+        "lon": 30.5234,
+        "place": "Київ",
+        "country": "UA",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-b99b3c7763ba",
+      "text": "The governor of the Tula Region reported that four drones had been shot down and three windows had been broken. Against the backdrop of a burning factory, he also stated that “no damage to infrastructure has been recorded.” Apparently, those four downed drones were nesting dolls, because locals reported more than two dozen explosions 🤭 #Ukraine #UkraineWar #OSINT",
+      "url": "https://en.tg.anyfeed.cc/post/exilenova_plus-35357",
+      "platform": "mastodon",
+      "author": "exilenova_plus@en.tg.anyfeed.cc",
+      "published": "2026-11-27T01:17:57.000Z",
+      "date": "2026-11-27",
       "geocode": {
         "lat": 49.16,
         "lon": 31.253,
         "place": "Україна",
         "country": "UA",
         "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-89c2abf89cf9",
+      "text": "Be in chocolate People shelter in a metro station during Russian missile and drone strikes, amid Russia's attack on Ukraine, in Kyiv, Ukraine, November 20. REUTERS/Thomas Peter # photography # Ukraine # shelter",
+      "url": "https://mastodon.social/@appassionato/117685487971931568",
+      "platform": "mastodon",
+      "author": "appassionato",
+      "published": "2026-11-27T00:07:16.695Z",
+      "date": "2026-11-27",
+      "geocode": {
+        "lat": 50.4501,
+        "lon": 30.5234,
+        "place": "Київ",
+        "country": "UA",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-12adb3663e94",
+      "text": "🔥 Дроны атаковали завод, связанный с производством топлива для «Искандеров» в Тульской области , – osint-каналы По данным Генштаба ВСУ, Ефремовский завод синтетического каучука производит материалы, используемые при изготовлении твердого ракетного топлива и компонентов взрывчатых веществ. При этом предприятие и раньше подвергалось атакам – в частности, в декабре 2025 года, а также сентябре и октя",
+      "url": "https://tg.anyfeed.cc/post/uniannet-208203",
+      "platform": "mastodon",
+      "author": "uniannet@tg.anyfeed.cc",
+      "published": "2026-11-27T00:01:01.000Z",
+      "date": "2026-11-27",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-858960fa51a0",
+      "text": "There are 712 days until the next theoretical Presidential Election and 786 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 48% Until Next Inauguration : ████▒▒▒▒▒▒ 46% #protest Trump Action Tracker | Keeping...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n3art4gza42h",
+      "platform": "mastodon",
+      "author": "uspol.skyfleet.blue@bsky.brid.gy",
+      "published": "2026-11-26T23:03:03.982Z",
+      "date": "2026-11-27",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-eef93798418d",
+      "text": "Bobcat Resistance Coalition presents academic freedom demands to regents – The University Star https:// universitystar.com/37273/news/ bobcat-resistance-coalition-presents-academic-freedom-demands-to-regents/ # texas # censorship # academicfreedom # protest # resist # highereducation # college",
+      "url": "https://mas.to/@kctipton/117685223594922902",
+      "platform": "mastodon",
+      "author": "kctipton@mas.to",
+      "published": "2026-11-26T23:00:02.000Z",
+      "date": "2026-11-27",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-68881672a753",
+      "text": "‚In Frankreich berichten 10&nbsp;000 Frauen von verfrühten Perioden oder spontanen Fehlgeburten unmittelbar nach dem Kontakt mit Tränengas. Das Ausmass der Berichte ist beispiellos, doch ähnliche Warnungen gibt es weltweit schon seit mehreren Jahren……‘ Schmerzen, Zyklusstörungen oder Fehlgeburten … Seit Jahrzehnten häufen sich die Warnungen vor möglichen Auswirkungen von Tränengas auf Frauen https",
+      "url": "https://todon.eu/@autonomysolidarity/117684783932048647",
+      "platform": "mastodon",
+      "author": "autonomysolidarity@todon.eu",
+      "published": "2026-11-26T21:08:13.000Z",
+      "date": "2026-11-26",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-f89244756922",
+      "text": "‼️🇵🇱Moscow drone hybrid terror attacks: Poland shrugs off NATO’s capitulation instead creating no-fly zone on Ukraine border (FRANCE 24 English Media VIDEO) # Ukraine # Press # Kyiv # Odesa # Lviv # Krakow # Poland # Warsaw # Kharkiv # Vote2028 # Democrats # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # ",
+      "url": "https://mastodon.online/@SocraticEthics/117684750601871497",
+      "platform": "mastodon",
+      "author": "SocraticEthics@mastodon.online",
+      "published": "2026-11-26T20:59:45.000Z",
+      "date": "2026-11-26",
+      "geocode": {
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "place": "Брюссель",
+        "country": "BE",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-ebbb0b93925e",
+      "text": "Protest: No Public Money for Insect Greenwashing / Geen overheidsgeld voor greenwashing met insecten 11 december 2026, 10:30:00 CET - GMT+01:00 - Kingsfordweg, 1043 GP, Amsterdam, Netherlands https:// groups.animalrebellion.nl/even ts/63243cdf-3d4b-472f-a9a9-f3adb7d65af7",
+      "url": "https://groups.animalrebellion.nl/events/63243cdf-3d4b-472f-a9a9-f3adb7d65af7",
+      "platform": "mastodon",
+      "author": "ar_landbouw@groups.animalrebellion.nl",
+      "published": "2026-11-26T20:21:27.000Z",
+      "date": "2026-11-26",
+      "geocode": {
+        "lat": 52.3676,
+        "lon": 4.9041,
+        "place": "Амстердам",
+        "country": "NL",
+        "precision": "місто"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-0d06a207bbda",
+      "text": "Eindrücke vom heutigen Unistreik in Jena. https:// thueringen.social/@UniGegenRec hts_Jena/117682064610670894 # Streik # Protest # Wehrpflicht # Militarisierung # Kürzungen # Krieg # GenZ # GenZRegelt # Jena # Thüringen # Faschismus # Antifa",
+      "url": "https://thueringen.social/@UniGegenRechts_Jena/117684417044519964",
+      "platform": "mastodon",
+      "author": "UniGegenRechts_Jena@thueringen.social",
+      "published": "2026-11-26T19:34:55.000Z",
+      "date": "2026-11-26",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-39bb3f80d1b4",
+      "text": "There are 712 days until the next theoretical Presidential Election and 786 days until the next optional Inauguration Day. Presidency/Regime progress: ████▒▒▒▒▒▒ 48% Until Next Inauguration : ████▒▒▒▒▒▒ 46% #protest Trump Action Tracker | Keeping...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:r73kjlwfdyge5x2laitip3pc/post/3n3aefuei622z",
+      "platform": "mastodon",
+      "author": "uspol.skyfleet.blue@bsky.brid.gy",
+      "published": "2026-11-26T19:03:00.659Z",
+      "date": "2026-11-26",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-09e3356b23bc",
+      "text": "Гражданин Украины поджег себя напротив президентского дворца в Варшаве. Таким образом он якобы протестовал против дискриминации украинцев в Польше. Официально эта версия не подтверждена Вечером 25 ноября молодой мужчина совершил самоподжог в центре Варшавы. Инцидент произошел возле здания министерства культуры Польши, которое расположено через дорогу от президентского дворца. Пострадавшего достави",
+      "url": "https://t.me/meduzalive/151145",
+      "platform": "telegram",
+      "author": "Медуза — LIVE",
+      "published": "2026-11-26T18:55:36.000Z",
+      "date": "2026-11-26",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-c715255e8080",
+      "text": "[NYTimes-gifted article]: The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests By Hiroko Tabuchi Efforts to get rid of unstable explosives at an Iowa plant began more than a year ago but weren’t completed at that time, setting the stage for Wednesday’s controversial blast. https://www. nytimes.com/2026/11/26/us/iowa -lead-ammunition-stockpile-history.html?unlocked_article_co",
+      "url": "https://mstdn.social/@jackhutton/117684199605180226",
+      "platform": "mastodon",
+      "author": "jackhutton@mstdn.social",
+      "published": "2026-11-26T18:39:37.000Z",
+      "date": "2026-11-26",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-ffca7ba586ba",
+      "text": "This must be part of the preparation of a Europe-wide general strike . Such a struggle cannot be organized by making appeals to the union ... As anger over poverty, corruption and war mounts in Türkiye, unions have called two separate one-day rallies on November 29 and December 12. Workers must organize independently and prepare a Europe-wide general strike. # HABAŞ # Türkiye # workplacedeaths # D",
+      "url": "https://libranet.de/display/0b6b25a8-6b031d95-9d2d1484e1c38e8f",
+      "platform": "mastodon",
+      "author": "strike@libranet.de",
+      "published": "2026-11-26T18:20:55.000Z",
+      "date": "2026-11-26",
+      "geocode": {
+        "lat": 38.991,
+        "lon": 35.422,
+        "place": "Туреччина",
+        "country": "TR",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-c2ef75dd01c8",
+      "text": "Fascist paramilitary (ICE) violently shoves woman to the ground causing her to hit her head on the sidewalk because she was peacefully filming their crimes (Oakland, CA) Video Source https:// reddit.com/comments/1y5oskc If you know when this happened, please let me know # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # US",
+      "url": "https://social.linux.pizza/@CubitOom/117683997641373810",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-26T17:48:16.000Z",
+      "date": "2026-11-26",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-133648009ce3",
+      "text": "ФИФА подверглась кибератаке. Хакеры утверждают, что похитили данные о руководстве и финансовую отчетность Хакеры получили доступ к «ограниченному набору личной и деловой информации», заявили в самой федерации. В ФИФА не уточнили, когда именно произошла кибератака и какая точно информация была похищена. За неделю до этого группировка под названием Handsome Boy Hacking Club (HBHC) опубликовала в соц",
+      "url": "https://t.me/meduzalive/151140",
+      "platform": "telegram",
+      "author": "Медуза — LIVE",
+      "published": "2026-11-26T17:28:01.000Z",
+      "date": "2026-11-26",
+      "geocode": null,
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-8889d74df440",
+      "text": "Fascist Paramilitary (ICE) Corners Driver in Nighttime Parking Lot Stop, Demands ID Without a Traffic Violation, and Retreats When Challenged (California) Video Source https:// reddit.com/comments/1y5qpji Let me know if you know when and where this happened. # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # USAFascistShit",
+      "url": "https://social.linux.pizza/@CubitOom/117683903250034706",
+      "platform": "mastodon",
+      "author": "CubitOom@social.linux.pizza",
+      "published": "2026-11-26T17:24:15.000Z",
+      "date": "2026-11-26",
+      "geocode": {
+        "lat": 39.526,
+        "lon": -99.143,
+        "place": "США",
+        "country": "US",
+        "precision": "країна"
+      },
+      "confidence": "неперевірений сигнал"
+    },
+    {
+      "id": "s-3c99bfe5b943",
+      "text": "⛔️🇵🇱Man sets himself on fire in Warsaw demanded equal treatment for Ukrainian citizens (more) https://www. pravda.com.ua/eng/news/2026/11 /26/8064782/#Ukraine # Press # Kyiv # Poland # Warsaw # Krakow # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # USAIsAStateSponsorofTerror # 12",
+      "url": "https://mastodon.online/@SocraticEthics/117683876377819347",
+      "platform": "mastodon",
+      "author": "SocraticEthics@mastodon.online",
+      "published": "2026-11-26T17:17:25.000Z",
+      "date": "2026-11-26",
+      "geocode": {
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "place": "Брюссель",
+        "country": "BE",
+        "precision": "місто"
       },
       "confidence": "неперевірений сигнал"
     },
@@ -432,17 +565,6 @@
         "country": "BE",
         "precision": "місто"
       },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-99efd1461e3c",
-      "text": "Russians attack Zaporizhzhia in the evening, killing one and injuring four Russian forces attacked the Dniprovskyi district of Zaporizhzhia on the evening of 26 November, killing one person. Source: Mykhailo Semikin , acting head of Zaporizhzhia Oblast Military Administration Quote: \"One person has been killed as a result of an enemy attack. Another person has been injured. The enemy struck the Dn",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064848/",
-      "platform": "mastodon",
-      "author": "pravda_english@rss.anyfeed.cc",
-      "published": "2026-11-26T16:23:00.000Z",
-      "date": "2026-11-26",
-      "geocode": null,
       "confidence": "неперевірений сигнал"
     },
     {
@@ -1352,17 +1474,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-1b738d034fef",
-      "text": "https:// widdershins.verja.net/five-ton s-of-lead-azide-and-twenty-years-of-later/ # accountability # army # explosion # iowa # lead # thoughts",
-      "url": "https://social.verja.net/@widdershins/117678326495169888",
-      "platform": "mastodon",
-      "author": "widdershins@verja.net",
-      "published": "2026-11-25T17:46:01.000Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-770d1367a116",
       "text": "⛔️🇺🇸Poland disappointed by Trump and Republican-led U.S. government response to Russian terrorist’s missile attack on NATO member’s soil (more) https:// english.nv.ua/russian-war/pola nd-awaits-us-response-to-russian-missiles-entering-its-airspace-50662519.html # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Poland # Warsaw # Krakow # Vote2028 # Democrats # Kherson # Berlin # Brussels # USA ",
       "url": "https://mastodon.online/@SocraticEthics/117678208117093221",
@@ -1425,17 +1536,6 @@
       "confidence": "неперевірений сигнал"
     },
     {
-      "id": "s-8771b70a7d86",
-      "text": "Theater Review: The Getaway Driver at Central Square&nbsp;Theater The Getaway Driver Written by Deborah Salem Smith and Charlie Thurston Directed by Curt Columbus November 24, 2026: Central Square Theater , Cambridge, Massachusetts Cast Rebecca Gibel – Katherine Rachael Warren – Clare In 1970, 21-year-old student Katherine Ann Power become involved with a radical anti-war group that plotted an arm",
-      "url": "https://othemts.wordpress.com/2026/11/25/theater-review-the-getaway-driver-at-central-square-theater/",
-      "platform": "mastodon",
-      "author": "othemts.wordpress.com@othemts.wordpress.com",
-      "published": "2026-11-25T17:00:56.000Z",
-      "date": "2026-11-25",
-      "geocode": null,
-      "confidence": "неперевірений сигнал"
-    },
-    {
       "id": "s-0aba4d2c0bb4",
       "text": "⚠️🇵🇱Russians calls Poles \"Russophobic\" for protesting a terrorist missile attack and explosions on Polish soil (more) https://www. pravda.com.ua/eng/news/2026/11 /25/8064544/ # Ukraine # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Poland # Warsaw # Krakow # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # USAIs",
       "url": "https://mastodon.online/@SocraticEthics/117678099053911177",
@@ -1450,153 +1550,6 @@
         "country": "BE",
         "precision": "місто"
       },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-a6abe4815686",
-      "text": "# brd # israel # libanon # mossad # hezbollah # attentate # pager # völkerrecht # partei # pdl # protest # sitin # gewaltlosigkeit # b90grüne 2/2 „Konstantin von Notz verteidigt seine Schirmherrschaft für ein parlamentarisches Frühstück mit David Barnea, dem Ex-Mossad-Chef, der wegen Kriegsverbrechen angezeigt wurde. Wie wäre es mit ein bisschen Konsistenz in Sachen Völkerrecht?“ https://www. frei",
-      "url": "https://mastodon.social/@Gerd_Brodowski/117678094905049819",
-      "platform": "mastodon",
-      "author": "Gerd_Brodowski",
-      "published": "2026-11-25T16:47:07.461Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 31.461,
-        "lon": 35.004,
-        "place": "Ізраїль",
-        "country": "IL",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-d88d27b3095a",
-      "text": "Activists prevent ICE Fascists from sleeping at Hampton Inn. Don't sleep with ICE. NO REST FOR THE WICKED. (Concord, CA, 11/25/2026) Video Source https:// reddit.com/comments/1y55wy6 # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # USAFascistShitShow # icestapo # policestate # paramilitary # policemilitarization # federa",
-      "url": "https://social.linux.pizza/@CubitOom/117678041191206637",
-      "platform": "mastodon",
-      "author": "CubitOom@social.linux.pizza",
-      "published": "2026-11-25T16:33:27.000Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 39.526,
-        "lon": -99.143,
-        "place": "США",
-        "country": "US",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-55dfc3d7addf",
-      "text": "ICE Out of NJ Demands Freedom for Junior Marte & Other Former Delaney Hall Hunger Strikers Democracy Now! has obtained exclusive audio from inside Delaney Hall, the controversial immigrant detention center in Newark, New Jersey, operated by the for-profit prison company GEO Group. The audio was recorded over the summer during a labor and hunger strike organized by immigrant detainees. Junior Marte",
-      "url": "https://social.linux.pizza/@CubitOom/117678010143925215",
-      "platform": "mastodon",
-      "author": "CubitOom@social.linux.pizza",
-      "published": "2026-11-25T16:25:34.000Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 49.218,
-        "lon": -2.127,
-        "place": "Джерсі",
-        "country": "JE",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-0112e0a23e0e",
-      "text": "ICE argues with San Mateo County Supervisor Noelia Corzo for Enforcing Local Ordinance Against Illegal Staging Video Source https:// reddit.com/comments/1y4ql9r # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # USAFascistShitShow # icestapo # policestate # paramilitary # policemilitarization # federalinvasion # abolishice",
-      "url": "https://social.linux.pizza/@CubitOom/117677971614470278",
-      "platform": "mastodon",
-      "author": "CubitOom@social.linux.pizza",
-      "published": "2026-11-25T16:15:46.000Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 39.526,
-        "lon": -99.143,
-        "place": "США",
-        "country": "US",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-c3769ba03e59",
-      "text": "# brd # israel # libanon : # mossad / # hezbollah / # attentate / # pager / # völkerrecht / # partei / # pdl / # protest / # sitin / # gewaltlosigkeit „Abgeordnete der Linksfraktion im Bundestag haben kurzzeitig den Zugang zu einer Veranstaltung mit dem ehemaligen Chef des israelischen Geheimdienstes Mossad blockiert.“ https://www. deutschlandfunk.de/linken-abge ordnete-blockieren-veranstaltung-mi",
-      "url": "https://mastodon.social/@Gerd_Brodowski/117677946289559117",
-      "platform": "mastodon",
-      "author": "Gerd_Brodowski",
-      "published": "2026-11-25T16:09:19.769Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 31.461,
-        "lon": 35.004,
-        "place": "Ізраїль",
-        "country": "IL",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-d76b06a5508d",
-      "text": "Local Police block hospital entrance to protect ICE, enable assault on Journalist, and an Abduction (Providence Saint Joseph Medical Center Burbank, CA, 11/23/2026) Video Source https:// reddit.com/comments/1y4waqz # ice # iceout # eyesonice # resistance # resist # usa # politics # authoritarianism # fascism # protest # civildisobedience # USAFascistShitShow # icestapo # policestate # paramilitary",
-      "url": "https://social.linux.pizza/@CubitOom/117677944642873952",
-      "platform": "mastodon",
-      "author": "CubitOom@social.linux.pizza",
-      "published": "2026-11-25T16:08:54.000Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 39.526,
-        "lon": -99.143,
-        "place": "США",
-        "country": "US",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-42f3c5853e77",
-      "text": "Степногірськ, Запорізька область #Protest #Belarus #News",
-      "url": "https://uk.tg.anyfeed.cc/post/worldprotest-68834",
-      "platform": "mastodon",
-      "author": "worldprotest@uk.tg.anyfeed.cc",
-      "published": "2026-11-25T15:25:39.000Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 53.531,
-        "lon": 28.033,
-        "place": "Білорусь",
-        "country": "BY",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-55c44521804d",
-      "text": "Степногорск, Запорожская область #Protest #Belarus #News",
-      "url": "https://tg.anyfeed.cc/post/worldprotest-68834",
-      "platform": "mastodon",
-      "author": "worldprotest@tg.anyfeed.cc",
-      "published": "2026-11-25T15:25:39.000Z",
-      "date": "2026-11-25",
-      "geocode": {
-        "lat": 53.531,
-        "lon": 28.033,
-        "place": "Білорусь",
-        "country": "BY",
-        "precision": "країна"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-8e8cbfcfdadc",
-      "text": "Satellite imagery of the Novoshakhtinsk Oil Refinery has emerged following the November 23 attack. According to Bloomberg , due to refinery strikes, the occupiers cannot refine oil into gasoline and diesel, forcing them to sell off crude oil, which is 1.5 times cheaper.",
-      "url": "https://t.me/wartranslated/20588",
-      "platform": "telegram",
-      "author": "WarTranslated",
-      "published": "2026-11-25T14:32:48.000Z",
-      "date": "2026-11-25",
-      "geocode": null,
       "confidence": "неперевірений сигнал"
     },
     {
@@ -1675,40 +1628,6 @@
       "author": "SocraticEthics@mastodon.online",
       "published": "2026-11-23T16:36:35.000Z",
       "date": "2026-11-23",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-f6ab3fe698e9",
-      "text": "https:// youtu.be/FCz-mU9fers ⚡️🇬🇧Missile Strikes In Poland Show Putin Is Emboldened To Commit Terror Strikes Across NATO After Trump And Xi Meeting (Times Radio VIDEO) # Ukraine # Poland # Warsaw # Krakow # Press # Kyiv # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # US # PACE # CoE # Paris # London # Media # News # Headlines # NATO # USAIsAState",
-      "url": "https://mastodon.online/@SocraticEthics/117661623809146597",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-22T18:58:18.000Z",
-      "date": "2026-11-22",
-      "geocode": {
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "place": "Брюссель",
-        "country": "BE",
-        "precision": "місто"
-      },
-      "confidence": "неперевірений сигнал"
-    },
-    {
-      "id": "s-f2a71ddb4df3",
-      "text": "⚠️🇵🇱Another Feckless Response by Rutte: NATO to hold “emergency meeting” after Russian missiles enter and explode in Poland (more) https:// english.nv.ua/nation/russian-m issiles-in-poland-nato-to-meet-in-brussels-to-discuss-incident-50661424.html # Ukraine # Press # Kyiv # Poland # Warsaw # Krakow # Odesa # Lviv # Kharkiv # Kherson # Berlin # Brussels # USA # America # France # Germany # UK # U",
-      "url": "https://mastodon.online/@SocraticEthics/117661104177137529",
-      "platform": "mastodon",
-      "author": "SocraticEthics@mastodon.online",
-      "published": "2026-11-22T16:46:09.000Z",
-      "date": "2026-11-22",
       "geocode": {
         "lat": 50.8503,
         "lon": 4.3517,
